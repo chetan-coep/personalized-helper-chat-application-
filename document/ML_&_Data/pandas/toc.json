@@ -1,0 +1,286 @@
+{
+  "technology": "pandas",
+  "category": "ML_&_Data",
+  "documents": [
+    {
+      "id": "pandas_001",
+      "doc_order": 1,
+      "title": "User Guide \u2014 pandas 3.1.0 documentation",
+      "file": "001_docs_user_guide_index.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/index.html",
+      "content_hash": "ec52162c2d4d0154c57b941746cc5213ef1f443a86349c269cf9e8dbadadcee1"
+    },
+    {
+      "id": "pandas_002",
+      "doc_order": 2,
+      "title": "pandas documentation \u2014 pandas 3.1.0 documentation",
+      "file": "002_docs_index.html.md",
+      "source_url": "https://pandas.pydata.org/docs/index.html",
+      "content_hash": "9e395ab5a0b191aa66561e6a0bc8bfd2d4e1dd2fd196e8e1ff253f0f62f3a19e"
+    },
+    {
+      "id": "pandas_003",
+      "doc_order": 3,
+      "title": "Getting started \u2014 pandas 3.1.0 documentation",
+      "file": "003_docs_getting_started_index.html.md",
+      "source_url": "https://pandas.pydata.org/docs/getting_started/index.html",
+      "content_hash": "4e95fc9249124ffac6ab62cffdc813fc0e5dca04bc43bc7021a4b6291921b324"
+    },
+    {
+      "id": "pandas_004",
+      "doc_order": 4,
+      "title": "API reference \u2014 pandas 3.1.0 documentation",
+      "file": "004_docs_reference_index.html.md",
+      "source_url": "https://pandas.pydata.org/docs/reference/index.html",
+      "content_hash": "678a63e591a7f8a0ec6a16350f70999fb4ba651daf3a4bd1da62015fe8559e62"
+    },
+    {
+      "id": "pandas_005",
+      "doc_order": 5,
+      "title": "Release notes \u2014 pandas 3.1.0 documentation",
+      "file": "005_docs_whatsnew_index.html.md",
+      "source_url": "https://pandas.pydata.org/docs/whatsnew/index.html",
+      "content_hash": "795a685f89bff0e5eb83bb1f1819475682cf169eb7725c85ab32de28483b76b1"
+    },
+    {
+      "id": "pandas_006",
+      "doc_order": 6,
+      "title": "Intro to data structures \u2014 pandas 3.1.0 documentation",
+      "file": "006_docs_user_guide_dsintro.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/dsintro.html",
+      "content_hash": "2a303e64d132da0b8fd9808d9c30cea4b61c754a2ba6ccce5225e5e6213cf20a"
+    },
+    {
+      "id": "pandas_007",
+      "doc_order": 7,
+      "title": "Indexing and selecting data \u2014 pandas 3.1.0 documentation",
+      "file": "007_docs_user_guide_indexing.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/indexing.html",
+      "content_hash": "b8029e93f709ae0c235c4c4f85ae2a806d9d6c9ecfd79cf1ce6f2ba446580ae8"
+    },
+    {
+      "id": "pandas_008",
+      "doc_order": 8,
+      "title": "10 minutes to pandas \u2014 pandas 3.1.0 documentation",
+      "file": "008_docs_user_guide_10min.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/10min.html",
+      "content_hash": "60f61b79e7a8b315f1d14e69c89ea0ded87c4fe3823ccd09a9729ec6228f302c"
+    },
+    {
+      "id": "pandas_009",
+      "doc_order": 9,
+      "title": "Essential basic functionality \u2014 pandas 3.1.0 documentation",
+      "file": "009_docs_user_guide_basics.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/basics.html",
+      "content_hash": "9b022347d4c2b432c3eabef6beb9f27d3a73aeead4bb479f59efe16d32bc8b47"
+    },
+    {
+      "id": "pandas_010",
+      "doc_order": 10,
+      "title": "IO tools (text, CSV, HDF5, \u2026) \u2014 pandas 3.1.0 documentation",
+      "file": "010_docs_user_guide_io.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/io.html",
+      "content_hash": "4fc91f9b46175deb0b48fb73ac2ea4644097e26a3970d9268da0cb69c2b39af3"
+    },
+    {
+      "id": "pandas_011",
+      "doc_order": 11,
+      "title": "PyArrow Functionality \u2014 pandas 3.1.0 documentation",
+      "file": "011_docs_user_guide_pyarrow.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/pyarrow.html",
+      "content_hash": "4aa4dbfdc2d7ac37a3fd3ce484fe89b186cb7b7eeee7f39352d15e3d14a83c26"
+    },
+    {
+      "id": "pandas_012",
+      "doc_order": 12,
+      "title": "MultiIndex / advanced indexing \u2014 pandas 3.1.0 documentation",
+      "file": "012_docs_user_guide_advanced.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/advanced.html",
+      "content_hash": "b8ef721b7dcdeb3f5bc063dad3b129490ed340e53472992013a1fbcbba4b291c"
+    },
+    {
+      "id": "pandas_013",
+      "doc_order": 13,
+      "title": "Merge, join, concatenate and compare \u2014 pandas 3.1.0 documentation",
+      "file": "013_docs_user_guide_merging.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/merging.html",
+      "content_hash": "c8cb8c57f874a3de014e5d94b0600662e6619248014bcadd90862cdbe2185913"
+    },
+    {
+      "id": "pandas_014",
+      "doc_order": 14,
+      "title": "Reshaping and pivot tables \u2014 pandas 3.1.0 documentation",
+      "file": "014_docs_user_guide_reshaping.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/reshaping.html",
+      "content_hash": "048822e84c3fb88a333c60c07bf87d2d0a06da95c48184441f9e104dfff8b753"
+    },
+    {
+      "id": "pandas_015",
+      "doc_order": 15,
+      "title": "Working with text data \u2014 pandas 3.1.0 documentation",
+      "file": "015_docs_user_guide_text.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/text.html",
+      "content_hash": "5a1a9da03170f1d61837646509fdaaaadf6ca3096d0d68a7479fe6b83b31b348"
+    },
+    {
+      "id": "pandas_016",
+      "doc_order": 16,
+      "title": "Working with missing data \u2014 pandas 3.1.0 documentation",
+      "file": "016_docs_user_guide_missing_data.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/missing_data.html",
+      "content_hash": "42d093e23ca98b137e25c92446b3f0332e56e09f50ba2b4c22ae11a23ee034c1"
+    },
+    {
+      "id": "pandas_017",
+      "doc_order": 17,
+      "title": "Duplicate Labels \u2014 pandas 3.1.0 documentation",
+      "file": "017_docs_user_guide_duplicates.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/duplicates.html",
+      "content_hash": "41a6ceb89d7683cc8d5121bd35f7b625acf884ccb941d5cbb761e2ae215e2205"
+    },
+    {
+      "id": "pandas_018",
+      "doc_order": 18,
+      "title": "Categorical data \u2014 pandas 3.1.0 documentation",
+      "file": "018_docs_user_guide_categorical.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/categorical.html",
+      "content_hash": "42c5e90e6686a147122c606bc7c9c149500fde77cfffa7dcb876f66abbcbd083"
+    },
+    {
+      "id": "pandas_019",
+      "doc_order": 19,
+      "title": "Nullable integer data type \u2014 pandas 3.1.0 documentation",
+      "file": "019_docs_user_guide_integer_na.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/integer_na.html",
+      "content_hash": "5538e491be1065b03d52dcbb52fd47968d7dd0099a1f2469929e806b244e9297"
+    },
+    {
+      "id": "pandas_020",
+      "doc_order": 20,
+      "title": "Nullable Boolean data type \u2014 pandas 3.1.0 documentation",
+      "file": "020_docs_user_guide_boolean.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/boolean.html",
+      "content_hash": "7dd6c076d4920888d966309d4db899f3cc01d9c4822a2dd2c056d7468602cd91"
+    },
+    {
+      "id": "pandas_021",
+      "doc_order": 21,
+      "title": "Chart visualization \u2014 pandas 3.1.0 documentation",
+      "file": "021_docs_user_guide_visualization.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/visualization.html",
+      "content_hash": "5d2eae80f40f7678d906e156d46fee3b5ac2983dddbd00f64c58e2aa7bdca6ea"
+    },
+    {
+      "id": "pandas_022",
+      "doc_order": 22,
+      "title": "Table Visualization \u2014 pandas 3.1.0 documentation",
+      "file": "022_docs_user_guide_style.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/style.html",
+      "content_hash": "6de24112e0eafd069ec5f3ccbd87fa2f736e84781938d95d57f473a91923813b"
+    },
+    {
+      "id": "pandas_023",
+      "doc_order": 23,
+      "title": "User-Defined Functions (UDFs) \u2014 pandas 3.1.0 documentation",
+      "file": "023_docs_user_guide_user_defined_functions.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/user_defined_functions.html",
+      "content_hash": "8b3bdf730b5fcbf4bee92694e2a5eb2d071adf045f1c13e0172a85a2fb8ad72e"
+    },
+    {
+      "id": "pandas_024",
+      "doc_order": 24,
+      "title": "Group by: split-apply-combine \u2014 pandas 3.1.0 documentation",
+      "file": "024_docs_user_guide_groupby.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/groupby.html",
+      "content_hash": "06ef7d5cca500f83b09f55a100ff8573650850891ebb0b710a59d80ed7efc997"
+    },
+    {
+      "id": "pandas_025",
+      "doc_order": 25,
+      "title": "Windowing operations \u2014 pandas 3.1.0 documentation",
+      "file": "025_docs_user_guide_window.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/window.html",
+      "content_hash": "7c4ff0e57c935ed9af5121faf3d219311db9db0d031f6825dd5bf4eb28a6cf65"
+    },
+    {
+      "id": "pandas_026",
+      "doc_order": 26,
+      "title": "Time series / date functionality \u2014 pandas 3.1.0 documentation",
+      "file": "026_docs_user_guide_timeseries.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/timeseries.html",
+      "content_hash": "7aaeab87305fe99951cf3da556108b96ae32c14192013385df2b4a2a0dfb8e10"
+    },
+    {
+      "id": "pandas_027",
+      "doc_order": 27,
+      "title": "Time deltas \u2014 pandas 3.1.0 documentation",
+      "file": "027_docs_user_guide_timedeltas.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/timedeltas.html",
+      "content_hash": "f248583b2245438c4bb3ac06dd4a021b0a7370d7a8470edc03264a5947c7de04"
+    },
+    {
+      "id": "pandas_028",
+      "doc_order": 28,
+      "title": "Options and settings \u2014 pandas 3.1.0 documentation",
+      "file": "028_docs_user_guide_options.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/options.html",
+      "content_hash": "f3974d4a1c57b811ebdcd28f5bae3c123d239bb06753cd35e1e4aa15ef23e48f"
+    },
+    {
+      "id": "pandas_029",
+      "doc_order": 29,
+      "title": "Enhancing performance \u2014 pandas 3.1.0 documentation",
+      "file": "029_docs_user_guide_enhancingperf.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/enhancingperf.html",
+      "content_hash": "27e67ad11938eabec94d416df44618d015e4a4824b366cc1c5dc54a9b31b325c"
+    },
+    {
+      "id": "pandas_030",
+      "doc_order": 30,
+      "title": "Scaling to large datasets \u2014 pandas 3.1.0 documentation",
+      "file": "030_docs_user_guide_scale.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/scale.html",
+      "content_hash": "79efd86f0fb9b2291d2a207700d524501dd7025e89d3b12ff18d9c51803cdbba"
+    },
+    {
+      "id": "pandas_031",
+      "doc_order": 31,
+      "title": "Sparse data structures \u2014 pandas 3.1.0 documentation",
+      "file": "031_docs_user_guide_sparse.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/sparse.html",
+      "content_hash": "3566599f063eb38f0391546928413ae4cd355881b6444920ac75060d358c4690"
+    },
+    {
+      "id": "pandas_032",
+      "doc_order": 32,
+      "title": "Frequently Asked Questions (FAQ) \u2014 pandas 3.1.0 documentation",
+      "file": "032_docs_user_guide_gotchas.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/gotchas.html",
+      "content_hash": "a6507a816d9fd73a4bda48fbfd3b4539313b9708d75e7c3291be86e38247996b"
+    },
+    {
+      "id": "pandas_033",
+      "doc_order": 33,
+      "title": "Migration Guides \u2014 pandas 3.1.0 documentation",
+      "file": "033_docs_user_guide_migration.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/migration.html",
+      "content_hash": "652ab3a378bdab6962d5eee2c2f532cfbe3e889ddaeca2481c20b6cf4ee49454"
+    },
+    {
+      "id": "pandas_034",
+      "doc_order": 34,
+      "title": "Cookbook \u2014 pandas 3.1.0 documentation",
+      "file": "034_docs_user_guide_cookbook.html.md",
+      "source_url": "https://pandas.pydata.org/docs/user_guide/cookbook.html",
+      "content_hash": "b133ebec2fd32c1a88a2bd2f089ddd3ec3475e20c07ca5b7bb2d0b3449eed0bf"
+    },
+    {
+      "id": "pandas_035",
+      "doc_order": 35,
+      "title": "pandas",
+      "file": "035_docs.md",
+      "source_url": "https://pandas.pydata.org/docs",
+      "content_hash": "43664ecf29036f7f177e95f622f11a46c091532b2db86c4b1acfd064dd757767"
+    }
+  ]
+}

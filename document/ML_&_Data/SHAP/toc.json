@@ -1,0 +1,30 @@
+{
+  "technology": "SHAP",
+  "category": "ML_&_Data",
+  "documents": [
+    {
+      "id": "shap_001",
+      "doc_order": 1,
+      "title": "Welcome to the SHAP documentation \u2014 SHAP latest documentation",
+      "file": "001_en_latest.md",
+      "source_url": "https://shap.readthedocs.io/en/latest",
+      "content_hash": "e3d80e7338e91f40268bdcf17a2283205fd0d29922e4b3379be28fa6ecbb8133"
+    },
+    {
+      "id": "shap_002",
+      "doc_order": 2,
+      "title": "Welcome to the SHAP documentation \u2014 SHAP latest documentation",
+      "file": "002_en_latest.md",
+      "source_url": "https://shap.readthedocs.io/en/latest",
+      "content_hash": "e3d80e7338e91f40268bdcf17a2283205fd0d29922e4b3379be28fa6ecbb8133"
+    },
+    {
+      "id": "shap_003",
+      "doc_order": 3,
+      "title": "SHAP",
+      "file": "003_en_stable.md",
+      "source_url": "https://shap.readthedocs.io/en/stable",
+      "content_hash": "4d7b1dc4d2feeec353776e5d11431d41cb91bbdd552d7a38818c875724c4d8db"
+    }
+  ]
+}

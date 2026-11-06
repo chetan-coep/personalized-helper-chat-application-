@@ -1,0 +1,198 @@
+{
+  "technology": "Data_Structures_&_Algorithms",
+  "category": "Core_Concepts",
+  "documents": [
+    {
+      "id": "data_structures_&_algorithms_001",
+      "doc_order": 1,
+      "title": "Main Page - Algorithms for Competitive Programming",
+      "file": "001_index.html.md",
+      "source_url": "https://cp-algorithms.com/index.html",
+      "content_hash": "5a1aee14172e865b5fe533187f786df9fd0c235e247d64b6caed06795b26fd4e"
+    },
+    {
+      "id": "data_structures_&_algorithms_002",
+      "doc_order": 2,
+      "title": "Introduction to Dynamic Programming - Algorithms for Competitive Programming",
+      "file": "002_dynamic_programming_intro-to-dp.html.md",
+      "source_url": "https://cp-algorithms.com/dynamic_programming/intro-to-dp.html",
+      "content_hash": "557d2d7259128c8ce36871fe37db49877130f700feddae11a47cab887e58f8c2"
+    },
+    {
+      "id": "data_structures_&_algorithms_003",
+      "doc_order": 3,
+      "title": "Code of conduct - Algorithms for Competitive Programming",
+      "file": "003_code_of_conduct.html.md",
+      "source_url": "https://cp-algorithms.com/code_of_conduct.html",
+      "content_hash": "244d06b1342afdbb29a0a095fa63c0b97c1d46259bc0fe0fe42929605d04378c"
+    },
+    {
+      "id": "data_structures_&_algorithms_004",
+      "doc_order": 4,
+      "title": "How to Contribute - Algorithms for Competitive Programming",
+      "file": "004_contrib.html.md",
+      "source_url": "https://cp-algorithms.com/contrib.html",
+      "content_hash": "b634ccf0c2df7cd683b30896b78963c84044a3bff047de34a7e796fd03cbd13a"
+    },
+    {
+      "id": "data_structures_&_algorithms_005",
+      "doc_order": 5,
+      "title": "Navigation - Algorithms for Competitive Programming",
+      "file": "005_navigation.html.md",
+      "source_url": "https://cp-algorithms.com/navigation.html",
+      "content_hash": "13b063251eac3d892184da68716b70f3890120af269e910c9e6271d2c561dfd1"
+    },
+    {
+      "id": "data_structures_&_algorithms_006",
+      "doc_order": 6,
+      "title": "Preview - Algorithms for Competitive Programming",
+      "file": "006_preview.html.md",
+      "source_url": "https://cp-algorithms.com/preview.html",
+      "content_hash": "17d0099b170143ba0e5daf65bbdfd4105d0950b6d8d12174eb53352a931f11ea"
+    },
+    {
+      "id": "data_structures_&_algorithms_007",
+      "doc_order": 7,
+      "title": "Enumerating submasks of a bitmask - Algorithms for Competitive Programming",
+      "file": "007_algebra_all-submasks.html.md",
+      "source_url": "https://cp-algorithms.com/algebra/all-submasks.html",
+      "content_hash": "46c6b5160d858c6bd143007aae96334974dd4fd2723d4810271001ee65bf2857"
+    },
+    {
+      "id": "data_structures_&_algorithms_008",
+      "doc_order": 8,
+      "title": "Balanced Ternary - Algorithms for Competitive Programming",
+      "file": "008_algebra_balanced-ternary.html.md",
+      "source_url": "https://cp-algorithms.com/algebra/balanced-ternary.html",
+      "content_hash": "24baa81733b4fc22e7361efcbd15962ea90a68491e15b54b96c652615461f18a"
+    },
+    {
+      "id": "data_structures_&_algorithms_009",
+      "doc_order": 9,
+      "title": "Arbitrary-Precision Arithmetic - Algorithms for Competitive Programming",
+      "file": "009_algebra_big-integer.html.md",
+      "source_url": "https://cp-algorithms.com/algebra/big-integer.html",
+      "content_hash": "ad6b0f11531b92f707be07885392f8a1f8a3dcd45e305c26a13b6955b6b5e1e0"
+    },
+    {
+      "id": "data_structures_&_algorithms_010",
+      "doc_order": 10,
+      "title": "Binary Exponentiation - Algorithms for Competitive Programming",
+      "file": "010_algebra_binary-exp.html.md",
+      "source_url": "https://cp-algorithms.com/algebra/binary-exp.html",
+      "content_hash": "bde399035c42195aee99b70b60096c5337c5aed1e08147f38ee290d6dd679319"
+    },
+    {
+      "id": "data_structures_&_algorithms_011",
+      "doc_order": 11,
+      "title": "Bit manipulation - Algorithms for Competitive Programming",
+      "file": "011_algebra_bit-manipulation.html.md",
+      "source_url": "https://cp-algorithms.com/algebra/bit-manipulation.html",
+      "content_hash": "90f0085ae1be8afb2e70f120667118e89b3451ba4bc9fa6a6b3a014072fb16d1"
+    },
+    {
+      "id": "data_structures_&_algorithms_012",
+      "doc_order": 12,
+      "title": "Chinese Remainder Theorem - Algorithms for Competitive Programming",
+      "file": "012_algebra_chinese-remainder-theorem.html.md",
+      "source_url": "https://cp-algorithms.com/algebra/chinese-remainder-theorem.html",
+      "content_hash": "3be594e01b7ff8c1df6f92c07763bc12a9c28144a81488f7efc21d1febc59407"
+    },
+    {
+      "id": "data_structures_&_algorithms_013",
+      "doc_order": 13,
+      "title": "Continued fractions - Algorithms for Competitive Programming",
+      "file": "013_algebra_continued-fractions.html.md",
+      "source_url": "https://cp-algorithms.com/algebra/continued-fractions.html",
+      "content_hash": "a6a29fcedbce44f572dcd00b59d3865953d1b8991cff50807f33de35e5ba3106"
+    },
+    {
+      "id": "data_structures_&_algorithms_014",
+      "doc_order": 14,
+      "title": "Discrete Log - Algorithms for Competitive Programming",
+      "file": "014_algebra_discrete-log.html.md",
+      "source_url": "https://cp-algorithms.com/algebra/discrete-log.html",
+      "content_hash": "3c569fe642dabde7e25a15a6347b360b2e366241e14b828f99e38f18cdec87df"
+    },
+    {
+      "id": "data_structures_&_algorithms_015",
+      "doc_order": 15,
+      "title": "Discrete Root - Algorithms for Competitive Programming",
+      "file": "015_algebra_discrete-root.html.md",
+      "source_url": "https://cp-algorithms.com/algebra/discrete-root.html",
+      "content_hash": "512e1f1b81c5c662f487fb1a6d8cced14d8cd158b45278e9e6a8fc38c5b4497a"
+    },
+    {
+      "id": "data_structures_&_algorithms_016",
+      "doc_order": 16,
+      "title": "Number of divisors / sum of divisors - Algorithms for Competitive Programming",
+      "file": "016_algebra_divisors.html.md",
+      "source_url": "https://cp-algorithms.com/algebra/divisors.html",
+      "content_hash": "6e771ae94c8ea17672a1d411f08919eefafc4e5f95a25683ccc58f8eed75e28e"
+    },
+    {
+      "id": "data_structures_&_algorithms_017",
+      "doc_order": 17,
+      "title": "Euclidean algorithm for computing the greatest common divisor - Algorithms for Competitive Programming",
+      "file": "017_algebra_euclid-algorithm.html.md",
+      "source_url": "https://cp-algorithms.com/algebra/euclid-algorithm.html",
+      "content_hash": "d97da055dba86e8dce58abd8a7d85b64063e169cb0be699eb73ee239c2bb2c4f"
+    },
+    {
+      "id": "data_structures_&_algorithms_018",
+      "doc_order": 18,
+      "title": "Extended Euclidean Algorithm - Algorithms for Competitive Programming",
+      "file": "018_algebra_extended-euclid-algorithm.html.md",
+      "source_url": "https://cp-algorithms.com/algebra/extended-euclid-algorithm.html",
+      "content_hash": "7e94225b48e3a6dfe36f81844004232dc5f0c6db36081375848af045e99a4073"
+    },
+    {
+      "id": "data_structures_&_algorithms_019",
+      "doc_order": 19,
+      "title": "Finding Power of Factorial Divisor - Algorithms for Competitive Programming",
+      "file": "019_algebra_factorial-divisors.html.md",
+      "source_url": "https://cp-algorithms.com/algebra/factorial-divisors.html",
+      "content_hash": "2a7d6f014f5e71ada18d9753cd7a05f1f6447c4eaee60b9469e897d5045761fd"
+    },
+    {
+      "id": "data_structures_&_algorithms_020",
+      "doc_order": 20,
+      "title": "Factorial modulo p - Algorithms for Competitive Programming",
+      "file": "020_algebra_factorial-modulo.html.md",
+      "source_url": "https://cp-algorithms.com/algebra/factorial-modulo.html",
+      "content_hash": "2cfc1d588de12d65d05db57a6cbbcce989979144903aeead75dda811a6ce3837"
+    },
+    {
+      "id": "data_structures_&_algorithms_021",
+      "doc_order": 21,
+      "title": "Factoring Exponentiation - Algorithms for Competitive Programming",
+      "file": "021_algebra_factoring-exp.html.md",
+      "source_url": "https://cp-algorithms.com/algebra/factoring-exp.html",
+      "content_hash": "3c18eef47f9c6e7465eba5c0c25da936a9edd7ecfe4f6fc3d767c61fca93e53b"
+    },
+    {
+      "id": "data_structures_&_algorithms_022",
+      "doc_order": 22,
+      "title": "Integer factorization - Algorithms for Competitive Programming",
+      "file": "022_algebra_factorization.html.md",
+      "source_url": "https://cp-algorithms.com/algebra/factorization.html",
+      "content_hash": "ce9395d81aa253c105130b43ed56cb43b559e1ed82215c2829d73bcfdef9dc91"
+    },
+    {
+      "id": "data_structures_&_algorithms_023",
+      "doc_order": 23,
+      "title": "Fast Fourier transform - Algorithms for Competitive Programming",
+      "file": "023_algebra_fft.html.md",
+      "source_url": "https://cp-algorithms.com/algebra/fft.html",
+      "content_hash": "77b5c7cd1f049e3c8a2bd5db2cf3f29b733cc94b224ad57a7f20c8bed12135da"
+    },
+    {
+      "id": "data_structures_&_algorithms_024",
+      "doc_order": 24,
+      "title": "Fibonacci Numbers - Algorithms for Competitive Programming",
+      "file": "024_algebra_fibonacci-numbers.html.md",
+      "source_url": "https://cp-algorithms.com/algebra/fibonacci-numbers.html",
+      "content_hash": "e21f5d925775021eb70a5384536fdc0fadfd3c1ae8583a854d890574d7d6d532"
+    }
+  ]
+}

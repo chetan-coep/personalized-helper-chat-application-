@@ -1,0 +1,206 @@
+{
+  "technology": "TailwindCSS",
+  "category": "Frontend",
+  "documents": [
+    {
+      "id": "tailwindcss_001",
+      "doc_order": 1,
+      "title": "Upgrade guide - Getting started - Tailwind CSS",
+      "file": "001_docs_upgrade-guide.md",
+      "source_url": "https://tailwindcss.com/docs/upgrade-guide",
+      "content_hash": "e9231d211865bdb1a60fb08950de6ac13c937bb44ba3c75e5851b2a5fa6e4b01"
+    },
+    {
+      "id": "tailwindcss_002",
+      "doc_order": 2,
+      "title": "Installing Tailwind CSS with Vite - Tailwind CSS",
+      "file": "002_docs.md",
+      "source_url": "https://tailwindcss.com/docs",
+      "content_hash": "f4980ac03e8e83504d59a3ae38816aedd9c61be1216262c5ae45e24f2fadd8a8"
+    },
+    {
+      "id": "tailwindcss_003",
+      "doc_order": 3,
+      "title": "Installing Tailwind CSS with Vite - Tailwind CSS",
+      "file": "003_docs_installation.md",
+      "source_url": "https://tailwindcss.com/docs/installation",
+      "content_hash": "5ad8eb86bd9a583812e2921158697a94ab9106576eeb627cd432e0d5892c6c1b"
+    },
+    {
+      "id": "tailwindcss_004",
+      "doc_order": 4,
+      "title": "Editor setup - Getting started - Tailwind CSS",
+      "file": "004_docs_editor-setup.md",
+      "source_url": "https://tailwindcss.com/docs/editor-setup",
+      "content_hash": "37d038db2664e20b911cf45378d5733ad8ebb3cbd7ea4fbee7777c612ba4223d"
+    },
+    {
+      "id": "tailwindcss_005",
+      "doc_order": 5,
+      "title": "Compatibility - Getting started - Tailwind CSS",
+      "file": "005_docs_compatibility.md",
+      "source_url": "https://tailwindcss.com/docs/compatibility",
+      "content_hash": "3099fc04615c277636c91a46366177222fa8d88ec85b2e75b64e2697d2eb87cd"
+    },
+    {
+      "id": "tailwindcss_006",
+      "doc_order": 6,
+      "title": "Styling with utility classes - Core concepts - Tailwind CSS",
+      "file": "006_docs_styling-with-utility-classes.md",
+      "source_url": "https://tailwindcss.com/docs/styling-with-utility-classes",
+      "content_hash": "4043aaab400cf89dce259b849fb385ee717d8edd37986c2827d6e9ec34cbe5c4"
+    },
+    {
+      "id": "tailwindcss_007",
+      "doc_order": 7,
+      "title": "Hover, focus, and other states - Core concepts - Tailwind CSS",
+      "file": "007_docs_hover-focus-and-other-states.md",
+      "source_url": "https://tailwindcss.com/docs/hover-focus-and-other-states",
+      "content_hash": "fb60242ce43a6b0bc35589965302fd71fd871849c4a4e48cd144be41c11d6e8e"
+    },
+    {
+      "id": "tailwindcss_008",
+      "doc_order": 8,
+      "title": "Responsive design - Core concepts - Tailwind CSS",
+      "file": "008_docs_responsive-design.md",
+      "source_url": "https://tailwindcss.com/docs/responsive-design",
+      "content_hash": "5d4decfd4fc4dc0e67ed97ac73bf0e65c5ba63670af4a9092034b7cf712c78f1"
+    },
+    {
+      "id": "tailwindcss_009",
+      "doc_order": 9,
+      "title": "Dark mode - Core concepts - Tailwind CSS",
+      "file": "009_docs_dark-mode.md",
+      "source_url": "https://tailwindcss.com/docs/dark-mode",
+      "content_hash": "71421a471af9fa6c6efe8cc48c1d4075549f080dee81c7a5d435722e295cc601"
+    },
+    {
+      "id": "tailwindcss_010",
+      "doc_order": 10,
+      "title": "Theme variables - Core concepts - Tailwind CSS",
+      "file": "010_docs_theme.md",
+      "source_url": "https://tailwindcss.com/docs/theme",
+      "content_hash": "ca87585b2ce56f6db1c2f0eb8d1d647599b2668466a191dac89bcb4b2817f63b"
+    },
+    {
+      "id": "tailwindcss_011",
+      "doc_order": 11,
+      "title": "Colors - Core concepts - Tailwind CSS",
+      "file": "011_docs_colors.md",
+      "source_url": "https://tailwindcss.com/docs/colors",
+      "content_hash": "6e810bede60bdc637546af16a7f0255d21f7f15dbcedd533fd9c97f801ab2ed0"
+    },
+    {
+      "id": "tailwindcss_012",
+      "doc_order": 12,
+      "title": "Adding custom styles - Core concepts - Tailwind CSS",
+      "file": "012_docs_adding-custom-styles.md",
+      "source_url": "https://tailwindcss.com/docs/adding-custom-styles",
+      "content_hash": "d594bda7de90636e54070f060daa585d40acab92ab32b223195b5e0252ca391b"
+    },
+    {
+      "id": "tailwindcss_013",
+      "doc_order": 13,
+      "title": "Detecting classes in source files - Core concepts - Tailwind CSS",
+      "file": "013_docs_detecting-classes-in-source-files.md",
+      "source_url": "https://tailwindcss.com/docs/detecting-classes-in-source-files",
+      "content_hash": "ebe08635c9de081e9ab26f01ed3d7746e68e9498bf7b6b5cd6e3ecd5085825ea"
+    },
+    {
+      "id": "tailwindcss_014",
+      "doc_order": 14,
+      "title": "Functions and directives - Core concepts - Tailwind CSS",
+      "file": "014_docs_functions-and-directives.md",
+      "source_url": "https://tailwindcss.com/docs/functions-and-directives",
+      "content_hash": "07c9f0e59fcd57cb261d65847213439a6da47fbad2a92b56c414260a2d6f1689"
+    },
+    {
+      "id": "tailwindcss_015",
+      "doc_order": 15,
+      "title": "Preflight - Base styles - Tailwind CSS",
+      "file": "015_docs_preflight.md",
+      "source_url": "https://tailwindcss.com/docs/preflight",
+      "content_hash": "721e153f919b039195397f87e4c13d4137c61fb806dcf107dd50ca981bbc28c8"
+    },
+    {
+      "id": "tailwindcss_016",
+      "doc_order": 16,
+      "title": "aspect-ratio - Layout - Tailwind CSS",
+      "file": "016_docs_aspect-ratio.md",
+      "source_url": "https://tailwindcss.com/docs/aspect-ratio",
+      "content_hash": "357ebd89e7ad11c0fb89e38d94e853f88406f9be5a2fe287d261505066c74b8c"
+    },
+    {
+      "id": "tailwindcss_017",
+      "doc_order": 17,
+      "title": "columns - Layout - Tailwind CSS",
+      "file": "017_docs_columns.md",
+      "source_url": "https://tailwindcss.com/docs/columns",
+      "content_hash": "30752c6c42715c1db981601fb4bf02e93c81f9d7ae570aff666d9f518cee4262"
+    },
+    {
+      "id": "tailwindcss_018",
+      "doc_order": 18,
+      "title": "break-after - Layout - Tailwind CSS",
+      "file": "018_docs_break-after.md",
+      "source_url": "https://tailwindcss.com/docs/break-after",
+      "content_hash": "e2eecdedd38613285f16528dcf448ce658c3f9b891e8f42a008ae93efa5aa150"
+    },
+    {
+      "id": "tailwindcss_019",
+      "doc_order": 19,
+      "title": "break-before - Layout - Tailwind CSS",
+      "file": "019_docs_break-before.md",
+      "source_url": "https://tailwindcss.com/docs/break-before",
+      "content_hash": "2f2b70a18e91cdce05a12f3733b489de7412dcfa41805aeb9bd122d5b315e5ed"
+    },
+    {
+      "id": "tailwindcss_020",
+      "doc_order": 20,
+      "title": "break-inside - Layout - Tailwind CSS",
+      "file": "020_docs_break-inside.md",
+      "source_url": "https://tailwindcss.com/docs/break-inside",
+      "content_hash": "00d63046325beae1ee802770d72402fdaba6d0542dfd544f269aed976aef31ab"
+    },
+    {
+      "id": "tailwindcss_021",
+      "doc_order": 21,
+      "title": "box-decoration-break - Layout - Tailwind CSS",
+      "file": "021_docs_box-decoration-break.md",
+      "source_url": "https://tailwindcss.com/docs/box-decoration-break",
+      "content_hash": "88ba4ba5e4f075920b829363abb757fbf8ed37b4ebd7589de93a4c896f3c287e"
+    },
+    {
+      "id": "tailwindcss_022",
+      "doc_order": 22,
+      "title": "box-sizing - Layout - Tailwind CSS",
+      "file": "022_docs_box-sizing.md",
+      "source_url": "https://tailwindcss.com/docs/box-sizing",
+      "content_hash": "b32ff7d6e5493c3588057bca786d947b010b1c7567178fbc3516abfa1b0136fc"
+    },
+    {
+      "id": "tailwindcss_023",
+      "doc_order": 23,
+      "title": "display - Layout - Tailwind CSS",
+      "file": "023_docs_display.md",
+      "source_url": "https://tailwindcss.com/docs/display",
+      "content_hash": "e915a8411a5883e119ef8fea8d5f0de3e4ea0a37fc98e0f0ac4f30c23b2baa80"
+    },
+    {
+      "id": "tailwindcss_024",
+      "doc_order": 24,
+      "title": "float - Layout - Tailwind CSS",
+      "file": "024_docs_float.md",
+      "source_url": "https://tailwindcss.com/docs/float",
+      "content_hash": "989a4ac2ceb54479e4cecf47ece52782a72239549d14fcd3d2c199d507bf03e0"
+    },
+    {
+      "id": "tailwindcss_025",
+      "doc_order": 25,
+      "title": "clear - Layout - Tailwind CSS",
+      "file": "025_docs_clear.md",
+      "source_url": "https://tailwindcss.com/docs/clear",
+      "content_hash": "3ceccee2d2be4f6e5cb0358a852eb2279f4de4a0196eb1d3b8c81c3d2402bdac"
+    }
+  ]
+}

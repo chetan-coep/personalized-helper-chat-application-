@@ -1,0 +1,120 @@
+---
+id: "llms_012"
+technology: "LLMs"
+category: "ML & Data"
+title: "LLMs"
+doc_order: 12
+source_url: "https://huggingface.co/learn/robotics-course"
+language: "en"
+retrieved_at: "2026-11-01 22:41:25"
+content_hash: "01a39f1ad600eab471e4d0c1d86f4213b47a63ee11e2d1ade277e979826e7b24"
+---
+
+# LLMs
+
+Source: https://huggingface.co/learn/robotics-course
+
+---
+
+Robotics Course documentation
+
+Welcome to the 🤗 Robotics Course
+
+# 
+
+This free course will take you on a journey, **from classical robotics to modern learning-based approaches**, in understanding, implementing, and applying machine learning techniques to real robotic systems.
+
+This course is based on the [Robot Learning Tutorial](https://huggingface.co/spaces/lerobot/robot-learning-tutorial), which is a comprehensive guide to robot learning for researchers and practitioners. Here, we are attempting to distill the tutorial into a more accessible format for the community.
+
+This first unit will help you onboard. You’ll see the course syllabus and learning objectives, understand the structure and prerequisites, meet the team behind the course, learn about LeRobot and the surrounding Huggnig Face ecosystem, and explore the community resources that support your journey.
+
+This course bridges theory and practice in Robotics! It’s designed for students interested in understanding how machine learning is transforming robotics. Whether you’re new to robotics or looking to understand learning-based approaches, this course will guide you step by step.
+
+
+## 
+
+Across the course you will study classical robotics foundations and modern learning‑based approaches, learn to use LeRobot, work with real robotics datasets, and implement state‑of‑the‑art algorithms. The emphasis is on practical skills you can apply to real robotic systems.
+
+At the end of this course, you’ll understand:
+
+- how robots learn from data
+- why learning-based approaches are transforming robotics
+- how to implement these techniques using modern tools like LeRobot
+
+## 
+
+Here is the general syllabus for the robotics course. Each unit builds on the previous ones to give you a comprehensive understanding of Robotics.
+
+| # | Topic | Description | Released | 
+|---|---|---|---|
+| 0 | Welcome to the Robotics Course | Welcome, prerequisites, and course overview | ✅ | 
+| 1 | Course Introduction | Introduction to Robot Learning and LeRobot ecosystem | ✅ | 
+| 2 | Classical Robotics | Traditional approaches and their limitations | ✅ | 
+| 5 | Reinforcement Learning | How robots learn through trial and error | Coming Soon | 
+| 6 | Imitation Learning | Learning from demonstrations and behavioral cloning | Coming Soon | 
+| 7 | Foundation Models | Large-scale models for general robotics | Coming Soon | 
+
+## 
+
+You should be comfortable with basic Python (variables, functions, loops). Elementary linear algebra and calculus help for a full understanding but aren’t required.
+
+General familiarity with ML is a bonus, but we’ll explain concepts as they arise. Most importantly, bring curiosity about how machines learn to act in the physical world.
+
+**New to robotics?** This course is designed to be beginner-friendly! We start from the basics and build up to advanced concepts. If you have questions or need help, check out the [course community](https://huggingface.co/spaces/robotics-course/README/discussions) on the Hugging Face Hub.
+
+
+## 
+
+**Don’t have a robot?** No problem! You can follow along with simulated environments and datasets. The concepts translate directly to real hardware when you’re ready.
+
+
+## 
+
+This course is designed for **self-paced learning** with built-in assessments to help you track your progress.
+
+**Course Features:**
+
+- **Interactive quizzes** at the end of each major unit to test your understanding
+- **Hands-on code examples** using LeRobot
+- **Progressive difficulty** building from basic concepts to advanced techniques
+- **Real-world applications** connecting theory to practical robotics problems
+
+**No formal certification required** - the goal is to gain practical knowledge and skills in Robotics that you can apply to your own projects and research.
+
+## 
+
+This course is designed to be **self-paced and flexible**. Each unit should take approximately **30-45 minutes** to complete, including reading, understanding concepts, and working through code examples.
+
+**Recommended approach:**
+
+- **Take your time** with each concept - Robotics builds on foundational understanding
+- **Try the code examples** - hands-on experience reinforces learning
+- **Take the quizzes** - they help identify areas that need more review
+- **Take breaks** between units to let concepts sink in
+
+## 
+
+To get the most out of this robotics course, we recommend:
+
+1. **Engage with the community**: Join the discussion [here](https://huggingface.co/spaces/robotics-course/README/discussions), explore LeRobot [documentation](https://huggingface.co/docs/lerobot/index) and connect with other learners interested in Robotics.
+2. **Practice with the code examples**: The best way to understand Robotics is through hands-on experience with real datasets and algorithms.
+3. **Take the quizzes seriously**: They’re designed to reinforce key concepts and identify areas where you might need additional review.
+4. **Explore beyond the course**: Try LeRobot examples, experiment with different datasets, and see how the concepts apply to your own interests.
+
+## 
+
+We would like to extend our gratitude to the following projects and communities:
+
+- [LeRobot](https://github.com/huggingface/lerobot) - The open-source robotics library that powers this course
+- [PyTorch](https://pytorch.org) - The deep learning framework used throughout
+- The broader **robotics research community** for creating and sharing the datasets and algorithms that make Robotics possible
+
+## 
+
+Contributions are **welcome** 🤗
+
+- If you *found a bug or error*, please [open an issue](https://github.com/huggingface/robotic-course/issues/new) and **describe the problem**.
+- If you *want to improve the course*, you can contribute to the robotics community through LeRobot development.
+- If you *want to add content or suggest improvements*, engage with the robotics community and share your ideas.
+
+[Update on GitHub](https://github.com/huggingface/robotics-course/blob/main/units/en/unit0/1.mdx)

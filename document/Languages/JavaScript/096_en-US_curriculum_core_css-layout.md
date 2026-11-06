@@ -1,0 +1,122 @@
+---
+id: "javascript_096"
+technology: "JavaScript"
+category: "Languages"
+title: "JavaScript"
+doc_order: 96
+source_url: "https://developer.mozilla.org/en-US/curriculum/core/css-layout"
+language: "en"
+retrieved_at: "2026-11-01 21:54:29"
+content_hash: "580a6902020f811e0b7c45f9345fad61459b402f9a4c60ace216fb901347c092"
+---
+
+# JavaScript
+
+Source: https://developer.mozilla.org/en-US/curriculum/core/css-layout
+
+---
+
+Our final core CSS module looks deep into another crucial topic â creating layouts for modern websites. This module looks at floats, positioning, other modern layout tools, and building responsive designs that will adapt to different devices, screen sizes, and resolutions.
+
+# 5. CSS layout
+
+Styling
+
+Core modules
+
+## [5.1 CSS layout basics](https://developer.mozilla.org#5.1_css_layout_basics)
+
+Learning outcomes:
+
+- Understand that normal flow is the default way a browser lays out block and inline content.
+- Properties such as `display`, `float`, and `position` are intended to change how the browser lays out content.
+
+Resources:
+
+## [5.2 Floats](https://developer.mozilla.org#5.2_floats)
+
+Learning outcomes:
+
+- Understand the purpose of floats â for floating images inside columns of text, or possibly other fun techniques like drop caps and floating inset information boxes.
+- Understand that floats used to be used for multiple-column layouts, but this is no longer the case now better tools are available (see [5.4 Modern layout](https://developer.mozilla.org#5.4_modern_layout) for details).
+- Using the `float` property to create floats.
+- Clearing floats using `clear`, and the `display: flow-root` value.
+
+Resources:
+
+- [Floats](https://developer.mozilla.org/docs/Learn_web_development/Core/CSS_layout/Floats)
+- [All About FLoats](https://css-tricks.com/all-about-floats/), CSS-Tricks (2021)
+
+## [5.3 Positioning](https://developer.mozilla.org#5.3_positioning)
+
+Learning outcomes:
+
+- Understand that `static` positioning is the default way elements are positioned on the page.
+- Relative positioning: 
+  - Understand that relatively positioned elements remain in the normal flow.
+  - Final layout position can be modified using the `top`, `bottom`, `left`, and `right` properties.
+- Absolute positioning: 
+  - Absolute (and fixed/sticky) positioning takes elements completely out of the normal flow to sit in a separate layer.
+  - `top`, `bottom`, `left`, `right`, and `inset` have different effects on absolutely-positioned elements than on relatively-positioned ones.
+  - Setting the positioning context of a positioned element by positioning an ancestor element.
+- Fixed and sticky positioning: 
+  - Understand how these differ from absolute positioning.
+- Understand what z-index is, and how to control the stacking of positioned elements with the `z-index` property.
+
+Resources:
+
+- [Positioning](https://developer.mozilla.org/docs/Learn_web_development/Core/CSS_layout/Positioning)
+- [Aside: Position: relative & absolute](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0d5?via=mdn), Scrimba *Course Partner*
+- [Stacking context](https://developer.mozilla.org/docs/Web/CSS/Guides/Positioned_layout/Stacking_context)
+
+## [5.4 Modern layout](https://developer.mozilla.org#5.4_modern_layout)
+
+Learning outcomes:
+
+- In general, gain an understanding of modern CSS layout techniques.
+- Understand that, for basic placement tasks, the below tools could be overkill. Learn simple old-school techniques and where they are still effective: 
+  - Margins and padding for spacing.
+  - Auto margins for horizontal centering tasks (e.g. `margin: 0 auto`).
+- Flexbox: 
+  - Understand the purpose of flexbox â flexibly lay out a set of block or inline elements in one dimension. 
+    - See [We have a problem that flexbox can fix](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~039?via=mdn) by Scrimba *Course Partner* for a use case example.
+  - Understand flex terminology â flex container, flex item, main axis, and cross axis.
+  - `display: flex`, and what it gives you by default.
+  - Rows and columns, and how to wrap content onto new rows and columns.
+  - Flexible sizing of flex items.
+  - Justifying and aligning content.
+  - Adjusting flex item ordering.
+- CSS Grid: 
+  - Understand the purpose of CSS Grid â flexibly lay out a set of block or inline elements in two dimensions.
+  - Understand grid terminology â rows, columns, gaps, and gutters.
+  - `display: grid`, and what it gives you by default.
+  - Defining grid rows and columns: 
+    - The `fr` unit.
+    - `minmax()`.
+  - Defining gaps.
+  - Positioning elements on the grid.
+
+Resources:
+
+## [5.5 Responsive design](https://developer.mozilla.org#5.5_responsive_design)
+
+Learning outcomes:
+
+- Understand what responsive design is â designing web layouts so that they are flexible and work well across different device screen sizes, resolutions, etc.
+- Understand the relationship between modern layout tools such as grid and flexbox, and responsive design.
+- Media queries: 
+  - The mobile-first technique.
+  - Understand breakpoints.
+  - Using `width` and `height` media queries to create responsive layouts.
+- `<meta viewport="">`, and how to use it to get web documents to display appropriately on mobile devices.
+  - For the sake of accessibility, never set `user-scalable=no`.
+
+Resources:
+
+- [Build a responsive site: Module intro](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0ij?via=mdn), Scrimba *Course Partner*
+- [Responsive web design](https://developer.mozilla.org/docs/Learn_web_development/Core/CSS_layout/Responsive_Design)
+- [Media query fundamentals](https://developer.mozilla.org/docs/Learn_web_development/Core/CSS_layout/Media_queries)
+
+[Previous: 4. CSS text styling](https://developer.mozilla.org/en-US/curriculum/core/css-text-styling/)
+
+[Next: 6. JavaScript fundamentals](https://developer.mozilla.org/en-US/curriculum/core/javascript-fundamentals/)

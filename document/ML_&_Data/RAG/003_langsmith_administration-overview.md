@@ -1,0 +1,338 @@
+---
+id: "rag_003"
+technology: "RAG"
+category: "ML & Data"
+title: "Overview - Docs by LangChain"
+doc_order: 3
+source_url: "https://docs.langchain.com/langsmith/administration-overview"
+language: "en"
+retrieved_at: "2026-11-03 17:57:56"
+content_hash: "ae1dac68b2321e39138a844dc38828a982303350a96b4d7906993abe22104f3f"
+---
+
+# Overview - Docs by LangChain
+
+Source: https://docs.langchain.com/langsmith/administration-overview
+
+---
+
+This overview covers topics related to managing users, organizations, workspaces, agents, and applications within LangSmith.
+
+## Resource hierarchy
+
+LangSmith organizes access and data in four levels. An
+[organization](https://docs.langchain.com#organizations)contains workspaces. Each
+
+[workspace](https://docs.langchain.com#workspaces)contains agents or applications.
+
+[Agents and applications](https://docs.langchain.com#agents-and-applications)group the
+
+[resources](https://docs.langchain.com#resources)you work with, such as tracing projects and datasets.
+
+### Organizations
+
+An organization is a logical grouping of users within LangSmith that defines shared settings applying across all of its workspaces. These settings govern organization-wide concerns rather than individual projects within a workspace. Common organization-level configurations include user management, single sign-on (SSO), OAuth provider configuration, custom role creation, billing, and usage tracking. Typically, there is one organization per company. An organization can have multiple workspaces. For configuration details, see
+[Set up an organization](https://docs.langchain.com/langsmith/set-up-hierarchy#set-up-an-organization). When you log in for the first time, a personal organization will be created for you automatically. If you’d like to collaborate with others, you can create a separate organization and invite your team members to join. There are a few important differences between your personal organization and shared organizations:
+
+### Workspaces
+
+[resources](https://docs.langchain.com#resources)within an organization. Workspaces are commonly used to isolate business units, providing separation between projects and their associated resources. A workspace separates trust boundaries for resources and access control. Users are granted permissions at the workspace level, which determine their access to resources in that workspace, including tracing projects, datasets, annotation queues, and prompts. To configure one, see
+
+[Set up a workspace](https://docs.langchain.com/langsmith/set-up-hierarchy#set-up-a-workspace). For details on permissions, see
+
+[Workspace roles](https://docs.langchain.com#workspace-roles).
+
+### Agents and applications
+
+Agents and applications are logical groupings of resources within a workspace, one level below the workspace itself. The grouping keeps the UI organized by surfacing only the resources associated with the agent or application currently in context. What that grouping is called, and which control selects it, depends on which information architecture your workspace uses. The control at the top left tells you which one you are on:
+- **Agent-based workspaces** call it an [agent](https://docs.langchain.com/langsmith/agent-registry#agent), and an agent’s traces divide further into [environments](https://docs.langchain.com/langsmith/agent-environments) drawn from a fixed set of four. Select one from the agent picker in the top bar, or select **All agents** to see every resource in the workspace. For more information, see [Navigate agents](https://docs.langchain.com/langsmith/navigate-agents).
+- **Project-based workspaces** call it an application, which can group any project within a team rather than an agent alone. Select one from the **Application** dropdown at the top of the sidebar in the [LangSmith UI](https://smith.langchain.com?utm_source=docs&utm_medium=cta&utm_campaign=langsmith-signup&utm_content=langsmith-administration-overview), or select **All applications** to see every resource in the workspace.
+
+Both are built on top of
+
+[resource tags](https://docs.langchain.com/langsmith/administration-overview#resource-tags)and can be used to control resource access using
+
+[ABAC](https://docs.langchain.com/langsmith/organization-workspace-operations#access-policies). Any resource can be created without being tagged to either one. Those resources are visible when all agents or applications are in view.
+
+### Resources
+
+Resources are the concrete entities used to build, run, and observe applications and agents. Examples include
+[tracing projects](https://docs.langchain.com/langsmith/observability-concepts#tracing-projects),
+
+[prompts](https://docs.langchain.com/langsmith/prompt-context-hub),
+
+[datasets](https://docs.langchain.com/langsmith/manage-datasets), and
+
+[deployments](https://docs.langchain.com/langsmith/deployment). Resources are scoped to a specific agent or application.
+
+### Where settings live
+
+The following diagram shows the relationship between organizations, workspaces, agents or applications, and resources: See the table below for details on which features are available in which scope(s):
+[self-hosted user management docs](https://docs.langchain.com/langsmith/self-host-user-management).
+
+### Resource tags
+
+Resource tags allow you to further segregate resources within a workspace for use with
+[ABAC](https://docs.langchain.com/langsmith/organization-workspace-operations#access-policies). Each tag is a key-value pair that you can assign to a resource. LangSmith resource tags are very similar to tags in cloud services like
+
+[AWS](https://docs.aws.amazon.com/tag-editor/latest/userguide/tagging.html). Navigate to
+
+**Settings**in the
+
+[LangSmith UI](https://smith.langchain.com?utm_source=docs&utm_medium=cta&utm_campaign=langsmith-signup&utm_content=langsmith-administration-overview)to select the
+
+**Resource tags**page in the sidebar.
+
+## Users and roles
+
+This section covers who can access LangSmith and what they can do: users, the three types of API keys, and the roles that grant permissions.
+### Users
+
+A user is a person who has access to LangSmith. Users can be members of one or more organizations and workspaces within those organizations. Manage members from the
+**Settings**page, which has separate sections for the organization and the workspace:
+
+- **Organization** > **Members**: Manage members of the organization.
+- **Workspace** > **Members**: Manage members of the current workspace.
+
+### API keys
+
+LangSmith API keys authenticate requests to LangSmith. They are separate from the model provider keys, such as OpenAI or Anthropic keys, that your application uses to call models.
+#### Expiration dates
+
+When you create an API key, you have the option to set an expiration date. Adding an expiration date to keys enhances security and minimizes the risk of unauthorized access. For example, you may set expiration dates on keys for temporary tasks that require elevated access. Once expired, an API key is no longer valid and cannot be reactivated or have its expiration modified.
+#### Personal access tokens (PATs)
+
+Personal Access Tokens (PATs) are used to authenticate requests to the LangSmith API. They are created by users and scoped to a user. The PAT will have the same permissions as the user that created it. PATs are prefixed with`lsv2_pt_`
+Members can deactivate, reactivate, or delete their own PATs. [Organization Admins](https://docs.langchain.com/langsmith/rbac#organization-admin)and
+
+[Organization Operators](https://docs.langchain.com/langsmith/rbac#organization-operator)can also list, deactivate, reactivate, and delete any member’s PAT. Deactivating a token stops authentication but keeps its record, owner, and last use visible with a
+
+**Deactivated**badge. Deactivation is reversible; deletion permanently removes the record. Reactivation preserves the original expiration date and is unavailable once that date has passed. Because authentication results are cached, these changes take effect within a minute rather than instantly. For the steps and authentication-cache timing, refer to
+
+[Deactivate or delete a personal access token](https://docs.langchain.com/langsmith/create-account-api-key#deactivate-or-delete-a-personal-access-token).
+
+#### Service keys
+
+Service keys are similar to PATs, but are used to authenticate requests to the LangSmith API on behalf of a service account. Only admins can create service keys. We recommend using service keys for applications or services that need to interact with the LangSmith API, such as LangGraph agents or other integrations. Service keys may be scoped to a single workspace, multiple workspaces, or the entire organization. They can be used to authenticate requests to the LangSmith API for whichever workspace(s) it has access to. Service keys are prefixed with`lsv2_sk_`.
+Service keys can only be deleted, not deactivated.
+#### Tracing keys
+
+Tracing keys are organization-owned credentials with fixed permissions to submit traces and create projects in selected workspaces. They do not grant access to stored traces, experiments, saved views, or administration. Tracing keys use the`lsv2_tr_` prefix. Their scope is fixed at creation, and they remain valid when the creator leaves the organization. They follow service-key expiry limits. For creation permissions, scope limits, and deletion rules, refer to [Tracing keys](https://docs.langchain.com/langsmith/create-account-api-key#tracing-keys).
+
+### Roles
+
+Each user has one organization role, which applies across the organization. On Enterprise plans, each user also has one workspace role in every workspace they belong to. Manage both in
+**Settings**>
+
+**Roles**. For more information, see
+
+[Role-based access control](https://docs.langchain.com/langsmith/rbac).
+
+#### Organization roles
+
+Your organization role determines your
+[organization-level permissions](https://docs.langchain.com/langsmith/organization-workspace-operations)and your workspace membership. Organization roles are distinct from
+
+[workspace roles](https://docs.langchain.com#workspace-roles)(an Enterprise feature), and apply across all workspaces in the organization. Each organization role affects workspace membership as follows:
+
+- The role of [Organization Admin](https://docs.langchain.com/langsmith/rbac#organization-admin) grants a user full access to manage all organization configuration, users, billing, and workspaces.
+  - An Organization Admin has `Admin` access to all workspaces in an organization.
+- The role of [Organization Operator](https://docs.langchain.com/langsmith/rbac#organization-operator) grants a user management access to workspaces and non-admin users for day-to-day operations, without admin-level privileges such as managing Organization Admins.
+  - An Organization Operator is added only to the workspaces they create or are invited to.
+- The role of [Organization User](https://docs.langchain.com/langsmith/rbac#organization-user) grants a user permission to read organization information. However, they cannot execute any write actions at the organization level. An Organization User may create [Personal Access Tokens](https://docs.langchain.com#personal-access-tokens-pats).
+  - An Organization User can be added to a subset of workspaces and assigned workspace roles as usual (if RBAC is enabled), which specify permissions at the workspace level.
+- The role of [Organization Viewer](https://docs.langchain.com/langsmith/rbac#organization-viewer) is equivalent to Organization User, but a user with this role **cannot** create Personal Access Tokens. Self-hosted installations require Helm chart version 0.11.25 or later for this role.
+- The role of [Organization Restricted](https://docs.langchain.com/langsmith/rbac#organization-restricted) grants a user access to their assigned workspaces without organization-wide read access, so the user cannot list organization members. Workspace-scoped service keys can also hold this role.
+
+[Plus and Enterprise plans](https://langchain.com/pricing). In Developer organizations (single workspace), all users are assigned the Organization Admin role by default.See
+
+[Security settings](https://docs.langchain.com/langsmith/manage-organization-by-api#security-settings)for instructions on how to disable PAT creation for the entire organization.
+
+[organization setup guide](https://docs.langchain.com/langsmith/set-up-hierarchy#organization-roles). Organization-level permissions by role:
+
+[Organization and workspace reference](https://docs.langchain.com/langsmith/organization-workspace-operations).
+
+#### Workspace roles
+
+- [Workspace Admin](https://docs.langchain.com/langsmith/rbac#workspace-admin) has full access to all resources within the workspace.
+- [Workspace Editor](https://docs.langchain.com/langsmith/rbac#workspace-editor) can create, edit, and delete most resources, but cannot delete runs, change workspace settings, or manage workspace members.
+- [Workspace Viewer](https://docs.langchain.com/langsmith/rbac#workspace-viewer) has read-only access to all resources within the workspace.
+
+[Organization Admins](https://docs.langchain.com/langsmith/rbac#organization-admin)can also create and edit custom roles with specific permissions for different resources.
+
+## Separate environments
+
+An environment is a stage in your release process, such as development, staging, or production. How to separate environments depends on which information architecture your workspace uses:
+- **Agent-based workspaces** have environments built in, drawn from a fixed set of four. An [agent](https://docs.langchain.com/langsmith/agent-registry#agent) divides its traces across them, and every trace lands in one environment of one agent, so no tagging convention is required. For more information, see [Agent environments](https://docs.langchain.com/langsmith/agent-environments).
+- **Project-based workspaces** use [resource tags](https://docs.langchain.com#resource-tags) to organize resources by environment, with the default tag key `Environment` and a different value per environment (for example, `dev`, `staging`, `prod`).
+
+In either case, avoid using separate workspaces for environment separation, because resources cannot be shared across workspaces, which prevents you from promoting resources such as prompts between environments.
+
+**Resource tags vs. commit tags for prompt management**While both types of tags can use environment terminology like
+
+`dev`, `staging`, and `prod`, they serve different purposes:
+- **Resource tags** (`Environment: prod`): Use these to *organize* resources across your workspace. Apply resource tags to tracing projects, datasets, and other resources (including prompts) to group them by environment.
+- [Commit tags](https://docs.langchain.com/langsmith/manage-prompts#commit-tags) (`prod` tag): Use these to manage which [prompt version](https://docs.langchain.com/langsmith/prompt-context-hub#prompts) your code references. Commit tags are labels that point to specific commits in a prompt’s history. When your code pulls a prompt by tag name (e.g., `client.pull_prompt("prompt-name:prod")`), it retrieves whichever commit that tag currently points to. To promote a prompt from `staging` to `prod`, move the commit tag to point to the desired version.
+
+Resource tags organize
+
+**which resources**belong to an environment. Commit tags let you control
+
+**which version**of a prompt your code references without changing the code itself.
+
+## Usage and billing
+
+### Data retention
+
+This section covers how data retention works and how it’s priced in LangSmith.
+#### Why retention matters
+
+- **Privacy**: Many data privacy regulations, such as GDPR in Europe or CCPA in California, require organizations to delete personal data once it’s no longer necessary for the purposes for which it was collected. Setting retention periods aids in compliance with such regulations.
+- **Cost**: LangSmith charges less for traces that have low data retention. For more information, learn how to [enforce spend limits](https://docs.langchain.com/langsmith/billing#enforce-spend-limits).
+
+#### How it works
+
+LangSmith has two tiers of traces based on Data Retention with the following characteristics:
+**Data deletion after retention ends**After the specified retention period, traces are no longer accessible in the tracing project UI or via the API. All user data associated with the trace (e.g. inputs and outputs) is deleted from our internal systems within a day thereafter. Some metadata associated with each trace may be retained indefinitely for analytics and billing purposes.
+
+#### Data retention auto-upgrades
+
+Most traces use base retention. Some actions, such as online evaluators and automation rules, can extend a trace to a longer retention period at a higher cost. You control which actions extend retention. When you use certain features with`base` tier traces, their data retention may be automatically upgraded to `extended` tier. This increases both the retention period and the cost of the trace.
+Retention behavior by action:
+- **Feedback via API or SDK**: Feedback is added to any run on the trace (or any trace in the thread) through an API or SDK call that explicitly passes `extend_trace_retention=true` (`extendTraceRetention: true` in TypeScript). For more information, see [Attach user feedback](https://docs.langchain.com/langsmith/attach-user-feedback). The LangSmith UI sends feedback and notes without extending retention.
+- **Online evaluators**: An online evaluator scores the trace and its retention setting is enabled. Both trace-level and thread-level evaluators can opt out of this upgrade.
+- **Automation rules**: An [automation rule](https://docs.langchain.com/langsmith/rules#create-a-rule) with retention extension enabled matches any run within a trace. Matching a single run upgrades the entire trace, not just that run. A rule whose [item type](https://docs.langchain.com/langsmith/rules#set-the-item-type-to-runs-or-threads) is **Threads** upgrades every trace in the matched thread, not only the most recent one.
+- **Manual annotation queue adds** (no upgrade): Manually adding runs or threads to an [annotation queue](https://docs.langchain.com/langsmith/annotation-queues#assign-runs-and-threads-to-a-single-run-queue) does not upgrade retention by default.
+
+This change applies to new actions only. Traces that were already upgraded by a previous action keep their extended retention.
+
+[Manage evaluator trace retention](https://docs.langchain.com/langsmith/evaluators#manage-evaluator-trace-retention).
+
+**Why auto-upgrade traces?**We have two reasons behind the auto-upgrade model for tracing:
+
+1. We think that traces that match any of these conditions are fundamentally more interesting than other traces, and therefore it is good for users to be able to keep them around longer.
+2. We philosophically want to charge customers an order of magnitude lower for traces that may not be interacted with meaningfully. We think auto-upgrades align our pricing model with the value that LangSmith brings, where only traces with meaningful interaction are charged at a higher rate.
+
+If you have questions or concerns about our pricing model, please feel free to contact support via
+
+[support.langchain.com](https://support.langchain.com)and let us know your thoughts!
+
+**How does data retention affect downstream features?**The following features interact with retention differently:
+
+- **Experiments**: Runs are created at extended retention by default.
+- **Automation rules and evaluators**: Upgrade matching traces to extended retention when their retention setting is enabled. Thread-level rules and evaluators upgrade every trace in the matched thread.
+- **UI feedback, notes, and annotation queues**: Leave a trace’s retention tier unchanged.
+
+Other features behave independently of a trace’s retention tier:
+
+- **Monitoring**: The monitoring tab will continue to work even after a base tier trace’s data retention period ends. It is powered by trace metadata that exists for >30 days, meaning that your monitoring graphs will continue to stay accurate even on `base` tier traces.
+- **Datasets**: Datasets have an indefinite data retention period. Restated differently, if you add a trace’s inputs and outputs to a dataset, they will never be deleted. We suggest that if you are using LangSmith for data collection, you take advantage of the datasets feature.
+
+#### Billing model
+
+**Billable metrics**On your LangSmith invoice, you will see two metrics that we charge for:
+
+- LangSmith Traces (Base Charge)
+- LangSmith Traces (Extended Data Retention Upgrades).
+
+The first metric includes all traces, regardless of tier. The second metric just counts the number of extended retention traces.
+
+**Why measure all traces + upgrades instead of base and extended traces?**A natural question to ask when considering our pricing is why not just show the number of
+
+`base` tier and `extended` tier traces directly on the invoice?
+While we understand this would be more straightforward, it doesn’t fit trace upgrades properly. Consider a `base` tier trace that was recorded on June 30, and upgraded to `extended` tier on July 3. The `base` tier trace occurred in the June billing period, but the upgrade occurred in the July billing period. Therefore, we need to be able to measure these two events independently to properly bill our customers.
+If your trace was recorded as an extended retention trace, then the `base` and `extended` metrics will both be recorded with the same timestamp.
+### Rate limits
+
+LangSmith has rate limits which are designed to ensure the stability of the service for all users. To ensure access and stability, LangSmith will respond with HTTP Status Code 429 indicating that rate or usage limits have been exceeded under the following circumstances:
+#### Temporary throughput limit over a 1 minute period at our application load balancer
+
+This 429 is the result of exceeding a fixed number of API calls over a 1 minute window on a per service key or PAT basis. The start of the window will vary slightly—it is not guaranteed to start at the start of a clock minute—and may change depending on application deployment events. After the max events are received we will respond with a 429 until 60 seconds from the start of the evaluation window has been reached and then the process repeats. This 429 is thrown by our application load balancer and is a mechanism in place for all LangSmith users independent of plan tier to ensure continuity of service for all users.
+#### Plan-level hourly trace event limit
+
+This 429 is the result of reaching your maximum hourly events ingested and is evaluated in a fixed window starting at the beginning of each clock hour in UTC and resets at the top of each new hour. An event in this context is the creation or update of a run. If a run is created and then subsequently updated in the same hourly window, that counts as 2 events against this limit. This is thrown by our application and varies by plan tier, with organizations on our Startup/Plus and Enterprise plan tiers having higher hourly limits than our Free and Developer Plan Tiers which are designed for personal use.
+#### Plan-level hourly trace data ingest limit
+
+This 429 is the result of reaching the maximum amount of data ingested across your trace inputs, outputs, and metadata and is evaluated in a fixed window starting at the beginning of each clock hour in UTC and resets at the top of each new hour. Typically, inputs, outputs, and metadata are sent on both run creation and update events. If a run is created at 2.0MB and updated to 3.0MB in the same hourly window, that counts as 5.0MB of storage against this limit. This is thrown by our application and varies by plan tier, with organizations on our Startup/Plus and Enterprise plan tiers having higher hourly limits than our Free and Developer Plan Tiers which are designed for personal use.
+#### Plan-level monthly unique traces limit
+
+This 429 is the result of reaching your maximum monthly traces ingested and is evaluated in a fixed window starting at the beginning of each calendar month in UTC and resets at the beginning of each new month. This is thrown by our application and applies only to the Developer Plan Tier when there is no payment method on file.
+#### Self-configured monthly usage limits
+
+This 429 is the result of reaching your usage limit as configured by your organization admin and is evaluated in a fixed window starting at the beginning of each calendar month in UTC and resets at the beginning of each new month. This is thrown by our application and varies by organization based on their configured settings.
+#### Maximum runs per trace
+
+Each trace is limited to a maximum of 25,000 runs. Once the trace reaches this limit, LangSmith will reject any additional runs that you send for that trace.
+#### Run query endpoint
+
+The
+[`POST /runs/query`](https://docs.langchain.com/langsmith/smith-api/run/query-runs)endpoint has additional per-tenant rate limits based on query parameters. See
+
+[Query traces using the SDK](https://docs.langchain.com/langsmith/export-traces#rate-limits)for details.
+
+#### Handling 429s responses in your application
+
+Since some 429 responses are temporary and may succeed on a successive call, if you are directly calling the LangSmith API in your application we recommend implementing retry logic with exponential backoff and jitter. For convenience, LangChain applications built with the LangSmith SDK has this capability built-in.
+[LangSmith Support](https://support.langchain.com)with details about your applications throughput needs and sample code and we can work with you to better understand whether the best approach is fixing a bug, changes to your application code, or a different LangSmith plan.
+
+### Usage limits
+
+LangSmith lets you configure usage limits on tracing. Note that these are
+*usage*limits, not
+
+*spend*limits, which mean they let you limit the quantity of occurrences of some event rather than the total amount you will spend. LangSmith lets you set two different monthly limits, mirroring our Billable Metrics discussed in the aforementioned data retention guide:
+
+- All traces limit
+- Extended data retention traces limit
+
+These let you limit the number of total traces, and extended data retention traces respectively.
+
+#### Properties of usage limiting
+
+Usage limiting is approximate, meaning that we do not guarantee the exactness of the limit. In rare cases, there may be a small period of time where additional traces are processed above the limit threshold before usage limiting begins to apply.
+#### Side effects of extended data retention traces limit
+
+The extended data retention traces limit has side effects. If the limit is already reached, any feature that could cause an auto-upgrade of tracing tiers becomes inaccessible. This is because an auto-upgrade of a trace would cause another extended retention trace to be created, which in turn should not be allowed by the limit. Therefore, you can no longer:
+1. match run rules
+2. add feedback to traces
+3. add runs to annotation queues
+
+Each of these features may cause an auto upgrade, so we shut them off when the limit is reached.
+
+#### Updating usage limits
+
+Usage limits can be updated from the`Settings` page under `Usage and Billing`. Limit values are cached, so it may take a minute or two before the new limits apply.
+#### Per-project and per-user trace limits
+
+In addition to the
+[workspace-wide limits](https://docs.langchain.com#usage-limits), you can cap monthly traces for a single tracing project or an individual workspace member. This prevents one project or user from consuming a disproportionate share of a workspace’s tracing budget. To configure these limits, open
+
+**Settings**, go to
+
+**Usage configuration**, and select the
+
+**Project & user limits**tab. Choose
+
+**Add limit**, then set:
+
+- **Scope**: **Project** to cap a single tracing project, or **User** to cap a single workspace member.
+- **Workspace**: the workspace that contains the project or member.
+- **Project** or **User**: the target to cap.
+- **Monthly trace limit**: the maximum number of traces allowed per calendar month.
+
+In an
+
+[agent-based workspace](https://docs.langchain.com/langsmith/agent-registry), a project-scoped limit caps one
+
+[environment](https://docs.langchain.com/langsmith/agent-environments)of one agent rather than the agent as a whole. There is no agent scope, so capping an agent’s total traces means adding one limit per environment. Updating these limits requires the same permission as workspace usage limits (
+
+`Update usage limits`).
+Like workspace limits, per-project and per-user limits are evaluated per calendar month in UTC and reset at the start of each new month. Once a project or user reaches its limit, its new traces are dropped and are not ingested again until the limit resets. Enforcement is approximate, so a small number of traces may be processed above the threshold before the limit takes effect. These limits apply to both [Cloud](https://docs.langchain.com/langsmith/cloud)and
+
+[Self-hosted](https://docs.langchain.com/langsmith/self-hosted).
+
+**additional**to your workspace-wide and plan limits. A trace must be within every applicable limit to be ingested.Per-user limits count only traces attributed to a specific workspace member. Traces sent with an API key or service key that isn’t tied to a member are not counted toward a per-user limit.Limit values are cached, so it may take a minute or two before a new or changed limit applies.
+
+## Additional resources
+
+- **[Release policy](https://docs.langchain.com/langsmith/release-versions)**: Learn about the self-hosted release channels, cadence, and version numbering.

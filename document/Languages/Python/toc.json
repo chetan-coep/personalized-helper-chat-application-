@@ -1,0 +1,118 @@
+{
+  "technology": "Python",
+  "category": "Languages",
+  "documents": [
+    {
+      "id": "python_001",
+      "doc_order": 1,
+      "title": "Python",
+      "file": "001_3.md",
+      "source_url": "https://docs.python.org/3",
+      "content_hash": "c5058bd79c2c70f6a5438bee6afc1422ea5aef87232be81bec935617f0f75459"
+    },
+    {
+      "id": "python_002",
+      "doc_order": 2,
+      "title": "3.11.18 Documentation",
+      "file": "002_3.11.md",
+      "source_url": "https://docs.python.org/3.11",
+      "content_hash": "37a1a1f273aacbcc4d38208eeeca229310b57ddaad70aef226d7d95bdf085593"
+    },
+    {
+      "id": "python_003",
+      "doc_order": 3,
+      "title": "3.12.16 Documentation",
+      "file": "003_3.12.md",
+      "source_url": "https://docs.python.org/3.12",
+      "content_hash": "d71a339c90480655736c80959014c92c70adab2a1ddfcd3fc62ef9dabd36e111"
+    },
+    {
+      "id": "python_004",
+      "doc_order": 4,
+      "title": "Python",
+      "file": "004_3.12.md",
+      "source_url": "https://docs.python.org/3.12",
+      "content_hash": "a90906d2459e30472b8e8a22ff2ddb6a476aaf8a83e6ed05d86b14adc708e880"
+    },
+    {
+      "id": "python_005",
+      "doc_order": 5,
+      "title": "3.13.18 Documentation",
+      "file": "005_3.13.md",
+      "source_url": "https://docs.python.org/3.13",
+      "content_hash": "64514d9aad3b31894d558369bfc764faac906d75d4200cac0faf199a5be90fd8"
+    },
+    {
+      "id": "python_006",
+      "doc_order": 6,
+      "title": "Python",
+      "file": "006_3.13.md",
+      "source_url": "https://docs.python.org/3.13",
+      "content_hash": "c0e53ea973b334fc9d7a6bad60a21283f5174bcad339504763af609aa3b82384"
+    },
+    {
+      "id": "python_007",
+      "doc_order": 7,
+      "title": "Python 3.14.10 documentation",
+      "file": "007_3.14.md",
+      "source_url": "https://docs.python.org/3.14",
+      "content_hash": "47e21bda53d926e358ea2b14bd295f218dbe4627c7ba907188785f44745adfc4"
+    },
+    {
+      "id": "python_008",
+      "doc_order": 8,
+      "title": "Python",
+      "file": "008_3.14.md",
+      "source_url": "https://docs.python.org/3.14",
+      "content_hash": "35402d4f16f7df5b2e0038d6e5ee47f793b573e17b5dde0331af60d5466e9008"
+    },
+    {
+      "id": "python_009",
+      "doc_order": 9,
+      "title": "Python 3.15.2 documentation",
+      "file": "009_3.15.md",
+      "source_url": "https://docs.python.org/3.15",
+      "content_hash": "abee72b452a55064fe9098fcfb8128674788d1992478f89efcfc3414c82f3853"
+    },
+    {
+      "id": "python_010",
+      "doc_order": 10,
+      "title": "Python",
+      "file": "010_3.15.md",
+      "source_url": "https://docs.python.org/3.15",
+      "content_hash": "1f4453b436e4171310fde02d6a2fbcb22d1a3aea824f3d3d34c5b7ad11a0d798"
+    },
+    {
+      "id": "python_011",
+      "doc_order": 11,
+      "title": "Python 3.16.0a1 documentation",
+      "file": "011_3.16.md",
+      "source_url": "https://docs.python.org/3.16",
+      "content_hash": "7040c0723a70cfcfdb67d1eee5fd48f520a30c9e78bcc7771a2456c3f04da0e2"
+    },
+    {
+      "id": "python_012",
+      "doc_order": 12,
+      "title": "Python 3.15.2 documentation",
+      "file": "012_3.md",
+      "source_url": "https://docs.python.org/3",
+      "content_hash": "7b4abff5f56ced98e0d8c68175baa1cc68f27c7f195e0054595fd83eeda16484"
+    },
+    {
+      "id": "python_013",
+      "doc_order": 13,
+      "title": "Python",
+      "file": "013_3.16.md",
+      "source_url": "https://docs.python.org/3.16",
+      "content_hash": "0618b10fb1d1e843fec838f58f30232a899c556097abb32e8471904212f753de"
+    },
+    {
+      "id": "python_014",
+      "doc_order": 14,
+      "title": "Python Data Classes: dataclass Decorator and default_factory",
+      "file": "014_dataclasses_and_functions.md",
+      "source_url": "https://docs.python.org/3/library/dataclasses.html",
+      "content_hash": "python_dataclasses_014"
+    }
+  ]
+}

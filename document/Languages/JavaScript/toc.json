@@ -1,0 +1,806 @@
+{
+  "technology": "JavaScript",
+  "category": "Languages",
+  "documents": [
+    {
+      "id": "javascript_001",
+      "doc_order": 1,
+      "title": "JavaScript",
+      "file": "001_en-US_blog_introducing-ai-help.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/introducing-ai-help",
+      "content_hash": "5dacd9f022ca785f0a8d0875a1548647d56804db7594d5ccb7ebec2cfd2094f8"
+    },
+    {
+      "id": "javascript_002",
+      "doc_order": 2,
+      "title": "JavaScript",
+      "file": "002_en-US_blog_introducing-mdn-mcp-server.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server",
+      "content_hash": "dc69ef2cb1ba4fa93703be7b48957073a3703a3c2d5ef7d8b08f2f89c9a4ebdc"
+    },
+    {
+      "id": "javascript_003",
+      "doc_order": 3,
+      "title": "JavaScript",
+      "file": "003_en-US_blog_introducing-the-mdn-playground.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/introducing-the-mdn-playground",
+      "content_hash": "3282a16b0dc7e64dd5584fd0b075e28c22b84c27b0a6c881fbd06634e3660185"
+    },
+    {
+      "id": "javascript_004",
+      "doc_order": 4,
+      "title": "JavaScript",
+      "file": "004_en-US_blog_introduction-to-web-sustainability.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/introduction-to-web-sustainability",
+      "content_hash": "4dc9c4d98dec6f19edd4af5df1b8ff4917a226ca83516e908f643a364bad3af0"
+    },
+    {
+      "id": "javascript_005",
+      "doc_order": 5,
+      "title": "JavaScript",
+      "file": "005_en-US_blog_migrating-from-github-to-gitlab-seamlessly-a-step-by-step-guide.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/migrating-from-github-to-gitlab-seamlessly-a-step-by-step-guide",
+      "content_hash": "1b1ac0539504bbf7652bb392bab5fc8e3f0da92fdc7ddba4635034e0edffd161"
+    },
+    {
+      "id": "javascript_006",
+      "doc_order": 6,
+      "title": "JavaScript",
+      "file": "006_en-US_blog_view-transitions-beginner-guide.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/view-transitions-beginner-guide",
+      "content_hash": "9afee771b964704f75aaa4c0612a882373a1e6e4be72f55ec2e73e5cb1f404d2"
+    },
+    {
+      "id": "javascript_007",
+      "doc_order": 7,
+      "title": "JavaScript",
+      "file": "007_en-US_blog_curriculum-learn-web-development.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/curriculum-learn-web-development",
+      "content_hash": "b1acaab2149b43a82fda4a189a0a6ba7e9765b9e65b95b4886a2fbd14170a803"
+    },
+    {
+      "id": "javascript_008",
+      "doc_order": 8,
+      "title": "JavaScript",
+      "file": "008_en-US_blog_learn-css-hues-colors-hsl.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/learn-css-hues-colors-hsl",
+      "content_hash": "0aba1163834b1e643706b6a5ad31328c6ebe84dfc5f8375df12b4cec8414bcad"
+    },
+    {
+      "id": "javascript_009",
+      "doc_order": 9,
+      "title": "JavaScript",
+      "file": "009_en-US_blog_learn-javascript-console-methods.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/learn-javascript-console-methods",
+      "content_hash": "01611c59345e40f1166cf13cd88f3e0230acaf79ad35dedb3ae51cc7b9db8d6c"
+    },
+    {
+      "id": "javascript_010",
+      "doc_order": 10,
+      "title": "JavaScript",
+      "file": "010_en-US_blog_efficient-data-handling-with-the-streams-api.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/efficient-data-handling-with-the-streams-api",
+      "content_hash": "64fd073290ebc40f0ed401bc9586d90fba3440a0beddbeb07cccfef337d33771"
+    },
+    {
+      "id": "javascript_011",
+      "doc_order": 11,
+      "title": "JavaScript",
+      "file": "011_en-US_blog_exploring-the-broadcast-channel-api-for-cross-tab-communication.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/exploring-the-broadcast-channel-api-for-cross-tab-communication",
+      "content_hash": "1511713be85f89c18fd6ff3c6b6e8561ca2e17a5fe5b2e9f6a7801e6b11a3dca"
+    },
+    {
+      "id": "javascript_012",
+      "doc_order": 12,
+      "title": "JavaScript",
+      "file": "012_en-US_blog_regular-expressions-reference-updates.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/regular-expressions-reference-updates",
+      "content_hash": "d4dab0f2c3f9308147815108e5f883b06774895f122df1efe041c698ccd1de75"
+    },
+    {
+      "id": "javascript_013",
+      "doc_order": 13,
+      "title": "JavaScript",
+      "file": "013_en-US_blog_securing-apis-express-rate-limit-and-slow-down.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/securing-apis-express-rate-limit-and-slow-down",
+      "content_hash": "a1336adea2f48e9ad8e682a1ee5dba17c4a71cefbf2babd8be2c1f0a7a7e4198"
+    },
+    {
+      "id": "javascript_014",
+      "doc_order": 14,
+      "title": "JavaScript",
+      "file": "014_en-US_blog_using-the-page-visibility-api.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/using-the-page-visibility-api",
+      "content_hash": "3952f524cafae61475ff6e19f372b45515fadc3439e2d5982cb3b2bb6d0abda1"
+    },
+    {
+      "id": "javascript_015",
+      "doc_order": 15,
+      "title": "JavaScript",
+      "file": "015_en-US_blog_getting-started-with-css-container-queries.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/getting-started-with-css-container-queries",
+      "content_hash": "4315909de816057423b9ca088a0832af1b43ac0cef9c808715045152ee071baf"
+    },
+    {
+      "id": "javascript_016",
+      "doc_order": 16,
+      "title": "JavaScript",
+      "file": "016_en-US.md",
+      "source_url": "https://developer.mozilla.org/en-US",
+      "content_hash": "cc6643ca2208975ea9bb7d68f138a8ffb847cdfd01c0df76e57a19f68a1a7cbd"
+    },
+    {
+      "id": "javascript_017",
+      "doc_order": 17,
+      "title": "JavaScript",
+      "file": "017_en-US_404.md",
+      "source_url": "https://developer.mozilla.org/en-US/404",
+      "content_hash": "4c05f885c0ec54d611183cd48205c9fc94704ae67602b037ef7569864adc126b"
+    },
+    {
+      "id": "javascript_018",
+      "doc_order": 18,
+      "title": "JavaScript",
+      "file": "018_en-US_about.md",
+      "source_url": "https://developer.mozilla.org/en-US/about",
+      "content_hash": "da248c88a3e0b7152529db776ca814b17e4ed5967619917698e63552f604b6a6"
+    },
+    {
+      "id": "javascript_019",
+      "doc_order": 19,
+      "title": "JavaScript",
+      "file": "019_en-US_advertising.md",
+      "source_url": "https://developer.mozilla.org/en-US/advertising",
+      "content_hash": "ff8963d29872210e4872bfe21914dee78045bcec65afcb55cc0eb46b22c91658"
+    },
+    {
+      "id": "javascript_020",
+      "doc_order": 20,
+      "title": "JavaScript",
+      "file": "020_en-US_blog.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog",
+      "content_hash": "44daf9dee7208d52edaff8855dad7a2a0593c359337c53c95ee505323751f315"
+    },
+    {
+      "id": "javascript_021",
+      "doc_order": 21,
+      "title": "JavaScript",
+      "file": "021_en-US_blog_accessibility-celebrating-gaad-2023.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/accessibility-celebrating-gaad-2023",
+      "content_hash": "ea3b8f03cb5aad3766dfb81dc074da4b68e56eb0719571c4e97859bf7594eee6"
+    },
+    {
+      "id": "javascript_022",
+      "doc_order": 22,
+      "title": "JavaScript",
+      "file": "022_en-US_blog_ai-explain-postmortem.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/ai-explain-postmortem",
+      "content_hash": "46485b9f1088d6e43d1647740419711e5f3aa3bdda159272b03dd32643408912"
+    },
+    {
+      "id": "javascript_023",
+      "doc_order": 23,
+      "title": "JavaScript",
+      "file": "023_en-US_blog_announcing-mdn-front-end-developer-curriculum.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/announcing-mdn-front-end-developer-curriculum",
+      "content_hash": "5081f848ae55af8f99b392afbf525462adb2d785631c1a118b8cafd513410958"
+    },
+    {
+      "id": "javascript_024",
+      "doc_order": 24,
+      "title": "JavaScript",
+      "file": "024_en-US_blog_aria-accessibility-html-landmark-roles.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/aria-accessibility-html-landmark-roles",
+      "content_hash": "80fdd0639c473cc188a6ca2785d29be970527fa6e9f48405a3b90e731649d4ba"
+    },
+    {
+      "id": "javascript_025",
+      "doc_order": 25,
+      "title": "JavaScript",
+      "file": "025_en-US_blog_baseline-evolution-on-mdn.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/baseline-evolution-on-mdn",
+      "content_hash": "89a68511f18a47fc1e40a9c6a8ec29cf0967eb9c86ee5f5949787f3a42340b11"
+    },
+    {
+      "id": "javascript_026",
+      "doc_order": 26,
+      "title": "JavaScript",
+      "file": "026_en-US_blog_baseline-unified-view-stable-web-features.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/baseline-unified-view-stable-web-features",
+      "content_hash": "6b293bec2f2d6dcbaeef3ddd3e88811dede576d494c4c7cd6cc6398450a04eca"
+    },
+    {
+      "id": "javascript_027",
+      "doc_order": 27,
+      "title": "JavaScript",
+      "file": "027_en-US_blog_border-images-interop-2023.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/border-images-interop-2023",
+      "content_hash": "cbf9fe45df63bd7afac9e6fbe90f6c45ccf463d867d2233b7eb2c487c9e7bffa"
+    },
+    {
+      "id": "javascript_028",
+      "doc_order": 28,
+      "title": "JavaScript",
+      "file": "028_en-US_blog_build-ai-powered-apps-openllm-vultr-gpu.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/build-ai-powered-apps-openllm-vultr-gpu",
+      "content_hash": "d64963a29bd2d5fd86bd79282af524495ffd1b25d672cba7fb7022f2b3db6901"
+    },
+    {
+      "id": "javascript_029",
+      "doc_order": 29,
+      "title": "JavaScript",
+      "file": "029_en-US_blog_color-models-humans-devices.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/color-models-humans-devices",
+      "content_hash": "2b96de7641c5aaa9a1fd9526204f454ffbf79959f6e74556cb315b57ff9e0f69"
+    },
+    {
+      "id": "javascript_030",
+      "doc_order": 30,
+      "title": "JavaScript",
+      "file": "030_en-US_blog_color-palettes-css-color-mix.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/color-palettes-css-color-mix",
+      "content_hash": "6965c2449d0f0f2bd7ebfab9eacd66aa90800d88494f7fb9c328eca32401bcfc"
+    },
+    {
+      "id": "javascript_031",
+      "doc_order": 31,
+      "title": "JavaScript",
+      "file": "031_en-US_blog_css-color-module-level-4.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/css-color-module-level-4",
+      "content_hash": "8c4147905dab747cb4a968f84e39e6b8bbd2bdde5611f32aea7e772aa25e7a57"
+    },
+    {
+      "id": "javascript_032",
+      "doc_order": 32,
+      "title": "JavaScript",
+      "file": "032_en-US_blog_css-not-pseudo-multiple-selectors.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/css-not-pseudo-multiple-selectors",
+      "content_hash": "6dd2c9a00d0187099197d671d718a38d194743a0ff7544fa7d76f348dcd03ac0"
+    },
+    {
+      "id": "javascript_033",
+      "doc_order": 33,
+      "title": "JavaScript",
+      "file": "033_en-US_blog_custom-easing-in-css-with-linear.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/custom-easing-in-css-with-linear",
+      "content_hash": "444442807d0bcb9655b314f364f1229b4d172d82361b9de902bc42b0ee2beb3f"
+    },
+    {
+      "id": "javascript_034",
+      "doc_order": 34,
+      "title": "JavaScript",
+      "file": "034_en-US_blog_daily-holiday-javascript-challenges.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/daily-holiday-javascript-challenges",
+      "content_hash": "4aaf0d8449b63a142a9a7296bb59d083efe124d5f1ab97ec9dbc70718421b92f"
+    },
+    {
+      "id": "javascript_035",
+      "doc_order": 35,
+      "title": "JavaScript",
+      "file": "035_en-US_blog_debug-mobile-apps-across-devices.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/debug-mobile-apps-across-devices",
+      "content_hash": "d403e59d06a3b2dfc8f2d69a2676ffb86870844c1e175cd6471d8a60844658cc"
+    },
+    {
+      "id": "javascript_036",
+      "doc_order": 36,
+      "title": "JavaScript",
+      "file": "036_en-US_blog_deploying-node-js-applications-with-pm2-on-vultr.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/deploying-node-js-applications-with-pm2-on-vultr",
+      "content_hash": "809e15e4c9e02e511b4b451003a9e5c2dd736878acffcf7fb6698bddfa01decb"
+    },
+    {
+      "id": "javascript_037",
+      "doc_order": 37,
+      "title": "JavaScript",
+      "file": "037_en-US_blog_fix-image-lcp.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/fix-image-lcp",
+      "content_hash": "d9563a8cbaec13bcba74f4af2eef7105485664b9c07aa946e109396b65c98ccb"
+    },
+    {
+      "id": "javascript_038",
+      "doc_order": 38,
+      "title": "JavaScript",
+      "file": "038_en-US_blog_fix-javascript-performance.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/fix-javascript-performance",
+      "content_hash": "6b982659b80896df47aecb918d5640f59c0b794db86515cc58f785145823c0c8"
+    },
+    {
+      "id": "javascript_039",
+      "doc_order": 39,
+      "title": "JavaScript",
+      "file": "039_en-US_blog_global-privacy-control.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/global-privacy-control",
+      "content_hash": "13ad76227c658a31b16c9b1acd3bf13fd01236a2ceb433c1eda109decc8c0e6d"
+    },
+    {
+      "id": "javascript_040",
+      "doc_order": 40,
+      "title": "JavaScript",
+      "file": "040_en-US_blog_goodbye-third-party-cookies.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/goodbye-third-party-cookies",
+      "content_hash": "88b1c4fb0bf5869509998fd3cc6e33c156a3f905fd56040b356b40d7ab59f637"
+    },
+    {
+      "id": "javascript_041",
+      "doc_order": 41,
+      "title": "JavaScript",
+      "file": "041_en-US_blog_h1-element-styles.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/h1-element-styles",
+      "content_hash": "48ca081a48aae656b13f4a9f9ee69f602e877819c7f97f75c8559ca741ac1b95"
+    },
+    {
+      "id": "javascript_042",
+      "doc_order": 42,
+      "title": "JavaScript",
+      "file": "042_en-US_blog_how-to-land-your-first-developer-job.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/how-to-land-your-first-developer-job",
+      "content_hash": "27489253caf5b5f14993af169ad5ef010092562e991d430459aae98543836bdd"
+    },
+    {
+      "id": "javascript_043",
+      "doc_order": 43,
+      "title": "JavaScript",
+      "file": "043_en-US_blog_html-details-exclusive-accordions.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/html-details-exclusive-accordions",
+      "content_hash": "98ade28b1be171d7091c513fbc2f095d8aef85f7722bd2eb153825c556c5ecda"
+    },
+    {
+      "id": "javascript_044",
+      "doc_order": 44,
+      "title": "JavaScript",
+      "file": "044_en-US_blog_image-formats-codecs-compression-tools.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/image-formats-codecs-compression-tools",
+      "content_hash": "64c3183c08e427956d02d6029a3781143ce7200c23ead78c56b527027ba93529"
+    },
+    {
+      "id": "javascript_045",
+      "doc_order": 45,
+      "title": "JavaScript",
+      "file": "045_en-US_blog_image-formats-pixels-graphics.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/image-formats-pixels-graphics",
+      "content_hash": "486af5855d508b425de7e88145a9d04d5be626592d86dd08dfb35c4f94b91f0e"
+    },
+    {
+      "id": "javascript_046",
+      "doc_order": 46,
+      "title": "JavaScript",
+      "file": "046_en-US_blog_interop2023-mdn-doc-updates.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/interop2023-mdn-doc-updates",
+      "content_hash": "7fb63587ff1499e2e7b70586504c56238fd0a5ad36c660ae44596a616f38654c"
+    },
+    {
+      "id": "javascript_047",
+      "doc_order": 47,
+      "title": "JavaScript",
+      "file": "047_en-US_blog_javascript-intl-segmenter-i18n.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/javascript-intl-segmenter-i18n",
+      "content_hash": "95fec385dde61defdb9469f84502c77e92690cf0a3fdeebc45d332ae1c2675ef"
+    },
+    {
+      "id": "javascript_048",
+      "doc_order": 48,
+      "title": "JavaScript",
+      "file": "048_en-US_blog_javascript-set-methods.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/javascript-set-methods",
+      "content_hash": "8c357b0c0fe039d5c4faa9dec174861af67190462637611368a8d4689ff68c36"
+    },
+    {
+      "id": "javascript_049",
+      "doc_order": 49,
+      "title": "JavaScript",
+      "file": "049_en-US_blog_javascript-shape-drawing-function.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/javascript-shape-drawing-function",
+      "content_hash": "3ed4b07a946e89ea98371afe7e22e31be5b2adf06f3e08f4ff181c8773610a26"
+    },
+    {
+      "id": "javascript_050",
+      "doc_order": 50,
+      "title": "JavaScript",
+      "file": "050_en-US_blog_javascript-temporal-is-coming.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming",
+      "content_hash": "f1b07e29f75ead4e356d35cd17f8a5df8241cfc0960dfc0db0dafa4bbbee31b4"
+    },
+    {
+      "id": "javascript_051",
+      "doc_order": 51,
+      "title": "JavaScript",
+      "file": "051_en-US_blog_launching-new-front-end.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/launching-new-front-end",
+      "content_hash": "0c7ce6b9d779556779c763b3d8c92821a55e1b61360ec76bcd70194303d49a04"
+    },
+    {
+      "id": "javascript_052",
+      "doc_order": 52,
+      "title": "JavaScript",
+      "file": "052_en-US_blog_leveraging-bun-on-vultr-a-superior-node-js-alternative.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/leveraging-bun-on-vultr-a-superior-node-js-alternative",
+      "content_hash": "32b9a68256c2997f6b2191ede93d3ec7af73589ef5fffc47ff8545c76baea961"
+    },
+    {
+      "id": "javascript_053",
+      "doc_order": 53,
+      "title": "JavaScript",
+      "file": "053_en-US_blog_mdn-2024-content-projects.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/mdn-2024-content-projects",
+      "content_hash": "0e81f965f1b5013399adb055c1c8d1d8e0af9b91a80f04ebe5c3a1658810bfd6"
+    },
+    {
+      "id": "javascript_054",
+      "doc_order": 54,
+      "title": "JavaScript",
+      "file": "054_en-US_blog_mdn-blog-one-year-on.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/mdn-blog-one-year-on",
+      "content_hash": "945d036a0bcfd0ef238210f4393261b4fd0a124dc8ce8c0dc803ca5a18ff82a3"
+    },
+    {
+      "id": "javascript_055",
+      "doc_order": 55,
+      "title": "JavaScript",
+      "file": "055_en-US_blog_mdn-curriculum-launch.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/mdn-curriculum-launch",
+      "content_hash": "c5b48533b002e7e00e58e14a401695faead074c21b5ad0babe7152a039f98217"
+    },
+    {
+      "id": "javascript_056",
+      "doc_order": 56,
+      "title": "JavaScript",
+      "file": "056_en-US_blog_mdn-docs-june-2023.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/mdn-docs-june-2023",
+      "content_hash": "4f0123d57da6156d01f16e8e012b47f490a0fc2de2182b4a31428f27c263485f"
+    },
+    {
+      "id": "javascript_057",
+      "doc_order": 57,
+      "title": "JavaScript",
+      "file": "057_en-US_blog_mdn-front-end-deep-dive.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive",
+      "content_hash": "21b33b79770cfd747ed2e2e0ed49dfcf4a7e307855cfc8faba16be3d229dc266"
+    },
+    {
+      "id": "javascript_058",
+      "doc_order": 58,
+      "title": "JavaScript",
+      "file": "058_en-US_blog_mdn-http-observatory-launch.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/mdn-http-observatory-launch",
+      "content_hash": "a026034de207bf87c40521f646414eba85ffd55ed756e2d0c6182472a92e7c2b"
+    },
+    {
+      "id": "javascript_059",
+      "doc_order": 59,
+      "title": "JavaScript",
+      "file": "059_en-US_blog_mdn-observatory.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/mdn-observatory",
+      "content_hash": "d9e52cdf8b47b2df0734e664362ebf04883c34acad9ba01f5785dbb4eff8d13f"
+    },
+    {
+      "id": "javascript_060",
+      "doc_order": 60,
+      "title": "JavaScript",
+      "file": "060_en-US_blog_mdn-scrimba-back2school.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/mdn-scrimba-back2school",
+      "content_hash": "ebbf0519a2f99ea8f841605169560f38b01e7a0b2ba858a01c708514a5a766de"
+    },
+    {
+      "id": "javascript_061",
+      "doc_order": 61,
+      "title": "JavaScript",
+      "file": "061_en-US_blog_mdn-scrimba-partnership.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/mdn-scrimba-partnership",
+      "content_hash": "b29ca85821032226e5c7ca51a38f2d06f6372bd99b6114acb60aab64c15046f5"
+    },
+    {
+      "id": "javascript_062",
+      "doc_order": 62,
+      "title": "JavaScript",
+      "file": "062_en-US_blog_mdn-turns-20.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/mdn-turns-20",
+      "content_hash": "c138056728a9aed728697416d415845d7cf431ba66ae2d85925ed3cb6392a924"
+    },
+    {
+      "id": "javascript_063",
+      "doc_order": 63,
+      "title": "JavaScript",
+      "file": "063_en-US_blog_modernizing-test-automation-with-test-grid.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/modernizing-test-automation-with-test-grid",
+      "content_hash": "32328475ce9e4e7b79b5000851312ec67aeddf5c0d99710c5c5fc74eab08cf87"
+    },
+    {
+      "id": "javascript_064",
+      "doc_order": 64,
+      "title": "JavaScript",
+      "file": "064_en-US_blog_new-community-page.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/new-community-page",
+      "content_hash": "3cb45f4bdcdd2b407241ed36c1a9780ba506db4351f33fab75cf53b7d7f4c591"
+    },
+    {
+      "id": "javascript_065",
+      "doc_order": 65,
+      "title": "JavaScript",
+      "file": "065_en-US_blog_optimize-web-performance.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/optimize-web-performance",
+      "content_hash": "75555c956ecfa91675abbeab72e33000f9b3b9b5bd81ed66eacba6b485e8c72a"
+    },
+    {
+      "id": "javascript_066",
+      "doc_order": 66,
+      "title": "JavaScript",
+      "file": "066_en-US_blog_optimize-your-workflow-git-stash.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/optimize-your-workflow-git-stash",
+      "content_hash": "7f85a9b221ab29c5466c8aeeb8efffddae8a056aecd0d3ff2ef95ee1469f9ac9"
+    },
+    {
+      "id": "javascript_067",
+      "doc_order": 67,
+      "title": "JavaScript",
+      "file": "067_en-US_blog_optimizing-devsecops-workflows-with-gitlab-conditional-ci-cd-pipelines.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/optimizing-devsecops-workflows-with-gitlab-conditional-ci-cd-pipelines",
+      "content_hash": "bca3e46975e189c5977f18e59050919ac0744023a3fac92ccc8d6cc60297f372"
+    },
+    {
+      "id": "javascript_068",
+      "doc_order": 68,
+      "title": "JavaScript",
+      "file": "068_en-US_blog_scroll-progress-animations-in-css.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/scroll-progress-animations-in-css",
+      "content_hash": "a282bd0f51a051e0ee13ea9b658ed435edd83427039c18bce5756c734e686bf6"
+    },
+    {
+      "id": "javascript_069",
+      "doc_order": 69,
+      "title": "JavaScript",
+      "file": "069_en-US_blog_searching-code-with-grep.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/searching-code-with-grep",
+      "content_hash": "719f705825de41ac7d3bd64a09729f5364c6fa03e5fb4ec3a654f73fc2bd7683"
+    },
+    {
+      "id": "javascript_070",
+      "doc_order": 70,
+      "title": "JavaScript",
+      "file": "070_en-US_blog_securing-cdn-using-sri-why-how.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/securing-cdn-using-sri-why-how",
+      "content_hash": "ccb0b3062a1d25518850489370909d6b5c4c3419a2d62384e0bd217cb6a1fa37"
+    },
+    {
+      "id": "javascript_071",
+      "doc_order": 71,
+      "title": "JavaScript",
+      "file": "071_en-US_blog_setting-up-service-workers-on-vultr.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/setting-up-service-workers-on-vultr",
+      "content_hash": "cc0110f1807ede7d77c0a376bd1c46d03adc18afd04bf0754f6ee423fbe93ebe"
+    },
+    {
+      "id": "javascript_072",
+      "doc_order": 72,
+      "title": "JavaScript",
+      "file": "072_en-US_blog_static-site-generation-with-nextjs.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/static-site-generation-with-nextjs",
+      "content_hash": "8742b8cb2039d7fbc76f9f723912a499acb04850d32bd608473818cb467c6812"
+    },
+    {
+      "id": "javascript_073",
+      "doc_order": 73,
+      "title": "JavaScript",
+      "file": "073_en-US_blog_technical-writing.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/technical-writing",
+      "content_hash": "7efd2629a998736209648574a1a9c51238174959fc3e08d67522791fc9913033"
+    },
+    {
+      "id": "javascript_074",
+      "doc_order": 74,
+      "title": "JavaScript",
+      "file": "074_en-US_blog_test-javascript-with-jest-on-vultr.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/test-javascript-with-jest-on-vultr",
+      "content_hash": "2c793094b10da4d32725b1f5174ff1ec3d487072515c393c038b27fec5ffcec2"
+    },
+    {
+      "id": "javascript_075",
+      "doc_order": 75,
+      "title": "JavaScript",
+      "file": "075_en-US_blog_vs-code-tips-tricks.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/vs-code-tips-tricks",
+      "content_hash": "da1dc7d4d1512577785548a19cb4bd5629e6841054d294ddbbbc87ac69859f8e"
+    },
+    {
+      "id": "javascript_076",
+      "doc_order": 76,
+      "title": "JavaScript",
+      "file": "076_en-US_blog_welcome-to-the-MDN-blog.md",
+      "source_url": "https://developer.mozilla.org/en-US/blog/welcome-to-the-MDN-blog",
+      "content_hash": "b449d447c3d7d9f9a849be976326ba899f9a9f1c25a7da32a707729091ce6b96"
+    },
+    {
+      "id": "javascript_077",
+      "doc_order": 77,
+      "title": "JavaScript",
+      "file": "077_en-US_community.md",
+      "source_url": "https://developer.mozilla.org/en-US/community",
+      "content_hash": "f4e28eb23b0eafee708caf05fc07909d0e966bb1421f022875810b7986b940fb"
+    },
+    {
+      "id": "javascript_078",
+      "doc_order": 78,
+      "title": "JavaScript",
+      "file": "078_en-US_community_spotlight_cw118.md",
+      "source_url": "https://developer.mozilla.org/en-US/community/spotlight/cw118",
+      "content_hash": "f1f5ad0568d3d2d6ae5933b0fbcc02a54ea0804c2bdea2f7b724cd08da6718d2"
+    },
+    {
+      "id": "javascript_079",
+      "doc_order": 79,
+      "title": "JavaScript",
+      "file": "079_en-US_community_spotlight_hochan-lee.md",
+      "source_url": "https://developer.mozilla.org/en-US/community/spotlight/hochan-lee",
+      "content_hash": "edc5a72f26953ede3a64f0940ea223bcefca2affe48e771fa023e2f76f2068bb"
+    },
+    {
+      "id": "javascript_080",
+      "doc_order": 80,
+      "title": "JavaScript",
+      "file": "080_en-US_community_spotlight_joshua-chen.md",
+      "source_url": "https://developer.mozilla.org/en-US/community/spotlight/joshua-chen",
+      "content_hash": "77e9e30741e1f683a2c1024073e240496f4f64b151d8d4a9c95323fb07165c97"
+    },
+    {
+      "id": "javascript_081",
+      "doc_order": 81,
+      "title": "JavaScript",
+      "file": "081_en-US_community_spotlight_michael-koch.md",
+      "source_url": "https://developer.mozilla.org/en-US/community/spotlight/michael-koch",
+      "content_hash": "9947bbb7687357fe926764e97f9c5f45b89743d2ca6bd3c6c15afc0698614a65"
+    },
+    {
+      "id": "javascript_082",
+      "doc_order": 82,
+      "title": "JavaScript",
+      "file": "082_en-US_community_spotlight_niedziolka-michal.md",
+      "source_url": "https://developer.mozilla.org/en-US/community/spotlight/niedziolka-michal",
+      "content_hash": "b7de6071c97d627308559d6ec34c2bed36c10ddc2bd54f2a23aaf54c46091d6a"
+    },
+    {
+      "id": "javascript_083",
+      "doc_order": 83,
+      "title": "JavaScript",
+      "file": "083_en-US_community_spotlight_onkar-ruikar.md",
+      "source_url": "https://developer.mozilla.org/en-US/community/spotlight/onkar-ruikar",
+      "content_hash": "37f7b70fa255f852a51f299deaad95915c4dc907d2c08c21503fae67379e4799"
+    },
+    {
+      "id": "javascript_084",
+      "doc_order": 84,
+      "title": "JavaScript",
+      "file": "084_en-US_community_spotlight_shrinivass-arunachalam-balasubramanian.md",
+      "source_url": "https://developer.mozilla.org/en-US/community/spotlight/shrinivass-arunachalam-balasubramanian",
+      "content_hash": "b9234c37eec488449539ba83e1b9902c191bb631bc41c3048d7d18d654f91d61"
+    },
+    {
+      "id": "javascript_085",
+      "doc_order": 85,
+      "title": "JavaScript",
+      "file": "085_en-US_community_spotlight_sphinx.md",
+      "source_url": "https://developer.mozilla.org/en-US/community/spotlight/sphinx",
+      "content_hash": "f9c5ba76cc3f2313bb735884c35f1e740a348e06e94a907ddb7057dd7445e609"
+    },
+    {
+      "id": "javascript_086",
+      "doc_order": 86,
+      "title": "JavaScript",
+      "file": "086_en-US_community_spotlight_tanner-dolby.md",
+      "source_url": "https://developer.mozilla.org/en-US/community/spotlight/tanner-dolby",
+      "content_hash": "c6ac2d56b53e11a33841ac49125090d207e89fa74978b29aab019857e97e2872"
+    },
+    {
+      "id": "javascript_087",
+      "doc_order": 87,
+      "title": "JavaScript",
+      "file": "087_en-US_community_spotlight_vinyl-da-i-gyu-kazotetsu.md",
+      "source_url": "https://developer.mozilla.org/en-US/community/spotlight/vinyl-da-i-gyu-kazotetsu",
+      "content_hash": "abdec53b3ac5638c6be7e04b50b81cd2c3ed768cca7c949ab99144f17a81b772"
+    },
+    {
+      "id": "javascript_088",
+      "doc_order": 88,
+      "title": "JavaScript",
+      "file": "088_en-US_community_spotlight_yash-raj-bharti.md",
+      "source_url": "https://developer.mozilla.org/en-US/community/spotlight/yash-raj-bharti",
+      "content_hash": "efd1304306c60dee2344ea7a22073b04202e05253395b2dd63ed3e23e1fee461"
+    },
+    {
+      "id": "javascript_089",
+      "doc_order": 89,
+      "title": "JavaScript",
+      "file": "089_en-US_community_spotlight_yitao-yin.md",
+      "source_url": "https://developer.mozilla.org/en-US/community/spotlight/yitao-yin",
+      "content_hash": "9f2085a8621e3bb42e30a2bf4eab28cb0c5970a9fc812ef3a68f3cc4933d62d2"
+    },
+    {
+      "id": "javascript_090",
+      "doc_order": 90,
+      "title": "JavaScript",
+      "file": "090_en-US_community_spotlight_yuji.md",
+      "source_url": "https://developer.mozilla.org/en-US/community/spotlight/yuji",
+      "content_hash": "60811b2c8be5d7b09fcf0b5b86f58a089333fc0aa102aeab8ce58c1297841782"
+    },
+    {
+      "id": "javascript_091",
+      "doc_order": 91,
+      "title": "JavaScript",
+      "file": "091_en-US_curriculum.md",
+      "source_url": "https://developer.mozilla.org/en-US/curriculum",
+      "content_hash": "7cbb5bd783c54ac83934518b4b7dfc319fcb49b737c4197680779b3893aa7b75"
+    },
+    {
+      "id": "javascript_092",
+      "doc_order": 92,
+      "title": "JavaScript",
+      "file": "092_en-US_curriculum_about-curriculum.md",
+      "source_url": "https://developer.mozilla.org/en-US/curriculum/about-curriculum",
+      "content_hash": "e5ba2dec051fef9b8ddce7d21bc3728c96765e1e639bbd0fa3a4f05d2b21bb21"
+    },
+    {
+      "id": "javascript_093",
+      "doc_order": 93,
+      "title": "JavaScript",
+      "file": "093_en-US_curriculum_core.md",
+      "source_url": "https://developer.mozilla.org/en-US/curriculum/core",
+      "content_hash": "fefaecf2800a9b7db4fd7eb5e9f47792147f23fbf26e025694b050e87c57313a"
+    },
+    {
+      "id": "javascript_094",
+      "doc_order": 94,
+      "title": "JavaScript",
+      "file": "094_en-US_curriculum_core_accessibility.md",
+      "source_url": "https://developer.mozilla.org/en-US/curriculum/core/accessibility",
+      "content_hash": "36d957bb8715c60518f7c2f3c61695598154d5556dc16fea661262707c311701"
+    },
+    {
+      "id": "javascript_095",
+      "doc_order": 95,
+      "title": "JavaScript",
+      "file": "095_en-US_curriculum_core_css-fundamentals.md",
+      "source_url": "https://developer.mozilla.org/en-US/curriculum/core/css-fundamentals",
+      "content_hash": "640f05a73e06cb2bcc3c5f835640adb75a30b4eb276936f20ff33592c6dba5cf"
+    },
+    {
+      "id": "javascript_096",
+      "doc_order": 96,
+      "title": "JavaScript",
+      "file": "096_en-US_curriculum_core_css-layout.md",
+      "source_url": "https://developer.mozilla.org/en-US/curriculum/core/css-layout",
+      "content_hash": "580a6902020f811e0b7c45f9345fad61459b402f9a4c60ace216fb901347c092"
+    },
+    {
+      "id": "javascript_097",
+      "doc_order": 97,
+      "title": "JavaScript",
+      "file": "097_en-US_curriculum_core_css-text-styling.md",
+      "source_url": "https://developer.mozilla.org/en-US/curriculum/core/css-text-styling",
+      "content_hash": "67b80db8191658302a907e908371e6682de14cb7f2e9c402fb6e9669a329416b"
+    },
+    {
+      "id": "javascript_098",
+      "doc_order": 98,
+      "title": "JavaScript",
+      "file": "098_en-US_curriculum_core_design-for-developers.md",
+      "source_url": "https://developer.mozilla.org/en-US/curriculum/core/design-for-developers",
+      "content_hash": "b76e2044bbf52ee20b6ac5063fbc3f8837717a49b13d97e61c7373c088dd7269"
+    },
+    {
+      "id": "javascript_099",
+      "doc_order": 99,
+      "title": "JavaScript",
+      "file": "099_en-US_curriculum_core_javascript-fundamentals.md",
+      "source_url": "https://developer.mozilla.org/en-US/curriculum/core/javascript-fundamentals",
+      "content_hash": "03162fbad16ee25bb0b151a6ceb9a0c9fab9b5643ba65e5386bda4950082eabc"
+    },
+    {
+      "id": "javascript_100",
+      "doc_order": 100,
+      "title": "JavaScript",
+      "file": "100_en-US_curriculum_core_semantic-html.md",
+      "source_url": "https://developer.mozilla.org/en-US/curriculum/core/semantic-html",
+      "content_hash": "c626df481143dcff4e7faedbeb5f63dc981d4ba41a9b93e4c2b75fb603895da2"
+    }
+  ]
+}

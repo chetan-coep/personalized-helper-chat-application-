@@ -1,0 +1,206 @@
+{
+  "technology": "TypeScript",
+  "category": "Languages",
+  "documents": [
+    {
+      "id": "typescript_001",
+      "doc_order": 1,
+      "title": "TypeScript: Documentation - Introduction",
+      "file": "001_docs_handbook_declaration-files_introduction.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/declaration-files/introduction.html",
+      "content_hash": "fa0bdeff29e74def592e97549b968eace0ae9fb434c3322aea66117af74334f7"
+    },
+    {
+      "id": "typescript_002",
+      "doc_order": 2,
+      "title": "TypeScript: Handbook - The TypeScript Handbook",
+      "file": "002_docs_handbook_intro.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+      "content_hash": "b8a3d65b9d067524c8881cb7469b20ffeac638afcfbb79cc3e532a3a3de071c8"
+    },
+    {
+      "id": "typescript_003",
+      "doc_order": 3,
+      "title": "TypeScript: Documentation - JS Projects Utilizing TypeScript",
+      "file": "003_docs_handbook_intro-to-js-ts.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/intro-to-js-ts.html",
+      "content_hash": "0aa1e39716a3fc1bbdbfc5290ae6d67d9991b7fe506faba81e95413f16b2c935"
+    },
+    {
+      "id": "typescript_004",
+      "doc_order": 4,
+      "title": "TypeScript: Documentation - Modules - Introduction",
+      "file": "004_docs_handbook_modules_introduction.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/modules/introduction.html",
+      "content_hash": "4d13abb05cf7f53a55889e2ee4e270cc4850456b8b793f3c21142bca4f8e9b86"
+    },
+    {
+      "id": "typescript_005",
+      "doc_order": 5,
+      "title": "TypeScript: Documentation - Indexed Access Types",
+      "file": "005_docs_handbook_2_indexed-access-types.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/2/indexed-access-types.html",
+      "content_hash": "ab883c2924d706f209b0374dcdc15e42952a3b6d86fdcf37819c0c1f872a5f86"
+    },
+    {
+      "id": "typescript_006",
+      "doc_order": 6,
+      "title": "TypeScript: Documentation - Nightly Builds",
+      "file": "006_docs_handbook_nightly-builds.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/nightly-builds.html",
+      "content_hash": "6f722ef93bda703ab570bd1fd3ae56c24f3cd6bec69e68045de85bb1c6b31679"
+    },
+    {
+      "id": "typescript_007",
+      "doc_order": 7,
+      "title": "TypeScript: Documentation - Declaration Reference",
+      "file": "007_docs_handbook_declaration-files_by-example.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/declaration-files/by-example.html",
+      "content_hash": "81114466bca993c8b2c63a25d9d60eb4fdfde0a2f3082426d352a3abe0359d3c"
+    },
+    {
+      "id": "typescript_008",
+      "doc_order": 8,
+      "title": "TypeScript: Documentation - Consumption",
+      "file": "008_docs_handbook_declaration-files_consumption.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/declaration-files/consumption.html",
+      "content_hash": "7df294f7efdb13901e2775630dbb1dcb24c03530a0d1b95de78f36d1f8176bc4"
+    },
+    {
+      "id": "typescript_009",
+      "doc_order": 9,
+      "title": "TypeScript: Documentation - Deep Dive",
+      "file": "009_docs_handbook_declaration-files_deep-dive.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/declaration-files/deep-dive.html",
+      "content_hash": "c6d904b2fbbd8cee3f2c863b6efb6ccf6bd4cf85d4cb85994888123f33edd751"
+    },
+    {
+      "id": "typescript_010",
+      "doc_order": 10,
+      "title": "TypeScript: Documentation - Do's and Don'ts",
+      "file": "010_docs_handbook_declaration-files_do-s-and-don-ts.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html",
+      "content_hash": "a9958d5418a2077d8bf1a00476066dd5fdeaf5b57a0d842861199045d5c2f5d0"
+    },
+    {
+      "id": "typescript_011",
+      "doc_order": 11,
+      "title": "TypeScript: Documentation - Library Structures",
+      "file": "011_docs_handbook_declaration-files_library-structures.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/declaration-files/library-structures.html",
+      "content_hash": "288caf42634d5aba2bd0466554ec2f4c2c46d3804eba346e484141807c5a3230"
+    },
+    {
+      "id": "typescript_012",
+      "doc_order": 12,
+      "title": "TypeScript: Documentation - Publishing",
+      "file": "012_docs_handbook_declaration-files_publishing.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/declaration-files/publishing.html",
+      "content_hash": "92705960df1bd976bf939c20563869c687cdf2e411f0ee6f6441b3a38cefb4b5"
+    },
+    {
+      "id": "typescript_013",
+      "doc_order": 13,
+      "title": "TypeScript: Documentation - Templates",
+      "file": "013_docs_handbook_declaration-files_templates.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/declaration-files/templates.html",
+      "content_hash": "675c0eafd46c68eb1ec6154d1151ca7e88c075f1afb0ada47c967043f685f873"
+    },
+    {
+      "id": "typescript_014",
+      "doc_order": 14,
+      "title": "TypeScript: Documentation - TypeScript for Functional Programmers",
+      "file": "014_docs_handbook_typescript-in-5-minutes-func.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-func.html",
+      "content_hash": "77eb39f7acb1a9a1580258c5c50083ef4af4d18f93016b98dc6eb009a2d1a8fe"
+    },
+    {
+      "id": "typescript_015",
+      "doc_order": 15,
+      "title": "TypeScript: Documentation - TypeScript for JavaScript Programmers",
+      "file": "015_docs_handbook_typescript-in-5-minutes.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html",
+      "content_hash": "f73fd2d9b13c86b4af5daaf8c9ad8fbf6782533d162e4b0c167912ee4127281e"
+    },
+    {
+      "id": "typescript_016",
+      "doc_order": 16,
+      "title": "TypeScript: Documentation - TypeScript for Java/C# Programmers",
+      "file": "016_docs_handbook_typescript-in-5-minutes-oop.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html",
+      "content_hash": "606114cbcf5d37333df1825911bf6d03e22b2d205725ab8b1f4b59042602ac58"
+    },
+    {
+      "id": "typescript_017",
+      "doc_order": 17,
+      "title": "TypeScript: Documentation - TypeScript for the New Programmer",
+      "file": "017_docs_handbook_typescript-from-scratch.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html",
+      "content_hash": "8d9668f7d0b2c0a2928f70edc04502962ff632809afb428283ae44464de2fcf4"
+    },
+    {
+      "id": "typescript_018",
+      "doc_order": 18,
+      "title": "TypeScript: Handbook - Basic Types",
+      "file": "018_docs_handbook_basic-types.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/basic-types.html",
+      "content_hash": "b816c0020baa644b28da736f0b58615a7a317251bd16f40de7d902a05f469a73"
+    },
+    {
+      "id": "typescript_019",
+      "doc_order": 19,
+      "title": "TypeScript: Handbook - Classes",
+      "file": "019_docs_handbook_classes.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/classes.html",
+      "content_hash": "c63a7760b9468ec014946e43a943a85e67cf17b32b64d4969023b2ea65ca49a4"
+    },
+    {
+      "id": "typescript_020",
+      "doc_order": 20,
+      "title": "TypeScript: Handbook - Functions",
+      "file": "020_docs_handbook_functions.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/functions.html",
+      "content_hash": "1a2ff1682567d125dce39b1e7d6c1b300c62446862d4ee78b1839a942009d28d"
+    },
+    {
+      "id": "typescript_021",
+      "doc_order": 21,
+      "title": "TypeScript: Handbook - Generics",
+      "file": "021_docs_handbook_generics.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/generics.html",
+      "content_hash": "d72e9554cd84e8044648f84768f494e504403b8759ca1dd9b27cbb544c890954"
+    },
+    {
+      "id": "typescript_022",
+      "doc_order": 22,
+      "title": "TypeScript: Handbook - Interfaces",
+      "file": "022_docs_handbook_interfaces.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/interfaces.html",
+      "content_hash": "627c1514bb432d6a0484e3e99f38c5ff0311ddac5b797c382e58ecaa0a238b0f"
+    },
+    {
+      "id": "typescript_023",
+      "doc_order": 23,
+      "title": "TypeScript: Handbook - Literal Types",
+      "file": "023_docs_handbook_literal-types.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/literal-types.html",
+      "content_hash": "cdedc393a6a0c0879d0582dd7876eca98b9378badf112b69257765671327a308"
+    },
+    {
+      "id": "typescript_024",
+      "doc_order": 24,
+      "title": "TypeScript: Handbook - Unions and Intersection Types",
+      "file": "024_docs_handbook_unions-and-intersections.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/unions-and-intersections.html",
+      "content_hash": "a4aeaf5c0073f3ac0508c97c53ec05f880b1274ff0768f9d97782d6671099304"
+    },
+    {
+      "id": "typescript_025",
+      "doc_order": 25,
+      "title": "TypeScript: Documentation - The Basics",
+      "file": "025_docs_handbook_2_basic-types.html.md",
+      "source_url": "https://www.typescriptlang.org/docs/handbook/2/basic-types.html",
+      "content_hash": "869184cde3f1710d0aeb2a938aceb57dfaab321d18049d8c957d5f6fcfbd5d09"
+    }
+  ]
+}

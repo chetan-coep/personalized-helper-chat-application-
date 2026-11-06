@@ -1,0 +1,38 @@
+{
+  "technology": "scikit-learn",
+  "category": "ML & Data",
+  "documents": [
+    {
+      "id": "scikit-learn_001",
+      "doc_order": 1,
+      "title": "scikit-learn: machine learning in Python — scikit-learn 1.9.1 documentation",
+      "file": "001_stable.md",
+      "source_url": "https://scikit-learn.org/stable",
+      "content_hash": "9f3a156ba33d60384827e0c1b5d25e9320a177aed19b9f2a9f760d06e7956d65"
+    },
+    {
+      "id": "scikit-learn_002",
+      "doc_order": 2,
+      "title": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline)",
+      "file": "002_pipelines_and_preprocessing.md",
+      "source_url": "https://scikit-learn.org/stable/modules/compose.html#pipeline",
+      "content_hash": "sklearn_pipeline_preprocessing_002"
+    },
+    {
+      "id": "scikit-learn_003",
+      "doc_order": 3,
+      "title": "Classification and Regression Estimators in scikit-learn",
+      "file": "003_classification_and_regression.md",
+      "source_url": "https://scikit-learn.org/stable/supervised_learning.html",
+      "content_hash": "sklearn_classification_regression_003"
+    },
+    {
+      "id": "scikit-learn_004",
+      "doc_order": 4,
+      "title": "Model Selection and Evaluation in scikit-learn (train_test_split, cross-validation, metrics)",
+      "file": "004_model_selection_and_evaluation.md",
+      "source_url": "https://scikit-learn.org/stable/model_selection.html",
+      "content_hash": "sklearn_model_selection_004"
+    }
+  ]
+}

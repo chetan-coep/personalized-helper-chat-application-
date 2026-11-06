@@ -1,0 +1,166 @@
+{
+  "technology": "Vite",
+  "category": "Frontend",
+  "documents": [
+    {
+      "id": "vite_001",
+      "doc_order": 1,
+      "title": "Environment API for Frameworks | Vite",
+      "file": "001_guide_api-environment-frameworks.md",
+      "source_url": "https://vite.dev/guide/api-environment-frameworks",
+      "content_hash": "204f76aac0168e976152f71d603f02fa445887466117abc72c5c7a49ea877214"
+    },
+    {
+      "id": "vite_002",
+      "doc_order": 2,
+      "title": "Using Environment Instances | Vite",
+      "file": "002_guide_api-environment-instances.md",
+      "source_url": "https://vite.dev/guide/api-environment-instances",
+      "content_hash": "d911f05bc3b11721c01dbffb1fde0d1ca3d94e08583c5f1edb6110bb18a0fc5f"
+    },
+    {
+      "id": "vite_003",
+      "doc_order": 3,
+      "title": "Environment API for Plugins | Vite",
+      "file": "003_guide_api-environment-plugins.md",
+      "source_url": "https://vite.dev/guide/api-environment-plugins",
+      "content_hash": "90f447d09971b239539b2b9e1eb7fe9edad8814c7fddbabc33e0f89bca02ab86"
+    },
+    {
+      "id": "vite_004",
+      "doc_order": 4,
+      "title": "Environment API for Runtimes | Vite",
+      "file": "004_guide_api-environment-runtimes.md",
+      "source_url": "https://vite.dev/guide/api-environment-runtimes",
+      "content_hash": "28b57e1a6efa6f5063389018b0fb368d90f671307b88077fcf4b732d816e749c"
+    },
+    {
+      "id": "vite_005",
+      "doc_order": 5,
+      "title": "Environment API | Vite",
+      "file": "005_guide_api-environment.md",
+      "source_url": "https://vite.dev/guide/api-environment",
+      "content_hash": "6cdf625726bd99e239990e9bd44220cae2b823d82e5674e1c38691114bfc3ce7"
+    },
+    {
+      "id": "vite_006",
+      "doc_order": 6,
+      "title": "HMR API | Vite",
+      "file": "006_guide_api-hmr.md",
+      "source_url": "https://vite.dev/guide/api-hmr",
+      "content_hash": "15bd7a219da20c83d6ffce645deeb82ca42c3e7d136773d57b4ef0e6d1f06995"
+    },
+    {
+      "id": "vite_007",
+      "doc_order": 7,
+      "title": "JavaScript API | Vite",
+      "file": "007_guide_api-javascript.md",
+      "source_url": "https://vite.dev/guide/api-javascript",
+      "content_hash": "bf4a9e075ece844bdd24d9ba25621264b9e6580a5ce93f635068a0aca8800f52"
+    },
+    {
+      "id": "vite_008",
+      "doc_order": 8,
+      "title": "Plugin API | Vite",
+      "file": "008_guide_api-plugin.md",
+      "source_url": "https://vite.dev/guide/api-plugin",
+      "content_hash": "ff7b3ecb8983abf452146e76ae6cbf98c9534649b4f1b3a5af20da76ea5285b3"
+    },
+    {
+      "id": "vite_009",
+      "doc_order": 9,
+      "title": "Static Asset Handling | Vite",
+      "file": "009_guide_assets.md",
+      "source_url": "https://vite.dev/guide/assets",
+      "content_hash": "5424ac7e398d6fe8c7788c3677a6b8e64323402844e068d2a38b76ddafd1fb09"
+    },
+    {
+      "id": "vite_010",
+      "doc_order": 10,
+      "title": "Backend Integration | Vite",
+      "file": "010_guide_backend-integration.md",
+      "source_url": "https://vite.dev/guide/backend-integration",
+      "content_hash": "8a0b3b925935c632908f42bcf9ee7b4cd857c0d5f44fe2a39359767319ccaada"
+    },
+    {
+      "id": "vite_011",
+      "doc_order": 11,
+      "title": "Building for Production | Vite",
+      "file": "011_guide_build.md",
+      "source_url": "https://vite.dev/guide/build",
+      "content_hash": "081286f4a45ee08442e4b6eff382742b981106d319141f884d39da87cdb15119"
+    },
+    {
+      "id": "vite_012",
+      "doc_order": 12,
+      "title": "Command Line Interface | Vite",
+      "file": "012_guide_cli.md",
+      "source_url": "https://vite.dev/guide/cli",
+      "content_hash": "588f3c80249dd473470b08a51f58c3a16c1ccdc6f8c6ce03db0fcfa9e6575204"
+    },
+    {
+      "id": "vite_013",
+      "doc_order": 13,
+      "title": "Dependency Pre-Bundling | Vite",
+      "file": "013_guide_dep-pre-bundling.md",
+      "source_url": "https://vite.dev/guide/dep-pre-bundling",
+      "content_hash": "fb55976c6a9ad700e96491e67fc38b04d73a772dcf849573409c887a99a4bedc"
+    },
+    {
+      "id": "vite_014",
+      "doc_order": 14,
+      "title": "Env Variables and Modes | Vite",
+      "file": "014_guide_env-and-mode.md",
+      "source_url": "https://vite.dev/guide/env-and-mode",
+      "content_hash": "70cc0edf32e5d6ba589aa21d9da838303b6ef735c66762f9864639c5d11d14e9"
+    },
+    {
+      "id": "vite_015",
+      "doc_order": 15,
+      "title": "Features | Vite",
+      "file": "015_guide_features.md",
+      "source_url": "https://vite.dev/guide/features",
+      "content_hash": "f575ddb262beaa57229afd9f6a38b1a215ea605853f8ad328803fd8bc0dfc673"
+    },
+    {
+      "id": "vite_016",
+      "doc_order": 16,
+      "title": "Getting Started | Vite",
+      "file": "016_guide.md",
+      "source_url": "https://vite.dev/guide",
+      "content_hash": "45b124729a10744bc62ad6b85cfa85c52ca23d668e188e39721f1e7e5ed5d3ac"
+    },
+    {
+      "id": "vite_017",
+      "doc_order": 17,
+      "title": "Migration from v7 | Vite",
+      "file": "017_guide_migration.md",
+      "source_url": "https://vite.dev/guide/migration",
+      "content_hash": "4de31d4c48729606dc1e74135612def3c2daa943c4e150dfc639409edab1efa0"
+    },
+    {
+      "id": "vite_018",
+      "doc_order": 18,
+      "title": "Performance | Vite",
+      "file": "018_guide_performance.md",
+      "source_url": "https://vite.dev/guide/performance",
+      "content_hash": "9f82960181a0f6e08682702a3044b118afc339a9834a537991a2af84d66a2fb4"
+    },
+    {
+      "id": "vite_019",
+      "doc_order": 19,
+      "title": "Project Philosophy | Vite",
+      "file": "019_guide_philosophy.md",
+      "source_url": "https://vite.dev/guide/philosophy",
+      "content_hash": "7e294b5d0f48df7dcc5943648bdfe2cd0323bcd3a292c261f8fdd2a8fe026178"
+    },
+    {
+      "id": "vite_020",
+      "doc_order": 20,
+      "title": "Server-Side Rendering (SSR) | Vite",
+      "file": "020_guide_ssr.md",
+      "source_url": "https://vite.dev/guide/ssr",
+      "content_hash": "8155e898ee70755204df3a383864be7dc49be51fa100be708a9866c8dfabbf1d"
+    }
+  ]
+}

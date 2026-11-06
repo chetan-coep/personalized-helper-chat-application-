@@ -1,0 +1,614 @@
+{
+  "technology": "SQL",
+  "category": "Languages",
+  "documents": [
+    {
+      "id": "sql_001",
+      "doc_order": 1,
+      "title": "SQL",
+      "file": "001_index.md",
+      "source_url": "https://www.postgresql.org",
+      "content_hash": "e1ab2f21830658391e00d652a097e2a4df950718d41b289773b66104b3572095"
+    },
+    {
+      "id": "sql_002",
+      "doc_order": 2,
+      "title": "SQL",
+      "file": "002_about_casestudies_mohawk.md",
+      "source_url": "https://www.postgresql.org/about/casestudies/mohawk",
+      "content_hash": "d09d8cb4f623a9124c214c19ad31bbdbf408e09a86d2195cf40ba75c4935ebcc"
+    },
+    {
+      "id": "sql_003",
+      "doc_order": 3,
+      "title": "SQL",
+      "file": "003_about_casestudies_shannonmedical.md",
+      "source_url": "https://www.postgresql.org/about/casestudies/shannonmedical",
+      "content_hash": "d8adbfa6229a8b81d9caf8a59bcbeffed0ac418a4a7585cf23b8d4d19a2dc6f3"
+    },
+    {
+      "id": "sql_004",
+      "doc_order": 4,
+      "title": "SQL",
+      "file": "004_about_casestudies_vanten.md",
+      "source_url": "https://www.postgresql.org/about/casestudies/vanten",
+      "content_hash": "70ed1dfa41e29d1c998ed3b5580dba5b399e537d43fed983229096dc957b2192"
+    },
+    {
+      "id": "sql_005",
+      "doc_order": 5,
+      "title": "SQL",
+      "file": "005_about_donate.md",
+      "source_url": "https://www.postgresql.org/about/donate",
+      "content_hash": "db574227010cfdb438d86a70a20c1aac845d72c5911694016f56fb9f2a7de647"
+    },
+    {
+      "id": "sql_006",
+      "doc_order": 6,
+      "title": "SQL",
+      "file": "006_about_donate_pg_org.md",
+      "source_url": "https://www.postgresql.org/about/donate_pg_org",
+      "content_hash": "d2f07af2fcd11e9a7045bb55b018f259211f8db23d31a0e9d79263e06d9e51db"
+    },
+    {
+      "id": "sql_007",
+      "doc_order": 7,
+      "title": "SQL",
+      "file": "007_about_governance.md",
+      "source_url": "https://www.postgresql.org/about/governance",
+      "content_hash": "8c343718166856b26a48fb286f1ff7cd20f9884a9768598fd46b76d997919fed"
+    },
+    {
+      "id": "sql_008",
+      "doc_order": 8,
+      "title": "SQL",
+      "file": "008_about_governance_contributors.md",
+      "source_url": "https://www.postgresql.org/about/governance/contributors",
+      "content_hash": "5e9441043459152774573d6b008a6d210cac2c1c73ef7b61fe970307266177ea"
+    },
+    {
+      "id": "sql_009",
+      "doc_order": 9,
+      "title": "SQL",
+      "file": "009_about_governance_sysadmin.md",
+      "source_url": "https://www.postgresql.org/about/governance/sysadmin",
+      "content_hash": "a7995205ab24b5d0032a615d30706ccda3e3dcc8b7cbb305e3313067dea99498"
+    },
+    {
+      "id": "sql_010",
+      "doc_order": 10,
+      "title": "SQL",
+      "file": "010_about_licence.md",
+      "source_url": "https://www.postgresql.org/about/licence",
+      "content_hash": "b639d17b47349d4f14799ff2138b82799e368dd6c6cae30902336611641c81d0"
+    },
+    {
+      "id": "sql_011",
+      "doc_order": 11,
+      "title": "SQL",
+      "file": "011_about_policies.md",
+      "source_url": "https://www.postgresql.org/about/policies",
+      "content_hash": "28c5e3214f4c57f68e8cc1d853f4305b3134042a911ff94e4432b610fceb249f"
+    },
+    {
+      "id": "sql_012",
+      "doc_order": 12,
+      "title": "SQL",
+      "file": "012_about_policies_archives.md",
+      "source_url": "https://www.postgresql.org/about/policies/archives",
+      "content_hash": "dd4eb4f6a858035b8b05f303369383903fdb6b40a3b7d3919a696aa34bab1c2e"
+    },
+    {
+      "id": "sql_013",
+      "doc_order": 13,
+      "title": "SQL",
+      "file": "013_about_policies_coc.md",
+      "source_url": "https://www.postgresql.org/about/policies/coc",
+      "content_hash": "1b4c3a76de06c77152b581f23e0fd83821e375b82af4085d9fd45d9b63dc4c2e"
+    },
+    {
+      "id": "sql_014",
+      "doc_order": 14,
+      "title": "SQL",
+      "file": "014_about_policies_coc-translations.md",
+      "source_url": "https://www.postgresql.org/about/policies/coc-translations",
+      "content_hash": "b778a4be70dffa7195b4c1b45041449c719931b92783ef9ce70adfca31433542"
+    },
+    {
+      "id": "sql_015",
+      "doc_order": 15,
+      "title": "SQL",
+      "file": "015_about_policies_coc_committee.md",
+      "source_url": "https://www.postgresql.org/about/policies/coc_committee",
+      "content_hash": "ad2ffb836eba2fbf00fca7d362ca065a2e6789dad4eeadc8148c28529ed07848"
+    },
+    {
+      "id": "sql_016",
+      "doc_order": 16,
+      "title": "SQL",
+      "file": "016_about_policies_coc_he.md",
+      "source_url": "https://www.postgresql.org/about/policies/coc/he",
+      "content_hash": "d46578e3593ca2c7753f8713d1093d2a6d0f9b7d8d23ea097a2f50a3d9ffc39e"
+    },
+    {
+      "id": "sql_017",
+      "doc_order": 17,
+      "title": "SQL",
+      "file": "017_about_policies_coc_it.md",
+      "source_url": "https://www.postgresql.org/about/policies/coc/it",
+      "content_hash": "aa7fc148f291d2371de3bc926b9640422a46d356d20845606042483df03da53b"
+    },
+    {
+      "id": "sql_018",
+      "doc_order": 18,
+      "title": "SQL",
+      "file": "018_about_policies_coc_reports_2018.md",
+      "source_url": "https://www.postgresql.org/about/policies/coc/reports/2018",
+      "content_hash": "822117015e15f6b2a3f06d2bef9ddb6f7b7b65e6a8609c423f05c9e411156064"
+    },
+    {
+      "id": "sql_019",
+      "doc_order": 19,
+      "title": "SQL",
+      "file": "019_about_policies_coc_reports_2019.md",
+      "source_url": "https://www.postgresql.org/about/policies/coc/reports/2019",
+      "content_hash": "b58f150050a52ba150b9c96eada1ec7783ad6407c52c020d2432a52d82b969bf"
+    },
+    {
+      "id": "sql_020",
+      "doc_order": 20,
+      "title": "SQL",
+      "file": "020_about_policies_coc_reports_2020.md",
+      "source_url": "https://www.postgresql.org/about/policies/coc/reports/2020",
+      "content_hash": "4881dc6ee63a581cad7e4702b6bf84a5ea1b3ad2f2ba8fd614811596c6885fe0"
+    },
+    {
+      "id": "sql_021",
+      "doc_order": 21,
+      "title": "SQL",
+      "file": "021_about_policies_coc_reports_2021.md",
+      "source_url": "https://www.postgresql.org/about/policies/coc/reports/2021",
+      "content_hash": "2cc38b2e3c991833fbb74c9e274ce77181c6316e9ab09225d88e87915dec378e"
+    },
+    {
+      "id": "sql_022",
+      "doc_order": 22,
+      "title": "SQL",
+      "file": "022_about_policies_coc_reports_2022.md",
+      "source_url": "https://www.postgresql.org/about/policies/coc/reports/2022",
+      "content_hash": "dfd300ec8acaa40198c6d96f997b8079bb2b57c0d7404d7c0bb002a1c712f231"
+    },
+    {
+      "id": "sql_023",
+      "doc_order": 23,
+      "title": "SQL",
+      "file": "023_about_policies_conferences.md",
+      "source_url": "https://www.postgresql.org/about/policies/conferences",
+      "content_hash": "84e2e6f31efbcd0b563d866cad6cfe1f31b8515af8bfc2204af6388aec72829c"
+    },
+    {
+      "id": "sql_024",
+      "doc_order": 24,
+      "title": "SQL",
+      "file": "024_about_policies_contributors.md",
+      "source_url": "https://www.postgresql.org/about/policies/contributors",
+      "content_hash": "487fdde3445cf11cded2e1a48e1ee3528edb6bd66ba2e4a19699b3d3dfcc24e1"
+    },
+    {
+      "id": "sql_025",
+      "doc_order": 25,
+      "title": "SQL",
+      "file": "025_about_policies_funds-group.md",
+      "source_url": "https://www.postgresql.org/about/policies/funds-group",
+      "content_hash": "a6713c44638224ad2e1f26268e319d85d51442200379e9eabf947a8deecb118e"
+    },
+    {
+      "id": "sql_026",
+      "doc_order": 26,
+      "title": "SQL",
+      "file": "026_about_policies_news-and-events.md",
+      "source_url": "https://www.postgresql.org/about/policies/news-and-events",
+      "content_hash": "09277691f078e432ec68990643df8971122fe2e796c3222bec5ef664ca4c89b4"
+    },
+    {
+      "id": "sql_027",
+      "doc_order": 27,
+      "title": "SQL",
+      "file": "027_about_policies_npos.md",
+      "source_url": "https://www.postgresql.org/about/policies/npos",
+      "content_hash": "368f89bb287e9571adb75f6da9d0d3fa4a91d74d97480b305717723b0e4da9b8"
+    },
+    {
+      "id": "sql_028",
+      "doc_order": 28,
+      "title": "SQL",
+      "file": "028_about_policies_planet-postgresql.md",
+      "source_url": "https://www.postgresql.org/about/policies/planet-postgresql",
+      "content_hash": "6b0e73d69b0ebbff99b041d7ed4b17bce7e46cb923fc1db589c3c95e4e3921d9"
+    },
+    {
+      "id": "sql_029",
+      "doc_order": 29,
+      "title": "SQL",
+      "file": "029_about_policies_privacy.md",
+      "source_url": "https://www.postgresql.org/about/policies/privacy",
+      "content_hash": "65973b33f40419e55bbc31fc967e3d4f06c8deabc2a40c6ebaa42f6b2ed3eee0"
+    },
+    {
+      "id": "sql_030",
+      "doc_order": 30,
+      "title": "SQL",
+      "file": "030_about_policies_project-name.md",
+      "source_url": "https://www.postgresql.org/about/policies/project-name",
+      "content_hash": "6777f0eed6b4b1b7e0e795c876cdc1d231ee57544dd79f9733331d5999a71a76"
+    },
+    {
+      "id": "sql_031",
+      "doc_order": 31,
+      "title": "SQL",
+      "file": "031_about_policies_services-and-hosting.md",
+      "source_url": "https://www.postgresql.org/about/policies/services-and-hosting",
+      "content_hash": "76ef5b170eb74abdad8427c9c1b14cc5264140b1f66a00be513b5b8def244d0a"
+    },
+    {
+      "id": "sql_032",
+      "doc_order": 32,
+      "title": "SQL",
+      "file": "032_about_policies_sponsorship.md",
+      "source_url": "https://www.postgresql.org/about/policies/sponsorship",
+      "content_hash": "66a18bd5e3a68c71facec52efb4c58daf1be45b31e54de9c51897759dfa92643"
+    },
+    {
+      "id": "sql_033",
+      "doc_order": 33,
+      "title": "SQL",
+      "file": "033_about_policies_trademarks.md",
+      "source_url": "https://www.postgresql.org/about/policies/trademarks",
+      "content_hash": "08c51778d6193b08a0e8d35d4b0f2e223e9402c2c31bc4b88fadd65cd0e99bf7"
+    },
+    {
+      "id": "sql_034",
+      "doc_order": 34,
+      "title": "SQL",
+      "file": "034_about_policies_twitter.md",
+      "source_url": "https://www.postgresql.org/about/policies/twitter",
+      "content_hash": "708921835f6b9915167c2fe2270dbe5a9d5b5ab74efe8b1f58647221eb527717"
+    },
+    {
+      "id": "sql_035",
+      "doc_order": 35,
+      "title": "SQL",
+      "file": "035_about_policies_user-groups.md",
+      "source_url": "https://www.postgresql.org/about/policies/user-groups",
+      "content_hash": "e327476132a2e3ea1469afb80cc4f237b07142bf86e371fe28f3dc4f815c4717"
+    },
+    {
+      "id": "sql_036",
+      "doc_order": 36,
+      "title": "SQL",
+      "file": "036_about_press.md",
+      "source_url": "https://www.postgresql.org/about/press",
+      "content_hash": "956f45928774d8955f11548197d93b847e60690a9a17c61aee86635b26ce7810"
+    },
+    {
+      "id": "sql_037",
+      "doc_order": 37,
+      "title": "SQL",
+      "file": "037_about_press_faq.md",
+      "source_url": "https://www.postgresql.org/about/press/faq",
+      "content_hash": "218117f34913cb9f04bf3ecb2fc8bbf8d100c8189206d2e28efd9c593969c32b"
+    },
+    {
+      "id": "sql_038",
+      "doc_order": 38,
+      "title": "SQL",
+      "file": "038_about_press_presskit13_base.md",
+      "source_url": "https://www.postgresql.org/about/press/presskit13/base",
+      "content_hash": "2581ad067b77dc577da5aea25174b1f309d41a30cf390116ba281419d03366c2"
+    },
+    {
+      "id": "sql_039",
+      "doc_order": 39,
+      "title": "SQL",
+      "file": "039_about_press_presskit13_en.md",
+      "source_url": "https://www.postgresql.org/about/press/presskit13/en",
+      "content_hash": "023dee653ab09ccd3428f7c79969329ddf9f349ec057c22a1a41b092c3a17530"
+    },
+    {
+      "id": "sql_040",
+      "doc_order": 40,
+      "title": "SQL",
+      "file": "040_about_press_presskit13_he.md",
+      "source_url": "https://www.postgresql.org/about/press/presskit13/he",
+      "content_hash": "2b99642cb284c3f0fecf79732df09e8cc46b0cf10608b5c30cbaa860936293af"
+    },
+    {
+      "id": "sql_041",
+      "doc_order": 41,
+      "title": "SQL",
+      "file": "041_about_press_presskit13_id.md",
+      "source_url": "https://www.postgresql.org/about/press/presskit13/id",
+      "content_hash": "81993ea66fd972ef134e9bfcd0b14fd9d810ccad321f981408b6af385b277d35"
+    },
+    {
+      "id": "sql_042",
+      "doc_order": 42,
+      "title": "SQL",
+      "file": "042_about_press_presskit13_pl.md",
+      "source_url": "https://www.postgresql.org/about/press/presskit13/pl",
+      "content_hash": "2b98f8ffbfc7c69a9508912204eda18270c8d3eec43afecb709d2de4fc2a3702"
+    },
+    {
+      "id": "sql_043",
+      "doc_order": 43,
+      "title": "SQL",
+      "file": "043_about_press_presskit18_base.md",
+      "source_url": "https://www.postgresql.org/about/press/presskit18/base",
+      "content_hash": "d895dea0e43efad015b2391e1c0b5ec2eb554f1ec1442662fdd7f6c685bb5df9"
+    },
+    {
+      "id": "sql_044",
+      "doc_order": 44,
+      "title": "SQL",
+      "file": "044_about_press_presskit18_el.md",
+      "source_url": "https://www.postgresql.org/about/press/presskit18/el",
+      "content_hash": "9dc83bee0f074397267e20efb4fd51d0951fc11ee9c8ec27aa7913aa8a184872"
+    },
+    {
+      "id": "sql_045",
+      "doc_order": 45,
+      "title": "SQL",
+      "file": "045_about_press_presskit18_en.md",
+      "source_url": "https://www.postgresql.org/about/press/presskit18/en",
+      "content_hash": "184afe3bcc8b809ba885a34720b8a50bd788d6f70c1361b2617884e87d6d91f9"
+    },
+    {
+      "id": "sql_046",
+      "doc_order": 46,
+      "title": "SQL",
+      "file": "046_about_press_presskit18_he.md",
+      "source_url": "https://www.postgresql.org/about/press/presskit18/he",
+      "content_hash": "cb29d7448b466b445e4538e58c5daf91091833eb6eaa2fba195342a26ee005c0"
+    },
+    {
+      "id": "sql_047",
+      "doc_order": 47,
+      "title": "SQL",
+      "file": "047_about_press_presskit18_id.md",
+      "source_url": "https://www.postgresql.org/about/press/presskit18/id",
+      "content_hash": "fe03b708da3375c2c419044be420f756dec124ee9f8dcf51960900e0bcde4f81"
+    },
+    {
+      "id": "sql_048",
+      "doc_order": 48,
+      "title": "SQL",
+      "file": "048_about_press_presskit18_it.md",
+      "source_url": "https://www.postgresql.org/about/press/presskit18/it",
+      "content_hash": "2b9666f6f5180c659d0e973b672dc287a52be7a274f3d11111a6b55ba94953ed"
+    },
+    {
+      "id": "sql_049",
+      "doc_order": 49,
+      "title": "SQL",
+      "file": "049_about_press_presskit18_th.md",
+      "source_url": "https://www.postgresql.org/about/press/presskit18/th",
+      "content_hash": "61fcc3d7bb22876a94a8af8d807de3c80fbd30145752bb03b341a298b3be0a99"
+    },
+    {
+      "id": "sql_050",
+      "doc_order": 50,
+      "title": "SQL",
+      "file": "050_about_press_presskit18_uk.md",
+      "source_url": "https://www.postgresql.org/about/press/presskit18/uk",
+      "content_hash": "b40e75beeba5040bb1f267de8741e039032b6b5ad9904dcd5e81f87ce1e04785"
+    },
+    {
+      "id": "sql_051",
+      "doc_order": 51,
+      "title": "SQL",
+      "file": "051_about_press_presskit96_en.md",
+      "source_url": "https://www.postgresql.org/about/press/presskit96/en",
+      "content_hash": "0585d0f2b88f4cb931407575f96737368895b00d17f6113e73d50c36e811f961"
+    },
+    {
+      "id": "sql_052",
+      "doc_order": 52,
+      "title": "SQL",
+      "file": "052_about_press_presskit96_it.md",
+      "source_url": "https://www.postgresql.org/about/press/presskit96/it",
+      "content_hash": "71689f2d64675a71c6e16899a2c4001f1b64b4513f77e7d14328ae6ed6c31ae8"
+    },
+    {
+      "id": "sql_053",
+      "doc_order": 53,
+      "title": "SQL",
+      "file": "053_community.md",
+      "source_url": "https://www.postgresql.org/community",
+      "content_hash": "2da1410b01bc1c5b9c893bbb86f874c214a20c3eced50613a97057605dcb24cf"
+    },
+    {
+      "id": "sql_054",
+      "doc_order": 54,
+      "title": "SQL",
+      "file": "054_community_international.md",
+      "source_url": "https://www.postgresql.org/community/international",
+      "content_hash": "3db65cfac01093ef26fef0b5a471d79b0141847fa54c4f28df083fce5a42d1f7"
+    },
+    {
+      "id": "sql_055",
+      "doc_order": 55,
+      "title": "SQL",
+      "file": "055_community_irc.md",
+      "source_url": "https://www.postgresql.org/community/irc",
+      "content_hash": "9d0a61036bf001c68d21582685e0c643a2d3004236e26510ea0347574c84bc76"
+    },
+    {
+      "id": "sql_056",
+      "doc_order": 56,
+      "title": "SQL",
+      "file": "056_community_recognised-npos.md",
+      "source_url": "https://www.postgresql.org/community/recognised-npos",
+      "content_hash": "c8b63f255f764a31ec8421170a513b39b72046212ea28548ccf0e1ba58fa3ddb"
+    },
+    {
+      "id": "sql_057",
+      "doc_order": 57,
+      "title": "SQL",
+      "file": "057_developer.md",
+      "source_url": "https://www.postgresql.org/developer",
+      "content_hash": "ed3eb21af1ab59f455eb2ca7afcf3efbf1c269ca7936047440b46c5f9c224ca4"
+    },
+    {
+      "id": "sql_058",
+      "doc_order": 58,
+      "title": "SQL",
+      "file": "058_docs_faq.md",
+      "source_url": "https://www.postgresql.org/docs/faq",
+      "content_hash": "5ecd2424d40de361828796526e0723170f162bc430f3b1dd82355db4e809661b"
+    },
+    {
+      "id": "sql_059",
+      "doc_order": 59,
+      "title": "SQL",
+      "file": "059_docs_online-resources.md",
+      "source_url": "https://www.postgresql.org/docs/online-resources",
+      "content_hash": "b0e5aa97f8bbf3beaf4285171c80cd1c48a3eddd3b2635611a219691dc456f79"
+    },
+    {
+      "id": "sql_060",
+      "doc_order": 60,
+      "title": "SQL",
+      "file": "060_download.md",
+      "source_url": "https://www.postgresql.org/download",
+      "content_hash": "fa8f096842ccd998ed659163542e4872b9c255a3035943f5619a501d101ed085"
+    },
+    {
+      "id": "sql_061",
+      "doc_order": 61,
+      "title": "SQL",
+      "file": "061_download_bsd.md",
+      "source_url": "https://www.postgresql.org/download/bsd",
+      "content_hash": "338cc716c899560dfa5f7bd414c40491156827d50af8a355f5f688d746cb66f5"
+    },
+    {
+      "id": "sql_062",
+      "doc_order": 62,
+      "title": "SQL",
+      "file": "062_download_freebsd.md",
+      "source_url": "https://www.postgresql.org/download/freebsd",
+      "content_hash": "318966c71dd39a2b94fabc87b82137c9080a94a63478302c86d8df98a83cc1c5"
+    },
+    {
+      "id": "sql_063",
+      "doc_order": 63,
+      "title": "SQL",
+      "file": "063_download_linux.md",
+      "source_url": "https://www.postgresql.org/download/linux",
+      "content_hash": "ed5aad84f6a178f75d764b8c616ed325b70671d5b81160b3f6acb9eefa5fa347"
+    },
+    {
+      "id": "sql_064",
+      "doc_order": 64,
+      "title": "SQL",
+      "file": "064_download_linux_debian.md",
+      "source_url": "https://www.postgresql.org/download/linux/debian",
+      "content_hash": "f4e0904185204b3e5ae218f2797d6fc479a85ecfae6f36fd26362b8945a5a0c7"
+    },
+    {
+      "id": "sql_065",
+      "doc_order": 65,
+      "title": "SQL",
+      "file": "065_download_linux_redhat.md",
+      "source_url": "https://www.postgresql.org/download/linux/redhat",
+      "content_hash": "7897a433c27a5c2f9caf82beffbec5460789e3cd596283e8b1fb76a9aa26712b"
+    },
+    {
+      "id": "sql_066",
+      "doc_order": 66,
+      "title": "SQL",
+      "file": "066_download_linux_suse.md",
+      "source_url": "https://www.postgresql.org/download/linux/suse",
+      "content_hash": "87a9b62913a5c5435f32aa9185d40fa86aac8d0d16e6437e6e94cbab7ad27b5d"
+    },
+    {
+      "id": "sql_067",
+      "doc_order": 67,
+      "title": "SQL",
+      "file": "067_download_linux_ubuntu.md",
+      "source_url": "https://www.postgresql.org/download/linux/ubuntu",
+      "content_hash": "07aad6bc8f9d31f00c084f1aea6b430a0c1c6709fa368add26b88a5e63cd5f0d"
+    },
+    {
+      "id": "sql_068",
+      "doc_order": 68,
+      "title": "SQL",
+      "file": "068_download_macosx.md",
+      "source_url": "https://www.postgresql.org/download/macosx",
+      "content_hash": "45fdc6da5aad3baa2a787d35396bbb2633922cce77090f8ca90775a0f30a4f95"
+    },
+    {
+      "id": "sql_069",
+      "doc_order": 69,
+      "title": "SQL",
+      "file": "069_download_netbsd.md",
+      "source_url": "https://www.postgresql.org/download/netbsd",
+      "content_hash": "ec021e5cf08f549e3058dd82cf14f42c326eb68daefd8943d343ac316034cbaa"
+    },
+    {
+      "id": "sql_070",
+      "doc_order": 70,
+      "title": "SQL",
+      "file": "070_download_openbsd.md",
+      "source_url": "https://www.postgresql.org/download/openbsd",
+      "content_hash": "c84b044fccdeae706a97a99320f7ac971b971aba72af29fe90e841aab070f849"
+    },
+    {
+      "id": "sql_071",
+      "doc_order": 71,
+      "title": "SQL",
+      "file": "071_download_snapshots.md",
+      "source_url": "https://www.postgresql.org/download/snapshots",
+      "content_hash": "7f12fd7ded772c82d895d8d21117a6fa13b9734600737190eae81008101684c0"
+    },
+    {
+      "id": "sql_072",
+      "doc_order": 72,
+      "title": "SQL",
+      "file": "072_download_solaris.md",
+      "source_url": "https://www.postgresql.org/download/solaris",
+      "content_hash": "7651f02e576af0a79d71c3fe21d0d4c1e2225715f19759580b8bb028cb6524a8"
+    },
+    {
+      "id": "sql_073",
+      "doc_order": 73,
+      "title": "SQL",
+      "file": "073_download_windows.md",
+      "source_url": "https://www.postgresql.org/download/windows",
+      "content_hash": "ff3cd5573787c71e01cff0d6b162c344d9c10f56a059f41932be421b929011bf"
+    },
+    {
+      "id": "sql_074",
+      "doc_order": 74,
+      "title": "SQL",
+      "file": "074_support.md",
+      "source_url": "https://www.postgresql.org/support",
+      "content_hash": "fc54591f9627b752a6673712593ce6b01bfd921b50a2e53670c4de61b84d8230"
+    },
+    {
+      "id": "sql_075",
+      "doc_order": 75,
+      "title": "SQL",
+      "file": "075_support_versioning.md",
+      "source_url": "https://www.postgresql.org/support/versioning",
+      "content_hash": "41259384e828162aed7cfcd6a5b0618131816a112b525509232efa86682bcd19"
+    },
+    {
+      "id": "sql_076",
+      "doc_order": 76,
+      "title": "SQL Indexing: Concepts, CREATE INDEX Syntax, and Performance Optimization",
+      "file": "076_sql_indexes_and_optimization.md",
+      "source_url": "https://www.postgresql.org/docs/current/sql-createindex.html",
+      "content_hash": "sql_index_comprehensive_076"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "technology": "MySQL",
+  "category": "Databases",
+  "documents": [
+    {
+      "id": "mysql_001",
+      "doc_order": 1,
+      "title": "MySQL",
+      "file": "001_doc.md",
+      "source_url": "https://dev.mysql.com/doc",
+      "content_hash": "355c6a94c5e49684a539ef3890b51d48eab9e247c24ae8b157b1c919cd9fb99b"
+    },
+    {
+      "id": "mysql_002",
+      "doc_order": 2,
+      "title": "MySQL Optimization: CREATE INDEX, Clustered & Secondary Indexes",
+      "file": "002_mysql_indexes_and_create_index.md",
+      "source_url": "https://dev.mysql.com/doc/refman/8.4/en/create-index.html",
+      "content_hash": "mysql_create_index_002"
+    }
+  ]
+}

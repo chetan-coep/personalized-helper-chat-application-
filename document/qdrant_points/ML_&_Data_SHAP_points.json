@@ -1,0 +1,178 @@
+{
+  "category": "ML_&_Data",
+  "technology": "SHAP",
+  "total_points": 9,
+  "points": [
+    {
+      "id": "03e74e74-25dc-55ba-af42-4dac89814799",
+      "payload": {
+        "point_id": "03e74e74-25dc-55ba-af42-4dac89814799",
+        "doc_id": "shap_001",
+        "doc_order": 1,
+        "chunk_index": 0,
+        "total_chunks": 3,
+        "technology": "SHAP",
+        "category": "ML & Data",
+        "title": "Welcome to the SHAP documentation \u2014 SHAP latest documentation",
+        "section": "Welcome to the SHAP documentation \u2014 SHAP latest documentation",
+        "breadcrumb": "Welcome to the SHAP documentation \u2014 SHAP latest documentation",
+        "source_url": "https://shap.readthedocs.io/en/latest",
+        "content": "## Welcome to the SHAP documentation \u2014 SHAP latest documentation\n\nSource: https://shap.readthedocs.io/en/latest\n\n---",
+        "char_count": 116,
+        "token_estimate": 29
+      }
+    },
+    {
+      "id": "13c4d94c-41c8-5d39-a38b-7e06e80957b3",
+      "payload": {
+        "point_id": "13c4d94c-41c8-5d39-a38b-7e06e80957b3",
+        "doc_id": "shap_001",
+        "doc_order": 1,
+        "chunk_index": 1,
+        "total_chunks": 3,
+        "technology": "SHAP",
+        "category": "ML & Data",
+        "title": "Welcome to the SHAP documentation \u2014 SHAP latest documentation",
+        "section": "Welcome to the SHAP documentation[](https://shap.readthedocs.io#welcome-to-the-shap-documentation)",
+        "breadcrumb": "Welcome to the SHAP documentation \u2014 SHAP latest documentation > Welcome to the SHAP documentation[](https://shap.readthedocs.io#welcome-to-the-shap-documentation)",
+        "source_url": "https://shap.readthedocs.io/en/latest",
+        "content": "## Welcome to the SHAP documentation[](https://shap.readthedocs.io#welcome-to-the-shap-documentation)\n\n**SHAP (SHapley Additive exPlanations)** is a game theoretic approach to explain the output of\nany machine learning model. It connects optimal credit allocation with local explanations\nusing the classic Shapley values from game theory and their related extensions (see\n[papers](https://github.com/shap/shap#citations) for details and citations).",
+        "char_count": 448,
+        "token_estimate": 112
+      }
+    },
+    {
+      "id": "5cd2706e-f1eb-5e93-a96f-63d5dada08a3",
+      "payload": {
+        "point_id": "5cd2706e-f1eb-5e93-a96f-63d5dada08a3",
+        "doc_id": "shap_001",
+        "doc_order": 1,
+        "chunk_index": 2,
+        "total_chunks": 3,
+        "technology": "SHAP",
+        "category": "ML & Data",
+        "title": "Welcome to the SHAP documentation \u2014 SHAP latest documentation",
+        "section": "Install[](https://shap.readthedocs.io#install)",
+        "breadcrumb": "Welcome to the SHAP documentation \u2014 SHAP latest documentation > Welcome to the SHAP documentation[](https://shap.readthedocs.io#welcome-to-the-shap-documentation) > Install[](https://shap.readthedocs.io#install)",
+        "source_url": "https://shap.readthedocs.io/en/latest",
+        "content": "## Install[](https://shap.readthedocs.io#install)\n\nSHAP can be installed from either [PyPI](https://pypi.org/project/shap) or\n[conda-forge](https://anaconda.org/conda-forge/shap):\n\n```\npip install shap\nor\nconda install -c conda-forge shap\n```",
+        "char_count": 242,
+        "token_estimate": 60
+      }
+    },
+    {
+      "id": "aab7ad63-3d41-5a44-9078-16e598cc35ca",
+      "payload": {
+        "point_id": "aab7ad63-3d41-5a44-9078-16e598cc35ca",
+        "doc_id": "shap_002",
+        "doc_order": 2,
+        "chunk_index": 0,
+        "total_chunks": 3,
+        "technology": "SHAP",
+        "category": "ML & Data",
+        "title": "Welcome to the SHAP documentation \u2014 SHAP latest documentation",
+        "section": "Welcome to the SHAP documentation \u2014 SHAP latest documentation",
+        "breadcrumb": "Welcome to the SHAP documentation \u2014 SHAP latest documentation",
+        "source_url": "https://shap.readthedocs.io/en/latest",
+        "content": "## Welcome to the SHAP documentation \u2014 SHAP latest documentation\n\nSource: https://shap.readthedocs.io/en/latest\n\n---",
+        "char_count": 116,
+        "token_estimate": 29
+      }
+    },
+    {
+      "id": "fd1f5651-eb56-5787-8857-edb1e3a0f1ea",
+      "payload": {
+        "point_id": "fd1f5651-eb56-5787-8857-edb1e3a0f1ea",
+        "doc_id": "shap_002",
+        "doc_order": 2,
+        "chunk_index": 1,
+        "total_chunks": 3,
+        "technology": "SHAP",
+        "category": "ML & Data",
+        "title": "Welcome to the SHAP documentation \u2014 SHAP latest documentation",
+        "section": "Welcome to the SHAP documentation[](https://shap.readthedocs.io#welcome-to-the-shap-documentation)",
+        "breadcrumb": "Welcome to the SHAP documentation \u2014 SHAP latest documentation > Welcome to the SHAP documentation[](https://shap.readthedocs.io#welcome-to-the-shap-documentation)",
+        "source_url": "https://shap.readthedocs.io/en/latest",
+        "content": "## Welcome to the SHAP documentation[](https://shap.readthedocs.io#welcome-to-the-shap-documentation)\n\n**SHAP (SHapley Additive exPlanations)** is a game theoretic approach to explain the output of\nany machine learning model. It connects optimal credit allocation with local explanations\nusing the classic Shapley values from game theory and their related extensions (see\n[papers](https://github.com/shap/shap#citations) for details and citations).",
+        "char_count": 448,
+        "token_estimate": 112
+      }
+    },
+    {
+      "id": "9ec648f4-7148-5561-9b1e-285cdadf3860",
+      "payload": {
+        "point_id": "9ec648f4-7148-5561-9b1e-285cdadf3860",
+        "doc_id": "shap_002",
+        "doc_order": 2,
+        "chunk_index": 2,
+        "total_chunks": 3,
+        "technology": "SHAP",
+        "category": "ML & Data",
+        "title": "Welcome to the SHAP documentation \u2014 SHAP latest documentation",
+        "section": "Install[](https://shap.readthedocs.io#install)",
+        "breadcrumb": "Welcome to the SHAP documentation \u2014 SHAP latest documentation > Welcome to the SHAP documentation[](https://shap.readthedocs.io#welcome-to-the-shap-documentation) > Install[](https://shap.readthedocs.io#install)",
+        "source_url": "https://shap.readthedocs.io/en/latest",
+        "content": "## Install[](https://shap.readthedocs.io#install)\n\nSHAP can be installed from either [PyPI](https://pypi.org/project/shap) or\n[conda-forge](https://anaconda.org/conda-forge/shap):\n\n```\npip install shap\nor\nconda install -c conda-forge shap\n```",
+        "char_count": 242,
+        "token_estimate": 60
+      }
+    },
+    {
+      "id": "318273f7-7577-5ac5-b63e-e14ef494f7a8",
+      "payload": {
+        "point_id": "318273f7-7577-5ac5-b63e-e14ef494f7a8",
+        "doc_id": "shap_003",
+        "doc_order": 3,
+        "chunk_index": 0,
+        "total_chunks": 3,
+        "technology": "SHAP",
+        "category": "ML & Data",
+        "title": "SHAP",
+        "section": "SHAP",
+        "breadcrumb": "SHAP",
+        "source_url": "https://shap.readthedocs.io/en/stable",
+        "content": "## SHAP\n\nSource: https://shap.readthedocs.io/en/stable\n\n---",
+        "char_count": 59,
+        "token_estimate": 14
+      }
+    },
+    {
+      "id": "0e81d787-52c5-5f71-be03-5743fc64ac7c",
+      "payload": {
+        "point_id": "0e81d787-52c5-5f71-be03-5743fc64ac7c",
+        "doc_id": "shap_003",
+        "doc_order": 3,
+        "chunk_index": 1,
+        "total_chunks": 3,
+        "technology": "SHAP",
+        "category": "ML & Data",
+        "title": "SHAP",
+        "section": "Welcome to the SHAP documentation[](https://shap.readthedocs.io#welcome-to-the-shap-documentation)",
+        "breadcrumb": "SHAP > Welcome to the SHAP documentation[](https://shap.readthedocs.io#welcome-to-the-shap-documentation)",
+        "source_url": "https://shap.readthedocs.io/en/stable",
+        "content": "## Welcome to the SHAP documentation[](https://shap.readthedocs.io#welcome-to-the-shap-documentation)\n\n**SHAP (SHapley Additive exPlanations)** is a game theoretic approach to explain the output of\nany machine learning model. It connects optimal credit allocation with local explanations\nusing the classic Shapley values from game theory and their related extensions (see\n[papers](https://github.com/shap/shap#citations) for details and citations).",
+        "char_count": 448,
+        "token_estimate": 112
+      }
+    },
+    {
+      "id": "975e0e9f-abd4-5f34-91b6-6cf394fdb737",
+      "payload": {
+        "point_id": "975e0e9f-abd4-5f34-91b6-6cf394fdb737",
+        "doc_id": "shap_003",
+        "doc_order": 3,
+        "chunk_index": 2,
+        "total_chunks": 3,
+        "technology": "SHAP",
+        "category": "ML & Data",
+        "title": "SHAP",
+        "section": "Install[](https://shap.readthedocs.io#install)",
+        "breadcrumb": "SHAP > Welcome to the SHAP documentation[](https://shap.readthedocs.io#welcome-to-the-shap-documentation) > Install[](https://shap.readthedocs.io#install)",
+        "source_url": "https://shap.readthedocs.io/en/stable",
+        "content": "## Install[](https://shap.readthedocs.io#install)\n\nSHAP can be installed from either [PyPI](https://pypi.org/project/shap) or\n[conda-forge](https://anaconda.org/conda-forge/shap):\n\n```\npip install shap\nor\nconda install -c conda-forge shap\n```",
+        "char_count": 242,
+        "token_estimate": 60
+      }
+    }
+  ]
+}

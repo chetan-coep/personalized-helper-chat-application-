@@ -1,0 +1,47 @@
+# ==========================================
+# Private Information & Credentials (CRITICAL)
+# ==========================================
+.env
+*.env
+.env.local
+.env.*.local
+*.pem
+*.key
+*.cert
+
+# ==========================================
+# Python Environments & Virtual Envs
+# ==========================================
+.venv/
+venv/
+ENV/
+env/
+.python-version
+
+# ==========================================
+# Python Bytecode & Build Artifacts
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+wheels/
+*.egg-info/
+*.egg
+
+# ==========================================
+# FastEmbed / HuggingFace Caches
+# ==========================================
+.cache/
+fastembed_cache/
+
+# ==========================================
+# Logs & Editor Files
+# ==========================================
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

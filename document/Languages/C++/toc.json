@@ -1,0 +1,190 @@
+{
+  "technology": "C++",
+  "category": "Languages",
+  "documents": [
+    {
+      "id": "c++_001",
+      "doc_order": 1,
+      "title": "C++ compiler support - cppreference.com",
+      "file": "001_cpp_compiler_support.md",
+      "source_url": "https://en.cppreference.com/cpp/compiler_support",
+      "content_hash": "89cd3dddac3c9a4fb313ccf03a88c39f8cb03c4279af8c6523cd538dcb2712d5"
+    },
+    {
+      "id": "c++_002",
+      "doc_order": 2,
+      "title": "Freestanding and hosted implementations - cppreference.com",
+      "file": "002_cpp_freestanding.md",
+      "source_url": "https://en.cppreference.com/cpp/freestanding",
+      "content_hash": "828d6516a8509bcfb56f930a158666eaa1191e31d2c9177565639d3c9b215060"
+    },
+    {
+      "id": "c++_003",
+      "doc_order": 3,
+      "title": "C++ language - cppreference.com",
+      "file": "003_cpp_language.md",
+      "source_url": "https://en.cppreference.com/cpp/language",
+      "content_hash": "946581ccf7cd815d6e87fe77de04c4d66b6027b4850d3b7c68ce8ce401305c99"
+    },
+    {
+      "id": "c++_004",
+      "doc_order": 4,
+      "title": "C++ Standard Library - cppreference.com",
+      "file": "004_cpp_standard_library.md",
+      "source_url": "https://en.cppreference.com/cpp/standard_library",
+      "content_hash": "784aad71a19828693a8c17d09a9e654ddb55a0461100a72b611f0c71204ba948"
+    },
+    {
+      "id": "c++_005",
+      "doc_order": 5,
+      "title": "C++ Standard Library headers - cppreference.com",
+      "file": "005_cpp_header.md",
+      "source_url": "https://en.cppreference.com/cpp/header",
+      "content_hash": "a2cdc48d12c8b09a9602bfc21a934b114d20554d63485ac491896460de25d107"
+    },
+    {
+      "id": "c++_006",
+      "doc_order": 6,
+      "title": "Named Requirements - cppreference.com",
+      "file": "006_cpp_named_req.md",
+      "source_url": "https://en.cppreference.com/cpp/named_req",
+      "content_hash": "a9b34a2397a7e03eb11debc134da4be7813f5504257ecbc6d5044bcdf40274e2"
+    },
+    {
+      "id": "c++_007",
+      "doc_order": 7,
+      "title": "Feature testing (since C++20) - cppreference.com",
+      "file": "007_cpp_feature_test.md",
+      "source_url": "https://en.cppreference.com/cpp/feature_test",
+      "content_hash": "477267c0de7cc79f7806529dfc1a9861f5519e27d2040f6b5a575beec3c6cf98"
+    },
+    {
+      "id": "c++_008",
+      "doc_order": 8,
+      "title": "Utility library - cppreference.com",
+      "file": "008_cpp_utility.md",
+      "source_url": "https://en.cppreference.com/cpp/utility",
+      "content_hash": "7053285b2b64636bc3805892212c1629973a4cab14666b835a817109b63472f5"
+    },
+    {
+      "id": "c++_009",
+      "doc_order": 9,
+      "title": "Concepts library (since C++20) - cppreference.com",
+      "file": "009_cpp_concepts.md",
+      "source_url": "https://en.cppreference.com/cpp/concepts",
+      "content_hash": "611ef73c20ca8b962326ea9c667868a7057655f16f096ea9996b42557dbeb0ce"
+    },
+    {
+      "id": "c++_010",
+      "doc_order": 10,
+      "title": "Diagnostics library - cppreference.com",
+      "file": "010_cpp_error.md",
+      "source_url": "https://en.cppreference.com/cpp/error",
+      "content_hash": "f14f8f7b8e52815a6b2f2dc67e05d58c6c336af62b99aaedf5cee74241732565"
+    },
+    {
+      "id": "c++_011",
+      "doc_order": 11,
+      "title": "Memory management library - cppreference.com",
+      "file": "011_cpp_memory.md",
+      "source_url": "https://en.cppreference.com/cpp/memory",
+      "content_hash": "7736b44014f44e5b7186fdba0eed78f010ec662034ea4d93dea38d9ca51d1ec2"
+    },
+    {
+      "id": "c++_012",
+      "doc_order": 12,
+      "title": "Metaprogramming library (since C++11) - cppreference.com",
+      "file": "012_cpp_meta.md",
+      "source_url": "https://en.cppreference.com/cpp/meta",
+      "content_hash": "147b8fc2cb90f3552be9b88663fe374c65b6a571b19ff6201a33b258c63d3c32"
+    },
+    {
+      "id": "c++_013",
+      "doc_order": 13,
+      "title": "Containers library - cppreference.com",
+      "file": "013_cpp_container.md",
+      "source_url": "https://en.cppreference.com/cpp/container",
+      "content_hash": "e09d049483b2f8aee252bc6f58c3824e1265293e4cf19355253c93fefe0dd03d"
+    },
+    {
+      "id": "c++_014",
+      "doc_order": 14,
+      "title": "Iterator library - cppreference.com",
+      "file": "014_cpp_iterator.md",
+      "source_url": "https://en.cppreference.com/cpp/iterator",
+      "content_hash": "3b949f7e3ba02b10f6e64b432039afa366625c24cf2619a4723454817b95c209"
+    },
+    {
+      "id": "c++_015",
+      "doc_order": 15,
+      "title": "Ranges library (since C++20) - cppreference.com",
+      "file": "015_cpp_ranges.md",
+      "source_url": "https://en.cppreference.com/cpp/ranges",
+      "content_hash": "3e38859c8fad1e6f364f695dd8994dc600ebacc01910dab40abd00e00bd2e1b1"
+    },
+    {
+      "id": "c++_016",
+      "doc_order": 16,
+      "title": "Algorithms library - cppreference.com",
+      "file": "016_cpp_algorithm.md",
+      "source_url": "https://en.cppreference.com/cpp/algorithm",
+      "content_hash": "e735800f3f5db98c966880e3eeb10c8749445574e39e2f0f2dab5f40b1652d48"
+    },
+    {
+      "id": "c++_017",
+      "doc_order": 17,
+      "title": "Strings library - cppreference.com",
+      "file": "017_cpp_string.md",
+      "source_url": "https://en.cppreference.com/cpp/string",
+      "content_hash": "d8e4850c707bdab929e316570aa74b609b04f01d8abad3b72fef9efa68326e7f"
+    },
+    {
+      "id": "c++_018",
+      "doc_order": 18,
+      "title": "Text processing library - cppreference.com",
+      "file": "018_cpp_text.md",
+      "source_url": "https://en.cppreference.com/cpp/text",
+      "content_hash": "5cb95e84fa5878fc81d931ce706e9d5e2e63d91329cb7b05582ec2fef62da0a9"
+    },
+    {
+      "id": "c++_019",
+      "doc_order": 19,
+      "title": "Numerics library - cppreference.com",
+      "file": "019_cpp_numeric.md",
+      "source_url": "https://en.cppreference.com/cpp/numeric",
+      "content_hash": "f6cae548b30ca18334666d48a5183f7d96753a7cf14bf577f086436c12ef9d8a"
+    },
+    {
+      "id": "c++_020",
+      "doc_order": 20,
+      "title": "Date and time library - cppreference.com",
+      "file": "020_cpp_chrono.md",
+      "source_url": "https://en.cppreference.com/cpp/chrono",
+      "content_hash": "7ef9590d828b31e6b0dee9f7f33f83ba0c8df62e3d7fa413bb56d8308102350f"
+    },
+    {
+      "id": "c++_021",
+      "doc_order": 21,
+      "title": "Input/output library - cppreference.com",
+      "file": "021_cpp_io.md",
+      "source_url": "https://en.cppreference.com/cpp/io",
+      "content_hash": "4e73e70d38072addebe0d30498ecbfd6df126fb65105f30f3a98ee5dd4a0657b"
+    },
+    {
+      "id": "c++_022",
+      "doc_order": 22,
+      "title": "Filesystem library (since C++17) - cppreference.com",
+      "file": "022_cpp_filesystem.md",
+      "source_url": "https://en.cppreference.com/cpp/filesystem",
+      "content_hash": "c361e90c20d4bde8b34437333738f2fd14598e3e9f3c636d35bf1742ac3a9e70"
+    },
+    {
+      "id": "c++_023",
+      "doc_order": 23,
+      "title": "Concurrency support library (since C++11) - cppreference.com",
+      "file": "023_cpp_thread.md",
+      "source_url": "https://en.cppreference.com/cpp/thread",
+      "content_hash": "433624b2d772025b2aca5d710fd34a474526bb8d15dba0f71fe7171d767d2166"
+    }
+  ]
+}

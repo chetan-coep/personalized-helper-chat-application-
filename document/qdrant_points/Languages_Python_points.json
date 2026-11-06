@@ -1,0 +1,862 @@
+{
+  "category": "Languages",
+  "technology": "Python",
+  "total_points": 45,
+  "points": [
+    {
+      "id": "2541329d-61e8-5fde-8330-364c436176e9",
+      "payload": {
+        "point_id": "2541329d-61e8-5fde-8330-364c436176e9",
+        "doc_id": "python_001",
+        "doc_order": 1,
+        "chunk_index": 0,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python",
+        "section": "Python",
+        "breadcrumb": "Python",
+        "source_url": "https://docs.python.org/3",
+        "content": "## Python\n\nSource: https://docs.python.org/3\n\n---",
+        "char_count": 49,
+        "token_estimate": 12
+      }
+    },
+    {
+      "id": "76deca4c-0d73-5ee0-b0bd-52d957630275",
+      "payload": {
+        "point_id": "76deca4c-0d73-5ee0-b0bd-52d957630275",
+        "doc_id": "python_001",
+        "doc_order": 1,
+        "chunk_index": 1,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python",
+        "section": "Python 3.15.2 documentation",
+        "breadcrumb": "Python > Python 3.15.2 documentation",
+        "source_url": "https://docs.python.org/3",
+        "content": "## Python 3.15.2 documentation\n\nWelcome! This is the official documentation for Python 3.15.2.\n\n**Documentation sections:**\n\n- [What's new in Python 3.15?](https://docs.python.org/whatsnew/3.15.html)\nOr[all \"What's new\" documents since Python 2.0](https://docs.python.org/whatsnew/index.html)\n- [Tutorial](https://docs.python.org/tutorial/index.html)\nStart here: a tour of Python's syntax and features\n- [Built-ins reference](https://docs.python.org/builtins/index.html)\nBuilt-in functions and classes\n- [Library reference](https://docs.python.org/library/index.html)\nStandard library modules\n- [Language reference](https://docs.python.org/reference/index.html)\nSyntax and language elements\n- [Python setup and usage](https://docs.python.org/using/index.html)\nHow to install, configure, and use Python\n\n- [Python HOWTOs](https://docs.python.org/howto/index.html)\nIn-depth topic manuals\n- [Installing Python modules](https://docs.python.org/installing/index.html)\nThird-party modules and PyPI.org\n- [Extending and embedding](https://docs.python.org/extending/index.html)\nFor C/C++ programmers\n- [Python's C API](https://docs.python.org/c-api/index.html)\nC API reference\n- [FAQs](https://docs.python.org/faq/index.html)\nFrequently asked questions (with answers!)\n- [Deprecations](https://docs.python.org/deprecations/index.html)\nDeprecated functionality\n\n**Other resources:**\n\n- [Python developer's guide](https://devguide.python.org)\nInformation on contributing to Python\n- [Python Packaging User Guide](https://packaging.python.org)\nResources relating to Python packaging\n- [Audio/visual talks](https://www.python.org/doc/av/)\nPodcasts, talks, and video presentations from the community\n\n- [Python Enhancement Proposals](https://peps.python.org/)\nIndex of proposed improvements to Python",
+        "char_count": 1787,
+        "token_estimate": 446
+      }
+    },
+    {
+      "id": "a056105c-0b7f-5f7a-b39f-c1cbd94f86a8",
+      "payload": {
+        "point_id": "a056105c-0b7f-5f7a-b39f-c1cbd94f86a8",
+        "doc_id": "python_001",
+        "doc_order": 1,
+        "chunk_index": 2,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python",
+        "section": "Python 3.15.2 documentation",
+        "breadcrumb": "Python > Python 3.15.2 documentation",
+        "source_url": "https://docs.python.org/3",
+        "content": "- [Audio/visual talks](https://www.python.org/doc/av/)\nPodcasts, talks, and video presentations from the community\n\n- [Python Enhancement Proposals](https://peps.python.org/)\nIndex of proposed improvements to Python\n- [Static Typing with Python](https://typing.python.org)\nInformation and guides about Python type safety\n\n**Indices, glossary, and search:**\n\n- [Global module index](https://docs.python.org/py-modindex.html)\nAll modules and libraries\n- [General index](https://docs.python.org/genindex.html)\nAll functions, classes, and terms\n- [Glossary](https://docs.python.org/glossary.html)\nTerms explained\n\n- [Search page](https://docs.python.org/search.html)\nSearch this documentation\n- [Complete table of contents](https://docs.python.org/contents.html)\nAll sections and subsections\n\n**Project information:**",
+        "char_count": 813,
+        "token_estimate": 203
+      }
+    },
+    {
+      "id": "334ef76d-4b5f-5e1c-8fea-ccf6257beb25",
+      "payload": {
+        "point_id": "334ef76d-4b5f-5e1c-8fea-ccf6257beb25",
+        "doc_id": "python_002",
+        "doc_order": 2,
+        "chunk_index": 0,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "3.11.18 Documentation",
+        "section": "3.11.18 Documentation",
+        "breadcrumb": "3.11.18 Documentation",
+        "source_url": "https://docs.python.org/3.11",
+        "content": "## 3.11.18 Documentation\n\nSource: https://docs.python.org/3.11\n\n---",
+        "char_count": 67,
+        "token_estimate": 16
+      }
+    },
+    {
+      "id": "7089b339-5e31-555e-8143-9639924db56e",
+      "payload": {
+        "point_id": "7089b339-5e31-555e-8143-9639924db56e",
+        "doc_id": "python_002",
+        "doc_order": 2,
+        "chunk_index": 1,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "3.11.18 Documentation",
+        "section": "Python 3.11.18 documentation",
+        "breadcrumb": "3.11.18 Documentation > Python 3.11.18 documentation",
+        "source_url": "https://docs.python.org/3.11",
+        "content": "## Python 3.11.18 documentation\n\nWelcome! This is the official documentation for Python 3.11.18.\n\n**Documentation sections:**\n\n| [What's new in Python 3.11?](https://docs.python.org/whatsnew/3.11.html) Or [all \"What's new\" documents since Python 2.0](https://docs.python.org/whatsnew/index.html) [Tutorial](https://docs.python.org/tutorial/index.html) Start here: a tour of Python's syntax and features [Library reference](https://docs.python.org/library/index.html) Standard library and builtins [Language reference](https://docs.python.org/reference/index.html) Syntax and language elements [Python setup and usage](https://docs.python.org/using/index.html) How to install, configure, and use Python [Python HOWTOs](https://docs.python.org/howto/index.html) In-depth topic manuals | [Installing Python modules](https://docs.python.org/installing/index.html) Third-party modules and PyPI.org [Distributing Python modules](https://docs.python.org/distributing/index.html) Publishing modules for use by other people [Extending and embedding](https://docs.python.org/extending/index.html) For C/C++ programmers [Python's C API](https://docs.python.org/c-api/index.html) C API reference [FAQs](https://docs.python.org/faq/index.html) Frequently asked questions (with answers!) | \n\n**Indices, glossary, and search:**\n\n| [Global module index](https://docs.python.org/py-modindex.html) All modules and libraries [General index](https://docs.python.org/genindex.html) All functions, classes, and terms [Glossary](https://docs.python.org/glossary.html) Terms explained | [Search page](https://docs.python.org/search.html) Search this documentation [Complete table of contents](https://docs.python.org/contents.html) Lists all sections and subsections | \n\n**Project information:**",
+        "char_count": 1771,
+        "token_estimate": 442
+      }
+    },
+    {
+      "id": "c3a3af50-ccd2-5ea8-8f4c-4a0f0623864c",
+      "payload": {
+        "point_id": "c3a3af50-ccd2-5ea8-8f4c-4a0f0623864c",
+        "doc_id": "python_002",
+        "doc_order": 2,
+        "chunk_index": 2,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "3.11.18 Documentation",
+        "section": "Python 3.11.18 documentation",
+        "breadcrumb": "3.11.18 Documentation > Python 3.11.18 documentation",
+        "source_url": "https://docs.python.org/3.11",
+        "content": "**Project information:**\n\n| [Reporting issues](https://docs.python.org/bugs.html) [Contributing to Docs](https://devguide.python.org/docquality/#helping-with-documentation) [Download the documentation](https://docs.python.org/download.html) | [History and license of Python](https://docs.python.org/license.html) [Copyright](https://docs.python.org/copyright.html) [About the documentation](https://docs.python.org/about.html) |",
+        "char_count": 428,
+        "token_estimate": 107
+      }
+    },
+    {
+      "id": "842c2caa-e637-51ef-9024-22c43b7a4eb5",
+      "payload": {
+        "point_id": "842c2caa-e637-51ef-9024-22c43b7a4eb5",
+        "doc_id": "python_003",
+        "doc_order": 3,
+        "chunk_index": 0,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "3.12.16 Documentation",
+        "section": "3.12.16 Documentation",
+        "breadcrumb": "3.12.16 Documentation",
+        "source_url": "https://docs.python.org/3.12",
+        "content": "## 3.12.16 Documentation\n\nSource: https://docs.python.org/3.12\n\n---",
+        "char_count": 67,
+        "token_estimate": 16
+      }
+    },
+    {
+      "id": "ac2ad0b4-d504-59ff-9f09-8f27471a8f2e",
+      "payload": {
+        "point_id": "ac2ad0b4-d504-59ff-9f09-8f27471a8f2e",
+        "doc_id": "python_003",
+        "doc_order": 3,
+        "chunk_index": 1,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "3.12.16 Documentation",
+        "section": "Python 3.12.16 documentation",
+        "breadcrumb": "3.12.16 Documentation > Python 3.12.16 documentation",
+        "source_url": "https://docs.python.org/3.12",
+        "content": "## Python 3.12.16 documentation\n\nWelcome! This is the official documentation for Python 3.12.16.\n\n**Documentation sections:**\n\n| [What's new in Python 3.12?](https://docs.python.org/whatsnew/3.12.html) Or [all \"What's new\" documents since Python 2.0](https://docs.python.org/whatsnew/index.html) [Tutorial](https://docs.python.org/tutorial/index.html) Start here: a tour of Python's syntax and features [Library reference](https://docs.python.org/library/index.html) Standard library and builtins [Language reference](https://docs.python.org/reference/index.html) Syntax and language elements [Python setup and usage](https://docs.python.org/using/index.html) How to install, configure, and use Python [Python HOWTOs](https://docs.python.org/howto/index.html) In-depth topic manuals | [Installing Python modules](https://docs.python.org/installing/index.html) Third-party modules and PyPI.org [Distributing Python modules](https://docs.python.org/distributing/index.html) Publishing modules for use by other people [Extending and embedding](https://docs.python.org/extending/index.html) For C/C++ programmers [Python's C API](https://docs.python.org/c-api/index.html) C API reference [FAQs](https://docs.python.org/faq/index.html) Frequently asked questions (with answers!) [Deprecations](https://docs.python.org/deprecations/index.html) Deprecated functionality | \n\n**Indices, glossary, and search:**",
+        "char_count": 1401,
+        "token_estimate": 350
+      }
+    },
+    {
+      "id": "dad66d12-e503-578e-bb85-07de8010d1eb",
+      "payload": {
+        "point_id": "dad66d12-e503-578e-bb85-07de8010d1eb",
+        "doc_id": "python_003",
+        "doc_order": 3,
+        "chunk_index": 2,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "3.12.16 Documentation",
+        "section": "Python 3.12.16 documentation",
+        "breadcrumb": "3.12.16 Documentation > Python 3.12.16 documentation",
+        "source_url": "https://docs.python.org/3.12",
+        "content": "**Indices, glossary, and search:**\n\n| [Global module index](https://docs.python.org/py-modindex.html) All modules and libraries [General index](https://docs.python.org/genindex.html) All functions, classes, and terms [Glossary](https://docs.python.org/glossary.html) Terms explained | [Search page](https://docs.python.org/search.html) Search this documentation [Complete table of contents](https://docs.python.org/contents.html) Lists all sections and subsections | \n\n**Project information:**\n\n| [Reporting issues](https://docs.python.org/bugs.html) [Contributing to Docs](https://devguide.python.org/documentation/help-documenting/) [Download the documentation](https://docs.python.org/download.html) | [History and license of Python](https://docs.python.org/license.html) [Copyright](https://docs.python.org/copyright.html) [About the documentation](https://docs.python.org/about.html) |",
+        "char_count": 890,
+        "token_estimate": 222
+      }
+    },
+    {
+      "id": "06d44d30-cb86-5f8e-abb1-1b783d394518",
+      "payload": {
+        "point_id": "06d44d30-cb86-5f8e-abb1-1b783d394518",
+        "doc_id": "python_004",
+        "doc_order": 4,
+        "chunk_index": 0,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python",
+        "section": "Python",
+        "breadcrumb": "Python",
+        "source_url": "https://docs.python.org/3.12",
+        "content": "## Python\n\nSource: https://docs.python.org/3.12\n\n---",
+        "char_count": 52,
+        "token_estimate": 13
+      }
+    },
+    {
+      "id": "2d7a9c16-d9e9-5532-83e4-4b82431cd533",
+      "payload": {
+        "point_id": "2d7a9c16-d9e9-5532-83e4-4b82431cd533",
+        "doc_id": "python_004",
+        "doc_order": 4,
+        "chunk_index": 1,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python",
+        "section": "Python 3.12.16 documentation",
+        "breadcrumb": "Python > Python 3.12.16 documentation",
+        "source_url": "https://docs.python.org/3.12",
+        "content": "## Python 3.12.16 documentation\n\nWelcome! This is the official documentation for Python 3.12.16.\n\n**Documentation sections:**\n\n| [What's new in Python 3.12?](https://docs.python.org/whatsnew/3.12.html) Or [all \"What's new\" documents since Python 2.0](https://docs.python.org/whatsnew/index.html) [Tutorial](https://docs.python.org/tutorial/index.html) Start here: a tour of Python's syntax and features [Library reference](https://docs.python.org/library/index.html) Standard library and builtins [Language reference](https://docs.python.org/reference/index.html) Syntax and language elements [Python setup and usage](https://docs.python.org/using/index.html) How to install, configure, and use Python [Python HOWTOs](https://docs.python.org/howto/index.html) In-depth topic manuals | [Installing Python modules](https://docs.python.org/installing/index.html) Third-party modules and PyPI.org [Distributing Python modules](https://docs.python.org/distributing/index.html) Publishing modules for use by other people [Extending and embedding](https://docs.python.org/extending/index.html) For C/C++ programmers [Python's C API](https://docs.python.org/c-api/index.html) C API reference [FAQs](https://docs.python.org/faq/index.html) Frequently asked questions (with answers!) [Deprecations](https://docs.python.org/deprecations/index.html) Deprecated functionality | \n\n**Indices, glossary, and search:**",
+        "char_count": 1401,
+        "token_estimate": 350
+      }
+    },
+    {
+      "id": "ae93cc6a-e4b0-5016-9791-9166bd6ffc0b",
+      "payload": {
+        "point_id": "ae93cc6a-e4b0-5016-9791-9166bd6ffc0b",
+        "doc_id": "python_004",
+        "doc_order": 4,
+        "chunk_index": 2,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python",
+        "section": "Python 3.12.16 documentation",
+        "breadcrumb": "Python > Python 3.12.16 documentation",
+        "source_url": "https://docs.python.org/3.12",
+        "content": "**Indices, glossary, and search:**\n\n| [Global module index](https://docs.python.org/py-modindex.html) All modules and libraries [General index](https://docs.python.org/genindex.html) All functions, classes, and terms [Glossary](https://docs.python.org/glossary.html) Terms explained | [Search page](https://docs.python.org/search.html) Search this documentation [Complete table of contents](https://docs.python.org/contents.html) Lists all sections and subsections | \n\n**Project information:**\n\n| [Reporting issues](https://docs.python.org/bugs.html) [Contributing to Docs](https://devguide.python.org/documentation/help-documenting/) [Download the documentation](https://docs.python.org/download.html) | [History and license of Python](https://docs.python.org/license.html) [Copyright](https://docs.python.org/copyright.html) [About the documentation](https://docs.python.org/about.html) |",
+        "char_count": 890,
+        "token_estimate": 222
+      }
+    },
+    {
+      "id": "af8d10d7-a947-5fd0-86b7-a1ff3789509a",
+      "payload": {
+        "point_id": "af8d10d7-a947-5fd0-86b7-a1ff3789509a",
+        "doc_id": "python_005",
+        "doc_order": 5,
+        "chunk_index": 0,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "3.13.18 Documentation",
+        "section": "3.13.18 Documentation",
+        "breadcrumb": "3.13.18 Documentation",
+        "source_url": "https://docs.python.org/3.13",
+        "content": "## 3.13.18 Documentation\n\nSource: https://docs.python.org/3.13\n\n---",
+        "char_count": 67,
+        "token_estimate": 16
+      }
+    },
+    {
+      "id": "1205316d-f9bd-5649-afda-cd0f127fe363",
+      "payload": {
+        "point_id": "1205316d-f9bd-5649-afda-cd0f127fe363",
+        "doc_id": "python_005",
+        "doc_order": 5,
+        "chunk_index": 1,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "3.13.18 Documentation",
+        "section": "Python 3.13.18 documentation",
+        "breadcrumb": "3.13.18 Documentation > Python 3.13.18 documentation",
+        "source_url": "https://docs.python.org/3.13",
+        "content": "## Python 3.13.18 documentation\n\nWelcome! This is the official documentation for Python 3.13.18.\n\n**Documentation sections:**\n\n- [What's new in Python 3.13?](https://docs.python.org/whatsnew/3.13.html)\nOr[all \"What's new\" documents since Python 2.0](https://docs.python.org/whatsnew/index.html)\n- [Tutorial](https://docs.python.org/tutorial/index.html)\nStart here: a tour of Python's syntax and features\n- [Built-ins reference](https://docs.python.org/builtins/index.html)\nBuilt-in functions and classes\n- [Library reference](https://docs.python.org/library/index.html)\nStandard library modules\n- [Language reference](https://docs.python.org/reference/index.html)\nSyntax and language elements\n- [Python setup and usage](https://docs.python.org/using/index.html)\nHow to install, configure, and use Python\n\n- [Python HOWTOs](https://docs.python.org/howto/index.html)\nIn-depth topic manuals\n- [Installing Python modules](https://docs.python.org/installing/index.html)\nThird-party modules and PyPI.org\n- [Extending and embedding](https://docs.python.org/extending/index.html)\nFor C/C++ programmers\n- [Python's C API](https://docs.python.org/c-api/index.html)\nC API reference\n- [FAQs](https://docs.python.org/faq/index.html)\nFrequently asked questions (with answers!)\n- [Deprecations](https://docs.python.org/deprecations/index.html)\nDeprecated functionality\n\n**Other resources:**\n\n- [Python developer's guide](https://devguide.python.org)\nInformation on contributing to Python\n- [Python Packaging User Guide](https://packaging.python.org)\nResources relating to Python packaging\n- [Audio/visual talks](https://www.python.org/doc/av/)\nPodcasts, talks, and video presentations from the community\n\n- [Python Enhancement Proposals](https://peps.python.org/)\nIndex of proposed improvements to Python",
+        "char_count": 1789,
+        "token_estimate": 447
+      }
+    },
+    {
+      "id": "32594734-dfe3-59cc-bdb3-4f6a786371c0",
+      "payload": {
+        "point_id": "32594734-dfe3-59cc-bdb3-4f6a786371c0",
+        "doc_id": "python_005",
+        "doc_order": 5,
+        "chunk_index": 2,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "3.13.18 Documentation",
+        "section": "Python 3.13.18 documentation",
+        "breadcrumb": "3.13.18 Documentation > Python 3.13.18 documentation",
+        "source_url": "https://docs.python.org/3.13",
+        "content": "- [Audio/visual talks](https://www.python.org/doc/av/)\nPodcasts, talks, and video presentations from the community\n\n- [Python Enhancement Proposals](https://peps.python.org/)\nIndex of proposed improvements to Python\n- [Static Typing with Python](https://typing.python.org)\nInformation and guides about Python type safety\n\n**Indices, glossary, and search:**\n\n- [Global module index](https://docs.python.org/py-modindex.html)\nAll modules and libraries\n- [General index](https://docs.python.org/genindex.html)\nAll functions, classes, and terms\n- [Glossary](https://docs.python.org/glossary.html)\nTerms explained\n\n- [Search page](https://docs.python.org/search.html)\nSearch this documentation\n- [Complete table of contents](https://docs.python.org/contents.html)\nAll sections and subsections\n\n**Project information:**",
+        "char_count": 813,
+        "token_estimate": 203
+      }
+    },
+    {
+      "id": "a476b821-5e0a-5352-a473-fe23f6fa2252",
+      "payload": {
+        "point_id": "a476b821-5e0a-5352-a473-fe23f6fa2252",
+        "doc_id": "python_006",
+        "doc_order": 6,
+        "chunk_index": 0,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python",
+        "section": "Python",
+        "breadcrumb": "Python",
+        "source_url": "https://docs.python.org/3.13",
+        "content": "## Python\n\nSource: https://docs.python.org/3.13\n\n---",
+        "char_count": 52,
+        "token_estimate": 13
+      }
+    },
+    {
+      "id": "79175054-75d9-5b43-9463-c5b8c917d52a",
+      "payload": {
+        "point_id": "79175054-75d9-5b43-9463-c5b8c917d52a",
+        "doc_id": "python_006",
+        "doc_order": 6,
+        "chunk_index": 1,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python",
+        "section": "Python 3.13.18 documentation",
+        "breadcrumb": "Python > Python 3.13.18 documentation",
+        "source_url": "https://docs.python.org/3.13",
+        "content": "## Python 3.13.18 documentation\n\nWelcome! This is the official documentation for Python 3.13.18.\n\n**Documentation sections:**\n\n- [What's new in Python 3.13?](https://docs.python.org/whatsnew/3.13.html)\nOr[all \"What's new\" documents since Python 2.0](https://docs.python.org/whatsnew/index.html)\n- [Tutorial](https://docs.python.org/tutorial/index.html)\nStart here: a tour of Python's syntax and features\n- [Built-ins reference](https://docs.python.org/builtins/index.html)\nBuilt-in functions and classes\n- [Library reference](https://docs.python.org/library/index.html)\nStandard library modules\n- [Language reference](https://docs.python.org/reference/index.html)\nSyntax and language elements\n- [Python setup and usage](https://docs.python.org/using/index.html)\nHow to install, configure, and use Python\n\n- [Python HOWTOs](https://docs.python.org/howto/index.html)\nIn-depth topic manuals\n- [Installing Python modules](https://docs.python.org/installing/index.html)\nThird-party modules and PyPI.org\n- [Extending and embedding](https://docs.python.org/extending/index.html)\nFor C/C++ programmers\n- [Python's C API](https://docs.python.org/c-api/index.html)\nC API reference\n- [FAQs](https://docs.python.org/faq/index.html)\nFrequently asked questions (with answers!)\n- [Deprecations](https://docs.python.org/deprecations/index.html)\nDeprecated functionality\n\n**Other resources:**\n\n- [Python developer's guide](https://devguide.python.org)\nInformation on contributing to Python\n- [Python Packaging User Guide](https://packaging.python.org)\nResources relating to Python packaging\n- [Audio/visual talks](https://www.python.org/doc/av/)\nPodcasts, talks, and video presentations from the community\n\n- [Python Enhancement Proposals](https://peps.python.org/)\nIndex of proposed improvements to Python",
+        "char_count": 1789,
+        "token_estimate": 447
+      }
+    },
+    {
+      "id": "ee401377-27d4-5f2a-98a0-9ec781f151b5",
+      "payload": {
+        "point_id": "ee401377-27d4-5f2a-98a0-9ec781f151b5",
+        "doc_id": "python_006",
+        "doc_order": 6,
+        "chunk_index": 2,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python",
+        "section": "Python 3.13.18 documentation",
+        "breadcrumb": "Python > Python 3.13.18 documentation",
+        "source_url": "https://docs.python.org/3.13",
+        "content": "- [Audio/visual talks](https://www.python.org/doc/av/)\nPodcasts, talks, and video presentations from the community\n\n- [Python Enhancement Proposals](https://peps.python.org/)\nIndex of proposed improvements to Python\n- [Static Typing with Python](https://typing.python.org)\nInformation and guides about Python type safety\n\n**Indices, glossary, and search:**\n\n- [Global module index](https://docs.python.org/py-modindex.html)\nAll modules and libraries\n- [General index](https://docs.python.org/genindex.html)\nAll functions, classes, and terms\n- [Glossary](https://docs.python.org/glossary.html)\nTerms explained\n\n- [Search page](https://docs.python.org/search.html)\nSearch this documentation\n- [Complete table of contents](https://docs.python.org/contents.html)\nAll sections and subsections\n\n**Project information:**",
+        "char_count": 813,
+        "token_estimate": 203
+      }
+    },
+    {
+      "id": "26913cec-c0ec-531e-8c1d-67061f453bf8",
+      "payload": {
+        "point_id": "26913cec-c0ec-531e-8c1d-67061f453bf8",
+        "doc_id": "python_007",
+        "doc_order": 7,
+        "chunk_index": 0,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python 3.14.10 documentation",
+        "section": "Python 3.14.10 documentation",
+        "breadcrumb": "Python 3.14.10 documentation",
+        "source_url": "https://docs.python.org/3.14",
+        "content": "## Python 3.14.10 documentation\n\nSource: https://docs.python.org/3.14\n\n---",
+        "char_count": 74,
+        "token_estimate": 18
+      }
+    },
+    {
+      "id": "2b0379a3-3710-574a-9ee8-f69c939fa74a",
+      "payload": {
+        "point_id": "2b0379a3-3710-574a-9ee8-f69c939fa74a",
+        "doc_id": "python_007",
+        "doc_order": 7,
+        "chunk_index": 1,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python 3.14.10 documentation",
+        "section": "Python 3.14.10 documentation",
+        "breadcrumb": "Python 3.14.10 documentation",
+        "source_url": "https://docs.python.org/3.14",
+        "content": "## Python 3.14.10 documentation\n\nWelcome! This is the official documentation for Python 3.14.10.\n\n**Documentation sections:**\n\n- [What's new in Python 3.14?](https://docs.python.org/whatsnew/3.14.html)\nOr[all \"What's new\" documents since Python 2.0](https://docs.python.org/whatsnew/index.html)\n- [Tutorial](https://docs.python.org/tutorial/index.html)\nStart here: a tour of Python's syntax and features\n- [Built-ins reference](https://docs.python.org/builtins/index.html)\nBuilt-in functions and classes\n- [Library reference](https://docs.python.org/library/index.html)\nStandard library modules\n- [Language reference](https://docs.python.org/reference/index.html)\nSyntax and language elements\n- [Python setup and usage](https://docs.python.org/using/index.html)\nHow to install, configure, and use Python\n\n- [Python HOWTOs](https://docs.python.org/howto/index.html)\nIn-depth topic manuals\n- [Installing Python modules](https://docs.python.org/installing/index.html)\nThird-party modules and PyPI.org\n- [Extending and embedding](https://docs.python.org/extending/index.html)\nFor C/C++ programmers\n- [Python's C API](https://docs.python.org/c-api/index.html)\nC API reference\n- [FAQs](https://docs.python.org/faq/index.html)\nFrequently asked questions (with answers!)\n- [Deprecations](https://docs.python.org/deprecations/index.html)\nDeprecated functionality\n\n**Other resources:**\n\n- [Python developer's guide](https://devguide.python.org)\nInformation on contributing to Python\n- [Python Packaging User Guide](https://packaging.python.org)\nResources relating to Python packaging\n- [Audio/visual talks](https://www.python.org/doc/av/)\nPodcasts, talks, and video presentations from the community\n\n- [Python Enhancement Proposals](https://peps.python.org/)\nIndex of proposed improvements to Python",
+        "char_count": 1789,
+        "token_estimate": 447
+      }
+    },
+    {
+      "id": "df15556d-f63e-5461-ba3d-9502dd2517d9",
+      "payload": {
+        "point_id": "df15556d-f63e-5461-ba3d-9502dd2517d9",
+        "doc_id": "python_007",
+        "doc_order": 7,
+        "chunk_index": 2,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python 3.14.10 documentation",
+        "section": "Python 3.14.10 documentation",
+        "breadcrumb": "Python 3.14.10 documentation",
+        "source_url": "https://docs.python.org/3.14",
+        "content": "- [Audio/visual talks](https://www.python.org/doc/av/)\nPodcasts, talks, and video presentations from the community\n\n- [Python Enhancement Proposals](https://peps.python.org/)\nIndex of proposed improvements to Python\n- [Static Typing with Python](https://typing.python.org)\nInformation and guides about Python type safety\n\n**Indices, glossary, and search:**\n\n- [Global module index](https://docs.python.org/py-modindex.html)\nAll modules and libraries\n- [General index](https://docs.python.org/genindex.html)\nAll functions, classes, and terms\n- [Glossary](https://docs.python.org/glossary.html)\nTerms explained\n\n- [Search page](https://docs.python.org/search.html)\nSearch this documentation\n- [Complete table of contents](https://docs.python.org/contents.html)\nAll sections and subsections\n\n**Project information:**",
+        "char_count": 813,
+        "token_estimate": 203
+      }
+    },
+    {
+      "id": "de0c2495-32ba-5662-831a-391829cd152a",
+      "payload": {
+        "point_id": "de0c2495-32ba-5662-831a-391829cd152a",
+        "doc_id": "python_008",
+        "doc_order": 8,
+        "chunk_index": 0,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python",
+        "section": "Python",
+        "breadcrumb": "Python",
+        "source_url": "https://docs.python.org/3.14",
+        "content": "## Python\n\nSource: https://docs.python.org/3.14\n\n---",
+        "char_count": 52,
+        "token_estimate": 13
+      }
+    },
+    {
+      "id": "88e73427-d8cc-505b-bc28-1bdb43e6ac2a",
+      "payload": {
+        "point_id": "88e73427-d8cc-505b-bc28-1bdb43e6ac2a",
+        "doc_id": "python_008",
+        "doc_order": 8,
+        "chunk_index": 1,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python",
+        "section": "Python 3.14.10 documentation",
+        "breadcrumb": "Python > Python 3.14.10 documentation",
+        "source_url": "https://docs.python.org/3.14",
+        "content": "## Python 3.14.10 documentation\n\nWelcome! This is the official documentation for Python 3.14.10.\n\n**Documentation sections:**\n\n- [What's new in Python 3.14?](https://docs.python.org/whatsnew/3.14.html)\nOr[all \"What's new\" documents since Python 2.0](https://docs.python.org/whatsnew/index.html)\n- [Tutorial](https://docs.python.org/tutorial/index.html)\nStart here: a tour of Python's syntax and features\n- [Built-ins reference](https://docs.python.org/builtins/index.html)\nBuilt-in functions and classes\n- [Library reference](https://docs.python.org/library/index.html)\nStandard library modules\n- [Language reference](https://docs.python.org/reference/index.html)\nSyntax and language elements\n- [Python setup and usage](https://docs.python.org/using/index.html)\nHow to install, configure, and use Python\n\n- [Python HOWTOs](https://docs.python.org/howto/index.html)\nIn-depth topic manuals\n- [Installing Python modules](https://docs.python.org/installing/index.html)\nThird-party modules and PyPI.org\n- [Extending and embedding](https://docs.python.org/extending/index.html)\nFor C/C++ programmers\n- [Python's C API](https://docs.python.org/c-api/index.html)\nC API reference\n- [FAQs](https://docs.python.org/faq/index.html)\nFrequently asked questions (with answers!)\n- [Deprecations](https://docs.python.org/deprecations/index.html)\nDeprecated functionality\n\n**Other resources:**\n\n- [Python developer's guide](https://devguide.python.org)\nInformation on contributing to Python\n- [Python Packaging User Guide](https://packaging.python.org)\nResources relating to Python packaging\n- [Audio/visual talks](https://www.python.org/doc/av/)\nPodcasts, talks, and video presentations from the community\n\n- [Python Enhancement Proposals](https://peps.python.org/)\nIndex of proposed improvements to Python",
+        "char_count": 1789,
+        "token_estimate": 447
+      }
+    },
+    {
+      "id": "57fb0fc8-e621-5943-baaf-0153bb4e9006",
+      "payload": {
+        "point_id": "57fb0fc8-e621-5943-baaf-0153bb4e9006",
+        "doc_id": "python_008",
+        "doc_order": 8,
+        "chunk_index": 2,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python",
+        "section": "Python 3.14.10 documentation",
+        "breadcrumb": "Python > Python 3.14.10 documentation",
+        "source_url": "https://docs.python.org/3.14",
+        "content": "- [Audio/visual talks](https://www.python.org/doc/av/)\nPodcasts, talks, and video presentations from the community\n\n- [Python Enhancement Proposals](https://peps.python.org/)\nIndex of proposed improvements to Python\n- [Static Typing with Python](https://typing.python.org)\nInformation and guides about Python type safety\n\n**Indices, glossary, and search:**\n\n- [Global module index](https://docs.python.org/py-modindex.html)\nAll modules and libraries\n- [General index](https://docs.python.org/genindex.html)\nAll functions, classes, and terms\n- [Glossary](https://docs.python.org/glossary.html)\nTerms explained\n\n- [Search page](https://docs.python.org/search.html)\nSearch this documentation\n- [Complete table of contents](https://docs.python.org/contents.html)\nAll sections and subsections\n\n**Project information:**",
+        "char_count": 813,
+        "token_estimate": 203
+      }
+    },
+    {
+      "id": "6d744e7d-3637-55a5-90e3-0d7c14bfbda6",
+      "payload": {
+        "point_id": "6d744e7d-3637-55a5-90e3-0d7c14bfbda6",
+        "doc_id": "python_009",
+        "doc_order": 9,
+        "chunk_index": 0,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python 3.15.2 documentation",
+        "section": "Python 3.15.2 documentation",
+        "breadcrumb": "Python 3.15.2 documentation",
+        "source_url": "https://docs.python.org/3.15",
+        "content": "## Python 3.15.2 documentation\n\nSource: https://docs.python.org/3.15\n\n---",
+        "char_count": 73,
+        "token_estimate": 18
+      }
+    },
+    {
+      "id": "9a3a6cc0-c4d1-57bf-91ff-d0eadf931f7e",
+      "payload": {
+        "point_id": "9a3a6cc0-c4d1-57bf-91ff-d0eadf931f7e",
+        "doc_id": "python_009",
+        "doc_order": 9,
+        "chunk_index": 1,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python 3.15.2 documentation",
+        "section": "Python 3.15.2 documentation",
+        "breadcrumb": "Python 3.15.2 documentation",
+        "source_url": "https://docs.python.org/3.15",
+        "content": "## Python 3.15.2 documentation\n\nWelcome! This is the official documentation for Python 3.15.2.\n\n**Documentation sections:**\n\n- [What's new in Python 3.15?](https://docs.python.org/whatsnew/3.15.html)\nOr[all \"What's new\" documents since Python 2.0](https://docs.python.org/whatsnew/index.html)\n- [Tutorial](https://docs.python.org/tutorial/index.html)\nStart here: a tour of Python's syntax and features\n- [Built-ins reference](https://docs.python.org/builtins/index.html)\nBuilt-in functions and classes\n- [Library reference](https://docs.python.org/library/index.html)\nStandard library modules\n- [Language reference](https://docs.python.org/reference/index.html)\nSyntax and language elements\n- [Python setup and usage](https://docs.python.org/using/index.html)\nHow to install, configure, and use Python\n\n- [Python HOWTOs](https://docs.python.org/howto/index.html)\nIn-depth topic manuals\n- [Installing Python modules](https://docs.python.org/installing/index.html)\nThird-party modules and PyPI.org\n- [Extending and embedding](https://docs.python.org/extending/index.html)\nFor C/C++ programmers\n- [Python's C API](https://docs.python.org/c-api/index.html)\nC API reference\n- [FAQs](https://docs.python.org/faq/index.html)\nFrequently asked questions (with answers!)\n- [Deprecations](https://docs.python.org/deprecations/index.html)\nDeprecated functionality\n\n**Other resources:**\n\n- [Python developer's guide](https://devguide.python.org)\nInformation on contributing to Python\n- [Python Packaging User Guide](https://packaging.python.org)\nResources relating to Python packaging\n- [Audio/visual talks](https://www.python.org/doc/av/)\nPodcasts, talks, and video presentations from the community\n\n- [Python Enhancement Proposals](https://peps.python.org/)\nIndex of proposed improvements to Python",
+        "char_count": 1787,
+        "token_estimate": 446
+      }
+    },
+    {
+      "id": "66ae5468-5377-5468-b053-1df30a407d6e",
+      "payload": {
+        "point_id": "66ae5468-5377-5468-b053-1df30a407d6e",
+        "doc_id": "python_009",
+        "doc_order": 9,
+        "chunk_index": 2,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python 3.15.2 documentation",
+        "section": "Python 3.15.2 documentation",
+        "breadcrumb": "Python 3.15.2 documentation",
+        "source_url": "https://docs.python.org/3.15",
+        "content": "- [Audio/visual talks](https://www.python.org/doc/av/)\nPodcasts, talks, and video presentations from the community\n\n- [Python Enhancement Proposals](https://peps.python.org/)\nIndex of proposed improvements to Python\n- [Static Typing with Python](https://typing.python.org)\nInformation and guides about Python type safety\n\n**Indices, glossary, and search:**\n\n- [Global module index](https://docs.python.org/py-modindex.html)\nAll modules and libraries\n- [General index](https://docs.python.org/genindex.html)\nAll functions, classes, and terms\n- [Glossary](https://docs.python.org/glossary.html)\nTerms explained\n\n- [Search page](https://docs.python.org/search.html)\nSearch this documentation\n- [Complete table of contents](https://docs.python.org/contents.html)\nAll sections and subsections\n\n**Project information:**",
+        "char_count": 813,
+        "token_estimate": 203
+      }
+    },
+    {
+      "id": "ed7534bc-6634-5b75-b328-2be12db0b069",
+      "payload": {
+        "point_id": "ed7534bc-6634-5b75-b328-2be12db0b069",
+        "doc_id": "python_010",
+        "doc_order": 10,
+        "chunk_index": 0,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python",
+        "section": "Python",
+        "breadcrumb": "Python",
+        "source_url": "https://docs.python.org/3.15",
+        "content": "## Python\n\nSource: https://docs.python.org/3.15\n\n---",
+        "char_count": 52,
+        "token_estimate": 13
+      }
+    },
+    {
+      "id": "287489c8-cda9-5c9c-bfdf-d55f07bc23e8",
+      "payload": {
+        "point_id": "287489c8-cda9-5c9c-bfdf-d55f07bc23e8",
+        "doc_id": "python_010",
+        "doc_order": 10,
+        "chunk_index": 1,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python",
+        "section": "Python 3.15.2 documentation",
+        "breadcrumb": "Python > Python 3.15.2 documentation",
+        "source_url": "https://docs.python.org/3.15",
+        "content": "## Python 3.15.2 documentation\n\nWelcome! This is the official documentation for Python 3.15.2.\n\n**Documentation sections:**\n\n- [What's new in Python 3.15?](https://docs.python.org/whatsnew/3.15.html)\nOr[all \"What's new\" documents since Python 2.0](https://docs.python.org/whatsnew/index.html)\n- [Tutorial](https://docs.python.org/tutorial/index.html)\nStart here: a tour of Python's syntax and features\n- [Built-ins reference](https://docs.python.org/builtins/index.html)\nBuilt-in functions and classes\n- [Library reference](https://docs.python.org/library/index.html)\nStandard library modules\n- [Language reference](https://docs.python.org/reference/index.html)\nSyntax and language elements\n- [Python setup and usage](https://docs.python.org/using/index.html)\nHow to install, configure, and use Python\n\n- [Python HOWTOs](https://docs.python.org/howto/index.html)\nIn-depth topic manuals\n- [Installing Python modules](https://docs.python.org/installing/index.html)\nThird-party modules and PyPI.org\n- [Extending and embedding](https://docs.python.org/extending/index.html)\nFor C/C++ programmers\n- [Python's C API](https://docs.python.org/c-api/index.html)\nC API reference\n- [FAQs](https://docs.python.org/faq/index.html)\nFrequently asked questions (with answers!)\n- [Deprecations](https://docs.python.org/deprecations/index.html)\nDeprecated functionality\n\n**Other resources:**\n\n- [Python developer's guide](https://devguide.python.org)\nInformation on contributing to Python\n- [Python Packaging User Guide](https://packaging.python.org)\nResources relating to Python packaging\n- [Audio/visual talks](https://www.python.org/doc/av/)\nPodcasts, talks, and video presentations from the community\n\n- [Python Enhancement Proposals](https://peps.python.org/)\nIndex of proposed improvements to Python",
+        "char_count": 1787,
+        "token_estimate": 446
+      }
+    },
+    {
+      "id": "25f7da82-7357-56a1-aff7-513aa8dc2827",
+      "payload": {
+        "point_id": "25f7da82-7357-56a1-aff7-513aa8dc2827",
+        "doc_id": "python_010",
+        "doc_order": 10,
+        "chunk_index": 2,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python",
+        "section": "Python 3.15.2 documentation",
+        "breadcrumb": "Python > Python 3.15.2 documentation",
+        "source_url": "https://docs.python.org/3.15",
+        "content": "- [Audio/visual talks](https://www.python.org/doc/av/)\nPodcasts, talks, and video presentations from the community\n\n- [Python Enhancement Proposals](https://peps.python.org/)\nIndex of proposed improvements to Python\n- [Static Typing with Python](https://typing.python.org)\nInformation and guides about Python type safety\n\n**Indices, glossary, and search:**\n\n- [Global module index](https://docs.python.org/py-modindex.html)\nAll modules and libraries\n- [General index](https://docs.python.org/genindex.html)\nAll functions, classes, and terms\n- [Glossary](https://docs.python.org/glossary.html)\nTerms explained\n\n- [Search page](https://docs.python.org/search.html)\nSearch this documentation\n- [Complete table of contents](https://docs.python.org/contents.html)\nAll sections and subsections\n\n**Project information:**",
+        "char_count": 813,
+        "token_estimate": 203
+      }
+    },
+    {
+      "id": "d487984a-9a50-5281-815a-1b80813f47c4",
+      "payload": {
+        "point_id": "d487984a-9a50-5281-815a-1b80813f47c4",
+        "doc_id": "python_011",
+        "doc_order": 11,
+        "chunk_index": 0,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python 3.16.0a1 documentation",
+        "section": "Python 3.16.0a1 documentation",
+        "breadcrumb": "Python 3.16.0a1 documentation",
+        "source_url": "https://docs.python.org/3.16",
+        "content": "## Python 3.16.0a1 documentation\n\nSource: https://docs.python.org/3.16\n\n---",
+        "char_count": 75,
+        "token_estimate": 18
+      }
+    },
+    {
+      "id": "c6a503d3-b48e-5479-95fd-ddab02c961c0",
+      "payload": {
+        "point_id": "c6a503d3-b48e-5479-95fd-ddab02c961c0",
+        "doc_id": "python_011",
+        "doc_order": 11,
+        "chunk_index": 1,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python 3.16.0a1 documentation",
+        "section": "Python 3.16.0a1 documentation",
+        "breadcrumb": "Python 3.16.0a1 documentation",
+        "source_url": "https://docs.python.org/3.16",
+        "content": "## Python 3.16.0a1 documentation\n\nWelcome! This is the official documentation for Python 3.16.0a1.\n\n**Documentation sections:**\n\n- [What's new in Python 3.16?](https://docs.python.org/whatsnew/3.16.html)\nOr[all \"What's new\" documents since Python 2.0](https://docs.python.org/whatsnew/index.html)\n- [Tutorial](https://docs.python.org/tutorial/index.html)\nStart here: a tour of Python's syntax and features\n- [Built-ins reference](https://docs.python.org/builtins/index.html)\nBuilt-in functions and classes\n- [Library reference](https://docs.python.org/library/index.html)\nStandard library modules\n- [Language reference](https://docs.python.org/reference/index.html)\nSyntax and language elements\n- [Python setup and usage](https://docs.python.org/using/index.html)\nHow to install, configure, and use Python\n\n- [Python HOWTOs](https://docs.python.org/howto/index.html)\nIn-depth topic manuals\n- [Installing Python modules](https://docs.python.org/installing/index.html)\nThird-party modules and PyPI.org\n- [Extending and embedding](https://docs.python.org/extending/index.html)\nFor C/C++ programmers\n- [Python's C API](https://docs.python.org/c-api/index.html)\nC API reference\n- [FAQs](https://docs.python.org/faq/index.html)\nFrequently asked questions (with answers!)\n- [Deprecations](https://docs.python.org/deprecations/index.html)\nDeprecated functionality\n\n**Other resources:**\n\n- [Python developer's guide](https://devguide.python.org)\nInformation on contributing to Python\n- [Python Packaging User Guide](https://packaging.python.org)\nResources relating to Python packaging\n- [Audio/visual talks](https://www.python.org/doc/av/)\nPodcasts, talks, and video presentations from the community\n\n- [Python Enhancement Proposals](https://peps.python.org/)\nIndex of proposed improvements to Python",
+        "char_count": 1791,
+        "token_estimate": 447
+      }
+    },
+    {
+      "id": "eed0c2a2-9562-5aa2-b223-0836c6ab8107",
+      "payload": {
+        "point_id": "eed0c2a2-9562-5aa2-b223-0836c6ab8107",
+        "doc_id": "python_011",
+        "doc_order": 11,
+        "chunk_index": 2,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python 3.16.0a1 documentation",
+        "section": "Python 3.16.0a1 documentation",
+        "breadcrumb": "Python 3.16.0a1 documentation",
+        "source_url": "https://docs.python.org/3.16",
+        "content": "- [Audio/visual talks](https://www.python.org/doc/av/)\nPodcasts, talks, and video presentations from the community\n\n- [Python Enhancement Proposals](https://peps.python.org/)\nIndex of proposed improvements to Python\n- [Static Typing with Python](https://typing.python.org)\nInformation and guides about Python type safety\n\n**Indices, glossary, and search:**\n\n- [Global module index](https://docs.python.org/py-modindex.html)\nAll modules and libraries\n- [General index](https://docs.python.org/genindex.html)\nAll functions, classes, and terms\n- [Glossary](https://docs.python.org/glossary.html)\nTerms explained\n\n- [Search page](https://docs.python.org/search.html)\nSearch this documentation\n- [Complete table of contents](https://docs.python.org/contents.html)\nAll sections and subsections\n\n**Project information:**",
+        "char_count": 813,
+        "token_estimate": 203
+      }
+    },
+    {
+      "id": "d6bcfaff-629d-50f2-92b4-72c95e5036c9",
+      "payload": {
+        "point_id": "d6bcfaff-629d-50f2-92b4-72c95e5036c9",
+        "doc_id": "python_012",
+        "doc_order": 12,
+        "chunk_index": 0,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python 3.15.2 documentation",
+        "section": "Python 3.15.2 documentation",
+        "breadcrumb": "Python 3.15.2 documentation",
+        "source_url": "https://docs.python.org/3",
+        "content": "## Python 3.15.2 documentation\n\nSource: https://docs.python.org/3\n\n---",
+        "char_count": 70,
+        "token_estimate": 17
+      }
+    },
+    {
+      "id": "b712cd0c-f8d4-51e2-b1f2-5f04c5f03501",
+      "payload": {
+        "point_id": "b712cd0c-f8d4-51e2-b1f2-5f04c5f03501",
+        "doc_id": "python_012",
+        "doc_order": 12,
+        "chunk_index": 1,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python 3.15.2 documentation",
+        "section": "Python 3.15.2 documentation",
+        "breadcrumb": "Python 3.15.2 documentation",
+        "source_url": "https://docs.python.org/3",
+        "content": "## Python 3.15.2 documentation\n\nWelcome! This is the official documentation for Python 3.15.2.\n\n**Documentation sections:**\n\n- [What's new in Python 3.15?](https://docs.python.org/whatsnew/3.15.html)\nOr[all \"What's new\" documents since Python 2.0](https://docs.python.org/whatsnew/index.html)\n- [Tutorial](https://docs.python.org/tutorial/index.html)\nStart here: a tour of Python's syntax and features\n- [Built-ins reference](https://docs.python.org/builtins/index.html)\nBuilt-in functions and classes\n- [Library reference](https://docs.python.org/library/index.html)\nStandard library modules\n- [Language reference](https://docs.python.org/reference/index.html)\nSyntax and language elements\n- [Python setup and usage](https://docs.python.org/using/index.html)\nHow to install, configure, and use Python\n\n- [Python HOWTOs](https://docs.python.org/howto/index.html)\nIn-depth topic manuals\n- [Installing Python modules](https://docs.python.org/installing/index.html)\nThird-party modules and PyPI.org\n- [Extending and embedding](https://docs.python.org/extending/index.html)\nFor C/C++ programmers\n- [Python's C API](https://docs.python.org/c-api/index.html)\nC API reference\n- [FAQs](https://docs.python.org/faq/index.html)\nFrequently asked questions (with answers!)\n- [Deprecations](https://docs.python.org/deprecations/index.html)\nDeprecated functionality\n\n**Other resources:**\n\n- [Python developer's guide](https://devguide.python.org)\nInformation on contributing to Python\n- [Python Packaging User Guide](https://packaging.python.org)\nResources relating to Python packaging\n- [Audio/visual talks](https://www.python.org/doc/av/)\nPodcasts, talks, and video presentations from the community\n\n- [Python Enhancement Proposals](https://peps.python.org/)\nIndex of proposed improvements to Python",
+        "char_count": 1787,
+        "token_estimate": 446
+      }
+    },
+    {
+      "id": "c79e4573-2461-52d9-8483-41e18563b782",
+      "payload": {
+        "point_id": "c79e4573-2461-52d9-8483-41e18563b782",
+        "doc_id": "python_012",
+        "doc_order": 12,
+        "chunk_index": 2,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python 3.15.2 documentation",
+        "section": "Python 3.15.2 documentation",
+        "breadcrumb": "Python 3.15.2 documentation",
+        "source_url": "https://docs.python.org/3",
+        "content": "- [Audio/visual talks](https://www.python.org/doc/av/)\nPodcasts, talks, and video presentations from the community\n\n- [Python Enhancement Proposals](https://peps.python.org/)\nIndex of proposed improvements to Python\n- [Static Typing with Python](https://typing.python.org)\nInformation and guides about Python type safety\n\n**Indices, glossary, and search:**\n\n- [Global module index](https://docs.python.org/py-modindex.html)\nAll modules and libraries\n- [General index](https://docs.python.org/genindex.html)\nAll functions, classes, and terms\n- [Glossary](https://docs.python.org/glossary.html)\nTerms explained\n\n- [Search page](https://docs.python.org/search.html)\nSearch this documentation\n- [Complete table of contents](https://docs.python.org/contents.html)\nAll sections and subsections\n\n**Project information:**",
+        "char_count": 813,
+        "token_estimate": 203
+      }
+    },
+    {
+      "id": "7abd27d8-6abe-594b-a1a7-1434359cf95e",
+      "payload": {
+        "point_id": "7abd27d8-6abe-594b-a1a7-1434359cf95e",
+        "doc_id": "python_013",
+        "doc_order": 13,
+        "chunk_index": 0,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python",
+        "section": "Python",
+        "breadcrumb": "Python",
+        "source_url": "https://docs.python.org/3.16",
+        "content": "## Python\n\nSource: https://docs.python.org/3.16\n\n---",
+        "char_count": 52,
+        "token_estimate": 13
+      }
+    },
+    {
+      "id": "54a57acc-0894-51ee-9625-d815eb77b57c",
+      "payload": {
+        "point_id": "54a57acc-0894-51ee-9625-d815eb77b57c",
+        "doc_id": "python_013",
+        "doc_order": 13,
+        "chunk_index": 1,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python",
+        "section": "Python 3.16.0a1 documentation",
+        "breadcrumb": "Python > Python 3.16.0a1 documentation",
+        "source_url": "https://docs.python.org/3.16",
+        "content": "## Python 3.16.0a1 documentation\n\nWelcome! This is the official documentation for Python 3.16.0a1.\n\n**Documentation sections:**\n\n- [What's new in Python 3.16?](https://docs.python.org/whatsnew/3.16.html)\nOr[all \"What's new\" documents since Python 2.0](https://docs.python.org/whatsnew/index.html)\n- [Tutorial](https://docs.python.org/tutorial/index.html)\nStart here: a tour of Python's syntax and features\n- [Built-ins reference](https://docs.python.org/builtins/index.html)\nBuilt-in functions and classes\n- [Library reference](https://docs.python.org/library/index.html)\nStandard library modules\n- [Language reference](https://docs.python.org/reference/index.html)\nSyntax and language elements\n- [Python setup and usage](https://docs.python.org/using/index.html)\nHow to install, configure, and use Python\n\n- [Python HOWTOs](https://docs.python.org/howto/index.html)\nIn-depth topic manuals\n- [Installing Python modules](https://docs.python.org/installing/index.html)\nThird-party modules and PyPI.org\n- [Extending and embedding](https://docs.python.org/extending/index.html)\nFor C/C++ programmers\n- [Python's C API](https://docs.python.org/c-api/index.html)\nC API reference\n- [FAQs](https://docs.python.org/faq/index.html)\nFrequently asked questions (with answers!)\n- [Deprecations](https://docs.python.org/deprecations/index.html)\nDeprecated functionality\n\n**Other resources:**\n\n- [Python developer's guide](https://devguide.python.org)\nInformation on contributing to Python\n- [Python Packaging User Guide](https://packaging.python.org)\nResources relating to Python packaging\n- [Audio/visual talks](https://www.python.org/doc/av/)\nPodcasts, talks, and video presentations from the community\n\n- [Python Enhancement Proposals](https://peps.python.org/)\nIndex of proposed improvements to Python",
+        "char_count": 1791,
+        "token_estimate": 447
+      }
+    },
+    {
+      "id": "f3b8f925-6582-5aee-98ca-eb4491d2a5d0",
+      "payload": {
+        "point_id": "f3b8f925-6582-5aee-98ca-eb4491d2a5d0",
+        "doc_id": "python_013",
+        "doc_order": 13,
+        "chunk_index": 2,
+        "total_chunks": 3,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python",
+        "section": "Python 3.16.0a1 documentation",
+        "breadcrumb": "Python > Python 3.16.0a1 documentation",
+        "source_url": "https://docs.python.org/3.16",
+        "content": "- [Audio/visual talks](https://www.python.org/doc/av/)\nPodcasts, talks, and video presentations from the community\n\n- [Python Enhancement Proposals](https://peps.python.org/)\nIndex of proposed improvements to Python\n- [Static Typing with Python](https://typing.python.org)\nInformation and guides about Python type safety\n\n**Indices, glossary, and search:**\n\n- [Global module index](https://docs.python.org/py-modindex.html)\nAll modules and libraries\n- [General index](https://docs.python.org/genindex.html)\nAll functions, classes, and terms\n- [Glossary](https://docs.python.org/glossary.html)\nTerms explained\n\n- [Search page](https://docs.python.org/search.html)\nSearch this documentation\n- [Complete table of contents](https://docs.python.org/contents.html)\nAll sections and subsections\n\n**Project information:**",
+        "char_count": 813,
+        "token_estimate": 203
+      }
+    },
+    {
+      "id": "e1e2ff03-dff1-53d3-9a25-6c2a981c5a00",
+      "payload": {
+        "point_id": "e1e2ff03-dff1-53d3-9a25-6c2a981c5a00",
+        "doc_id": "python_014",
+        "doc_order": 14,
+        "chunk_index": 0,
+        "total_chunks": 6,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python Data Classes: dataclass Decorator and default_factory",
+        "section": "Python Data Classes (dataclasses)",
+        "breadcrumb": "Python Data Classes: dataclass Decorator and default_factory > Python Data Classes (dataclasses)",
+        "source_url": "https://docs.python.org/3/library/dataclasses.html",
+        "content": "## Python Data Classes (dataclasses)\n\nSource: https://docs.python.org/3/library/dataclasses.html\n\n---",
+        "char_count": 101,
+        "token_estimate": 25
+      }
+    },
+    {
+      "id": "0ee1fc27-0ada-561b-995e-e9d121ae911f",
+      "payload": {
+        "point_id": "0ee1fc27-0ada-561b-995e-e9d121ae911f",
+        "doc_id": "python_014",
+        "doc_order": 14,
+        "chunk_index": 1,
+        "total_chunks": 6,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python Data Classes: dataclass Decorator and default_factory",
+        "section": "What is a Dataclass in Python",
+        "breadcrumb": "Python Data Classes: dataclass Decorator and default_factory > Python Data Classes (dataclasses) > What is a Dataclass in Python",
+        "source_url": "https://docs.python.org/3/library/dataclasses.html",
+        "content": "## What is a Dataclass in Python\n\nThe `dataclasses` module provides a decorator and functions for automatically generating special methods such as `__init__()`, `__repr__()`, and `__eq__()` on user-defined classes. It eliminates repetitive boilerplate code when defining classes whose primary purpose is storing state.",
+        "char_count": 318,
+        "token_estimate": 79
+      }
+    },
+    {
+      "id": "813a2d8a-e904-5314-b219-bcae1c164a5d",
+      "payload": {
+        "point_id": "813a2d8a-e904-5314-b219-bcae1c164a5d",
+        "doc_id": "python_014",
+        "doc_order": 14,
+        "chunk_index": 2,
+        "total_chunks": 6,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python Data Classes: dataclass Decorator and default_factory",
+        "section": "Using default_factory for Mutable Fields",
+        "breadcrumb": "Python Data Classes: dataclass Decorator and default_factory > Python Data Classes (dataclasses) > Using default_factory for Mutable Fields",
+        "source_url": "https://docs.python.org/3/library/dataclasses.html",
+        "content": "## Using default_factory for Mutable Fields\n\nIn Python, mutable default arguments (such as empty lists `[]` or dictionaries `{}`) cannot be used directly as default values in a class definition because the default instance would be shared across all instances of the class.\n\nTo provide default mutable objects safely, use `field(default_factory=...)`:\n\n```python\nfrom dataclasses import dataclass, field\nfrom typing import List, Dict, Optional\n\n@dataclass\nclass UserProfile:\n    username: str\n    email: str\n    tags: List[str] = field(default_factory=list)\n    metadata: Dict[str, str] = field(default_factory=dict)\n    is_active: bool = True",
+        "char_count": 643,
+        "token_estimate": 160
+      }
+    },
+    {
+      "id": "52232745-9a2c-5bf2-be19-8e4727faf9c7",
+      "payload": {
+        "point_id": "52232745-9a2c-5bf2-be19-8e4727faf9c7",
+        "doc_id": "python_014",
+        "doc_order": 14,
+        "chunk_index": 3,
+        "total_chunks": 6,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python Data Classes: dataclass Decorator and default_factory",
+        "section": "Usage:",
+        "breadcrumb": "Python Data Classes: dataclass Decorator and default_factory > Usage:",
+        "source_url": "https://docs.python.org/3/library/dataclasses.html",
+        "content": "## Usage:\n\nuser1 = UserProfile(username=\"alex\", email=\"alex@example.com\")\nuser1.tags.append(\"developer\")\n\nuser2 = UserProfile(username=\"sam\", email=\"sam@example.com\")",
+        "char_count": 166,
+        "token_estimate": 41
+      }
+    },
+    {
+      "id": "9e8d1377-117e-53d5-bca9-cfa0e46779bf",
+      "payload": {
+        "point_id": "9e8d1377-117e-53d5-bca9-cfa0e46779bf",
+        "doc_id": "python_014",
+        "doc_order": 14,
+        "chunk_index": 4,
+        "total_chunks": 6,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python Data Classes: dataclass Decorator and default_factory",
+        "section": "user2.tags is an independent empty list, NOT shared with user1!",
+        "breadcrumb": "Python Data Classes: dataclass Decorator and default_factory > user2.tags is an independent empty list, NOT shared with user1!",
+        "source_url": "https://docs.python.org/3/library/dataclasses.html",
+        "content": "## user2.tags is an independent empty list, NOT shared with user1!\n\nprint(user1.tags)  # ['developer']\nprint(user2.tags)  # []\n```",
+        "char_count": 130,
+        "token_estimate": 32
+      }
+    },
+    {
+      "id": "c5eb51da-a4d3-5712-8925-1caadc250cb8",
+      "payload": {
+        "point_id": "c5eb51da-a4d3-5712-8925-1caadc250cb8",
+        "doc_id": "python_014",
+        "doc_order": 14,
+        "chunk_index": 5,
+        "total_chunks": 6,
+        "technology": "Python",
+        "category": "Languages",
+        "title": "Python Data Classes: dataclass Decorator and default_factory",
+        "section": "Key Dataclass Parameters & Features",
+        "breadcrumb": "Python Data Classes: dataclass Decorator and default_factory > user2.tags is an independent empty list, NOT shared with user1! > Key Dataclass Parameters & Features",
+        "source_url": "https://docs.python.org/3/library/dataclasses.html",
+        "content": "## Key Dataclass Parameters & Features\n\n- `field(default_factory=Callable)`: A zero-argument callable that will be called when a default value is needed for this field.\n- `@dataclass(frozen=True)`: Makes instances immutable and hashable (attributes cannot be assigned after initialization).\n- `@dataclass(order=True)`: Automatically generates comparison methods (`__lt__`, `__le__`, `__gt__`, `__ge__`).\n- `asdict(instance)`: Converts a dataclass instance into a standard Python dictionary.\n- `astuple(instance)`: Converts a dataclass instance into a tuple.\n\n```python\nfrom dataclasses import dataclass, asdict\n\n@dataclass(frozen=True)\nclass Coordinate:\n    x: float\n    y: float\n\ncoord = Coordinate(10.5, 20.0)\nprint(asdict(coord))  # {'x': 10.5, 'y': 20.0}\n```",
+        "char_count": 762,
+        "token_estimate": 190
+      }
+    }
+  ]
+}

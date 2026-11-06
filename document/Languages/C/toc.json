@@ -1,0 +1,174 @@
+{
+  "technology": "C",
+  "category": "Languages",
+  "documents": [
+    {
+      "id": "c_001",
+      "doc_order": 1,
+      "title": "Symbol Index - cppreference.com",
+      "file": "001_c_symbol_index.md",
+      "source_url": "https://en.cppreference.com/c/symbol_index",
+      "content_hash": "d848e4e104c7c5f07b5d59b86710c4c8c2d129d372b20c6c124fe975ac49d4c6"
+    },
+    {
+      "id": "c_002",
+      "doc_order": 2,
+      "title": "C",
+      "file": "002_w_c.md",
+      "source_url": "https://en.cppreference.com/w/c",
+      "content_hash": "ca89695933be9df5857758322bfa9a57fc7102bdc0a0f1930e7ea860bb841d3c"
+    },
+    {
+      "id": "c_003",
+      "doc_order": 3,
+      "title": "C compiler support - cppreference.com",
+      "file": "003_c_compiler_support.md",
+      "source_url": "https://en.cppreference.com/c/compiler_support",
+      "content_hash": "094d04aa48c10693694bf22374a5f5b311fdecc5ae45db52e2c0a8d90acb7618"
+    },
+    {
+      "id": "c_004",
+      "doc_order": 4,
+      "title": "C Standard Library headers - cppreference.com",
+      "file": "004_c_header.md",
+      "source_url": "https://en.cppreference.com/c/header",
+      "content_hash": "4dea8813c97c70e374ba243233437eb976f245309e8e33dda707c1f447424d8d"
+    },
+    {
+      "id": "c_005",
+      "doc_order": 5,
+      "title": "Type support - cppreference.com",
+      "file": "005_c_types.md",
+      "source_url": "https://en.cppreference.com/c/types",
+      "content_hash": "df5421cb75bef69c5487d7e5e4c017a43972ef9f7cdae79de7483722c998f02e"
+    },
+    {
+      "id": "c_006",
+      "doc_order": 6,
+      "title": "Program support utilities - cppreference.com",
+      "file": "006_c_program.md",
+      "source_url": "https://en.cppreference.com/c/program",
+      "content_hash": "adac0c717b8bb4dbcf770f6a4d636f8ee1e413997a5bfd659ac4c2b34fe9f316"
+    },
+    {
+      "id": "c_007",
+      "doc_order": 7,
+      "title": "Variadic functions - cppreference.com",
+      "file": "007_c_variadic.md",
+      "source_url": "https://en.cppreference.com/c/variadic",
+      "content_hash": "7e2b07cdbd7878c5eaf83fa91c39ba7fc336275d05d3677a0cd232c8fbdbd54c"
+    },
+    {
+      "id": "c_008",
+      "doc_order": 8,
+      "title": "Error handling - cppreference.com",
+      "file": "008_c_error.md",
+      "source_url": "https://en.cppreference.com/c/error",
+      "content_hash": "596214cc1e9032e43fc2bbca2a30d2a5847f5c91a788339dec9673fe9158f3d5"
+    },
+    {
+      "id": "c_009",
+      "doc_order": 9,
+      "title": "Dynamic memory management - cppreference.com",
+      "file": "009_c_memory.md",
+      "source_url": "https://en.cppreference.com/c/memory",
+      "content_hash": "6502a45c0bc39d79744888f0fa81962c369ac69371a866ba3936d1464f230f80"
+    },
+    {
+      "id": "c_010",
+      "doc_order": 10,
+      "title": "Algorithms - cppreference.com",
+      "file": "010_c_algorithm.md",
+      "source_url": "https://en.cppreference.com/c/algorithm",
+      "content_hash": "4f9d612bbae583cb61defd2c5a8695525de7748d47ec21214b7173fd6dbc3342"
+    },
+    {
+      "id": "c_011",
+      "doc_order": 11,
+      "title": "Numerics - cppreference.com",
+      "file": "011_c_numeric.md",
+      "source_url": "https://en.cppreference.com/c/numeric",
+      "content_hash": "c8fec366cfd1128b31301b430afac40b4ea4c720dba2e0ce1565bdd5702d4a36"
+    },
+    {
+      "id": "c_012",
+      "doc_order": 12,
+      "title": "Date and time utilities - cppreference.com",
+      "file": "012_c_chrono.md",
+      "source_url": "https://en.cppreference.com/c/chrono",
+      "content_hash": "3d3e39ed0f0515aa1f9dc71d21cc11325f266e0d502e46e7833407f15649da61"
+    },
+    {
+      "id": "c_013",
+      "doc_order": 13,
+      "title": "File input/output - cppreference.com",
+      "file": "013_c_io.md",
+      "source_url": "https://en.cppreference.com/c/io",
+      "content_hash": "dc67a83dd3bd6a7c19b9062b8256b8cbec2b800be93b26149040fe6d6b982970"
+    },
+    {
+      "id": "c_014",
+      "doc_order": 14,
+      "title": "Localization support - cppreference.com",
+      "file": "014_c_locale.md",
+      "source_url": "https://en.cppreference.com/c/locale",
+      "content_hash": "7e5c10c88df2341b16ac669a7ea704c4b92712a3421475fcc6a8b10575b9318e"
+    },
+    {
+      "id": "c_015",
+      "doc_order": 15,
+      "title": "Concurrency support library - cppreference.com",
+      "file": "015_c_thread.md",
+      "source_url": "https://en.cppreference.com/c/thread",
+      "content_hash": "a0c0c8f4923ed541666c29cec0ae241a508a35b36324dfcb39c6ecb00040d2d2"
+    },
+    {
+      "id": "c_016",
+      "doc_order": 16,
+      "title": "Experimental C features - cppreference.com",
+      "file": "016_c_experimental.md",
+      "source_url": "https://en.cppreference.com/c/experimental",
+      "content_hash": "83a8e5e36ee3ed5bd70c7c71f56872667716d02863a9adec7b57590184a1763c"
+    },
+    {
+      "id": "c_017",
+      "doc_order": 17,
+      "title": "C99 - cppreference.com",
+      "file": "017_c_99.md",
+      "source_url": "https://en.cppreference.com/c/99",
+      "content_hash": "31550bbcfca1c50de8603d605cb3b4126120335d3839f1e47b8792a369039817"
+    },
+    {
+      "id": "c_018",
+      "doc_order": 18,
+      "title": "C11 - cppreference.com",
+      "file": "018_c_11.md",
+      "source_url": "https://en.cppreference.com/c/11",
+      "content_hash": "6b2aad923e32ebd0e6cea42345312d10f87748116f02a03e857cdf08ede3edab"
+    },
+    {
+      "id": "c_019",
+      "doc_order": 19,
+      "title": "C17 - cppreference.com",
+      "file": "019_c_17.md",
+      "source_url": "https://en.cppreference.com/c/17",
+      "content_hash": "75e4e7a285b490eea955852500f747792b302a216728363eccba4670a60a5b4b"
+    },
+    {
+      "id": "c_020",
+      "doc_order": 20,
+      "title": "C23 - cppreference.com",
+      "file": "020_c_23.md",
+      "source_url": "https://en.cppreference.com/c/23",
+      "content_hash": "168d22a08ac097e141e777f13097769d79feb7aef992dba6d75f766b9a4c5df4"
+    },
+    {
+      "id": "c_021",
+      "doc_order": 21,
+      "title": "Compiler support for C99 - cppreference.com",
+      "file": "021_c_compiler_support_99.md",
+      "source_url": "https://en.cppreference.com/c/compiler_support/99",
+      "content_hash": "644dff5b8c5e2136cdfb729bc1202df552b5748f157dc996828cab92491424c4"
+    }
+  ]
+}

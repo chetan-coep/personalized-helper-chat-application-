@@ -1,0 +1,414 @@
+{
+  "technology": "NumPy",
+  "category": "ML_&_Data",
+  "documents": [
+    {
+      "id": "numpy_001",
+      "doc_order": 1,
+      "title": "NumPy",
+      "file": "001_index.md",
+      "source_url": "https://numpy.org",
+      "content_hash": "4e27dd0faf554595e4da8b960000ec3ce24f58c89ce14d771f2bd7d351444499"
+    },
+    {
+      "id": "numpy_002",
+      "doc_order": 2,
+      "title": "NumPy",
+      "file": "002_learn.md",
+      "source_url": "https://numpy.org/learn",
+      "content_hash": "4a046291c1a30bfd7707fda35557d9d610bc30fac525f9e83001668bd99e6bd2"
+    },
+    {
+      "id": "numpy_003",
+      "doc_order": 3,
+      "title": "NumPy",
+      "file": "003_pt_learn.md",
+      "source_url": "https://numpy.org/pt/learn",
+      "content_hash": "8cfba4144fab3fd1e8f002c03f51cb14771e5a111f94f97e721a78f35a1580e6"
+    },
+    {
+      "id": "numpy_004",
+      "doc_order": 4,
+      "title": "NumPy",
+      "file": "004_404.md",
+      "source_url": "https://numpy.org/404",
+      "content_hash": "358d26ca322329b39b063b0589e49c2dea1e0975ad36cfac36d0c6b65cf18198"
+    },
+    {
+      "id": "numpy_005",
+      "doc_order": 5,
+      "title": "NumPy",
+      "file": "005_about.md",
+      "source_url": "https://numpy.org/about",
+      "content_hash": "6b386c63b439276a9f46654f76f63eddb639dac4961f2532f3fc903a2f2a0587"
+    },
+    {
+      "id": "numpy_006",
+      "doc_order": 6,
+      "title": "NumPy",
+      "file": "006_arraycomputing.md",
+      "source_url": "https://numpy.org/arraycomputing",
+      "content_hash": "367bf05b15f1d248447c770b6e80400a7dca25c509da2f7f14406d711339648e"
+    },
+    {
+      "id": "numpy_007",
+      "doc_order": 7,
+      "title": "NumPy",
+      "file": "007_case-studies.md",
+      "source_url": "https://numpy.org/case-studies",
+      "content_hash": "0e8549319c0c7ec4215536686cc93d463fc3cdd67cfe66f59b385438978e7e21"
+    },
+    {
+      "id": "numpy_008",
+      "doc_order": 8,
+      "title": "NumPy",
+      "file": "008_case-studies_blackhole-image.md",
+      "source_url": "https://numpy.org/case-studies/blackhole-image",
+      "content_hash": "38d4daf039dba7af5d51130e488ade2afcd3fe52b905ab3ae8955c4c720690b9"
+    },
+    {
+      "id": "numpy_009",
+      "doc_order": 9,
+      "title": "NumPy",
+      "file": "009_case-studies_cricket-analytics.md",
+      "source_url": "https://numpy.org/case-studies/cricket-analytics",
+      "content_hash": "eff31f056db5e3ebce53fb14ea3ae50c53b0a9b006022bd4cc59d0bc2671bbca"
+    },
+    {
+      "id": "numpy_010",
+      "doc_order": 10,
+      "title": "NumPy",
+      "file": "010_case-studies_deeplabcut-dnn.md",
+      "source_url": "https://numpy.org/case-studies/deeplabcut-dnn",
+      "content_hash": "d2d1aafaf76e75340965eec067645b14ff9d48b5a3c7487d5bb1afef416d4474"
+    },
+    {
+      "id": "numpy_011",
+      "doc_order": 11,
+      "title": "NumPy",
+      "file": "011_case-studies_gw-discov.md",
+      "source_url": "https://numpy.org/case-studies/gw-discov",
+      "content_hash": "0a6df082304a7171080a907f576305b259e004ad97d1d6540f2710f0cbb65d9b"
+    },
+    {
+      "id": "numpy_012",
+      "doc_order": 12,
+      "title": "NumPy",
+      "file": "012_citing-numpy.md",
+      "source_url": "https://numpy.org/citing-numpy",
+      "content_hash": "b26fd6693c9a505f0d8cb76c1b6d54428c7c71b27dd1cfe8663c474979bb1ae3"
+    },
+    {
+      "id": "numpy_013",
+      "doc_order": 13,
+      "title": "NumPy",
+      "file": "013_code-of-conduct.md",
+      "source_url": "https://numpy.org/code-of-conduct",
+      "content_hash": "0bb3bea734d72e0a26074f5e641eb5dbdd454050c894bcdf8a17defbef37ba2c"
+    },
+    {
+      "id": "numpy_014",
+      "doc_order": 14,
+      "title": "NumPy",
+      "file": "014_community.md",
+      "source_url": "https://numpy.org/community",
+      "content_hash": "7cc67657e40c534cf6f1c18243da786e5a9921dda3da228b5e2b38c38e62f5fe"
+    },
+    {
+      "id": "numpy_015",
+      "doc_order": 15,
+      "title": "NumPy",
+      "file": "015_contribute.md",
+      "source_url": "https://numpy.org/contribute",
+      "content_hash": "3f94e5844c7e703129a44d1883aeaaa49d848e95836894a4db9676c28f3d7738"
+    },
+    {
+      "id": "numpy_016",
+      "doc_order": 16,
+      "title": "NumPy",
+      "file": "016_diversity_sep2020.md",
+      "source_url": "https://numpy.org/diversity_sep2020",
+      "content_hash": "ccb41dad3ffb11edf0007878c4d4e7dcd7b8e55b45750084114c355106e15a32"
+    },
+    {
+      "id": "numpy_017",
+      "doc_order": 17,
+      "title": "NumPy",
+      "file": "017_gethelp.md",
+      "source_url": "https://numpy.org/gethelp",
+      "content_hash": "be341404597f997b58d300af90eabebe8bfc22135b06a98014547e598abec1e4"
+    },
+    {
+      "id": "numpy_018",
+      "doc_order": 18,
+      "title": "NumPy",
+      "file": "018_history.md",
+      "source_url": "https://numpy.org/history",
+      "content_hash": "2bbe8ddbc045e19c58ad4d95572958ecacbcf50e63c6b2eb695386c923509e8d"
+    },
+    {
+      "id": "numpy_019",
+      "doc_order": 19,
+      "title": "NumPy",
+      "file": "019_install.md",
+      "source_url": "https://numpy.org/install",
+      "content_hash": "d65175668226d74cc20ffda08262dc8ae9379afac6395245a6e1e537683f6c96"
+    },
+    {
+      "id": "numpy_020",
+      "doc_order": 20,
+      "title": "NumPy",
+      "file": "020_news.md",
+      "source_url": "https://numpy.org/news",
+      "content_hash": "26bbca79d8b986c9ec171d20fff4b2da799f6622ee68945cc1372306974ec154"
+    },
+    {
+      "id": "numpy_021",
+      "doc_order": 21,
+      "title": "NumPy",
+      "file": "021_press-kit.md",
+      "source_url": "https://numpy.org/press-kit",
+      "content_hash": "ecf7cadd44e25165ad17171c31d8a336c549bb0f1fac2b11147d350c1267bbea"
+    },
+    {
+      "id": "numpy_022",
+      "doc_order": 22,
+      "title": "NumPy",
+      "file": "022_privacy.md",
+      "source_url": "https://numpy.org/privacy",
+      "content_hash": "812cf204df78589f9fe0442054817def825a8f1186f537ca3eb2fc44aa9fe249"
+    },
+    {
+      "id": "numpy_023",
+      "doc_order": 23,
+      "title": "NumPy",
+      "file": "023_pt_404.md",
+      "source_url": "https://numpy.org/pt/404",
+      "content_hash": "04fcf96ffbb6dc5fdf4bb4a0eb343cf6c5bcb82773e19ac05e0f5fff8cc7d1ca"
+    },
+    {
+      "id": "numpy_024",
+      "doc_order": 24,
+      "title": "NumPy",
+      "file": "024_pt_about.md",
+      "source_url": "https://numpy.org/pt/about",
+      "content_hash": "96f5852d1982ad661f0322851d20aaa15e243e94a4261417c1fb4fb5137cf4e5"
+    },
+    {
+      "id": "numpy_025",
+      "doc_order": 25,
+      "title": "NumPy",
+      "file": "025_pt_arraycomputing.md",
+      "source_url": "https://numpy.org/pt/arraycomputing",
+      "content_hash": "5f2c867201272dd193a7f7631c6eca1eb3ecb0d840dbf1d83939a9f74b0910cf"
+    },
+    {
+      "id": "numpy_026",
+      "doc_order": 26,
+      "title": "NumPy",
+      "file": "026_pt_case-studies.md",
+      "source_url": "https://numpy.org/pt/case-studies",
+      "content_hash": "adfd1daae4be7d6713c68c30763320cc21a03418976ad7a5e78152b9d43980d2"
+    },
+    {
+      "id": "numpy_027",
+      "doc_order": 27,
+      "title": "NumPy",
+      "file": "027_pt_case-studies_blackhole-image.md",
+      "source_url": "https://numpy.org/pt/case-studies/blackhole-image",
+      "content_hash": "1a374af3b39126f5ae47a1afc137da5726088f15d4972338c422760be70a3ccb"
+    },
+    {
+      "id": "numpy_028",
+      "doc_order": 28,
+      "title": "NumPy",
+      "file": "028_pt_case-studies_cricket-analytics.md",
+      "source_url": "https://numpy.org/pt/case-studies/cricket-analytics",
+      "content_hash": "638cbb5d5b71923739c093d43418dc0fb8c1b9b7861dd886d800cb794eb3b126"
+    },
+    {
+      "id": "numpy_029",
+      "doc_order": 29,
+      "title": "NumPy",
+      "file": "029_pt_case-studies_deeplabcut-dnn.md",
+      "source_url": "https://numpy.org/pt/case-studies/deeplabcut-dnn",
+      "content_hash": "4d607c281875a176c7f87a47f173eb674abd55da4bf75448f07714b52cced5b8"
+    },
+    {
+      "id": "numpy_030",
+      "doc_order": 30,
+      "title": "NumPy",
+      "file": "030_pt_case-studies_gw-discov.md",
+      "source_url": "https://numpy.org/pt/case-studies/gw-discov",
+      "content_hash": "4b911305476c3279b18f19801eb617f500dc401587ca8a76acfcd995836ae606"
+    },
+    {
+      "id": "numpy_031",
+      "doc_order": 31,
+      "title": "NumPy",
+      "file": "031_pt_citing-numpy.md",
+      "source_url": "https://numpy.org/pt/citing-numpy",
+      "content_hash": "29e1b8e88435c2986930ad97f7f317159f64e8588e99b44ad75ddd9605386915"
+    },
+    {
+      "id": "numpy_032",
+      "doc_order": 32,
+      "title": "NumPy",
+      "file": "032_pt_code-of-conduct.md",
+      "source_url": "https://numpy.org/pt/code-of-conduct",
+      "content_hash": "b46e16aee593b00e7e0ed2cb98541d7e44dc7181b445b40a312f86002b2ee768"
+    },
+    {
+      "id": "numpy_033",
+      "doc_order": 33,
+      "title": "NumPy",
+      "file": "033_pt_community.md",
+      "source_url": "https://numpy.org/pt/community",
+      "content_hash": "83fe7df95b3cc8126e8ae3d31ff7d6f82083c3875f9af89e1f16eede873d6e4c"
+    },
+    {
+      "id": "numpy_034",
+      "doc_order": 34,
+      "title": "NumPy",
+      "file": "034_pt_contribute.md",
+      "source_url": "https://numpy.org/pt/contribute",
+      "content_hash": "4a21fd6515fd1527fe09379c673156a7f50a45b6b9950d10abfe85581c8914d8"
+    },
+    {
+      "id": "numpy_035",
+      "doc_order": 35,
+      "title": "NumPy",
+      "file": "035_pt_diversity_sep2020.md",
+      "source_url": "https://numpy.org/pt/diversity_sep2020",
+      "content_hash": "1fe5204e6dae20d8c93c5644670c678aa0d102e92c13d7053af20fe17ea36df8"
+    },
+    {
+      "id": "numpy_036",
+      "doc_order": 36,
+      "title": "NumPy",
+      "file": "036_pt_gethelp.md",
+      "source_url": "https://numpy.org/pt/gethelp",
+      "content_hash": "999ec08673722ff70d56c18cd04140b4994a55ce87a14fb462c535af391718e3"
+    },
+    {
+      "id": "numpy_037",
+      "doc_order": 37,
+      "title": "NumPy",
+      "file": "037_pt_history.md",
+      "source_url": "https://numpy.org/pt/history",
+      "content_hash": "3a8ebede9f6bb0083fb7ea1c98d690be8f06174302c1e692b5672a8e2d0f53e4"
+    },
+    {
+      "id": "numpy_038",
+      "doc_order": 38,
+      "title": "NumPy",
+      "file": "038_pt_install.md",
+      "source_url": "https://numpy.org/pt/install",
+      "content_hash": "1d0aed9d41ed936f267428f35dd0289c9e0b3674b2cd57becbe828d4029802ff"
+    },
+    {
+      "id": "numpy_039",
+      "doc_order": 39,
+      "title": "NumPy",
+      "file": "039_pt_news.md",
+      "source_url": "https://numpy.org/pt/news",
+      "content_hash": "a3af2687686704351b8dcf37e8c5a34f759855b9795b3ff7e33c7b082d016a23"
+    },
+    {
+      "id": "numpy_040",
+      "doc_order": 40,
+      "title": "NumPy",
+      "file": "040_pt_press-kit.md",
+      "source_url": "https://numpy.org/pt/press-kit",
+      "content_hash": "1dcd2b03fc6f5de35f595d8dd4c577f2a632cd0490b967279efbad06c37b169e"
+    },
+    {
+      "id": "numpy_041",
+      "doc_order": 41,
+      "title": "NumPy",
+      "file": "041_pt_privacy.md",
+      "source_url": "https://numpy.org/pt/privacy",
+      "content_hash": "7ffc20713db316d9f5fe8d7687f28fcb721090108f18e94557dbfe0e047386a5"
+    },
+    {
+      "id": "numpy_042",
+      "doc_order": 42,
+      "title": "NumPy",
+      "file": "042_pt_report-handling-manual.md",
+      "source_url": "https://numpy.org/pt/report-handling-manual",
+      "content_hash": "7e67d8a7779b86622dcc1856b188912bc5195ffe1c5e9a0c76fbd1cb19386a72"
+    },
+    {
+      "id": "numpy_043",
+      "doc_order": 43,
+      "title": "NumPy",
+      "file": "043_pt_teams.md",
+      "source_url": "https://numpy.org/pt/teams",
+      "content_hash": "c46ef9acd19d1e5d61f1ceb55618a6843d183ccae399a88e5e43ea5d5226a9aa"
+    },
+    {
+      "id": "numpy_044",
+      "doc_order": 44,
+      "title": "NumPy",
+      "file": "044_pt_terms.md",
+      "source_url": "https://numpy.org/pt/terms",
+      "content_hash": "ccf70ef860ca4723ea64e6c088b5f7c060ab0a77af78a5549b9b6722585b8ee9"
+    },
+    {
+      "id": "numpy_045",
+      "doc_order": 45,
+      "title": "NumPy",
+      "file": "045_pt_user-survey-2020.md",
+      "source_url": "https://numpy.org/pt/user-survey-2020",
+      "content_hash": "fd575121ec9c1a048245fb4a0cdb4907a0352978f0cdffb9f911a28df7de95e6"
+    },
+    {
+      "id": "numpy_046",
+      "doc_order": 46,
+      "title": "NumPy",
+      "file": "046_pt_user-surveys.md",
+      "source_url": "https://numpy.org/pt/user-surveys",
+      "content_hash": "82cbfd3071be92f514bcd16511ed64ba477ab8aa6d654402824cdc45d7f9d91b"
+    },
+    {
+      "id": "numpy_047",
+      "doc_order": 47,
+      "title": "NumPy",
+      "file": "047_report-handling-manual.md",
+      "source_url": "https://numpy.org/report-handling-manual",
+      "content_hash": "485cf8b6d0cc5233830c59d1ca96e220a1a9b16fc7927c6427097841c36937fd"
+    },
+    {
+      "id": "numpy_048",
+      "doc_order": 48,
+      "title": "NumPy",
+      "file": "048_teams.md",
+      "source_url": "https://numpy.org/teams",
+      "content_hash": "616755a6007ab9270e3f96eccd5abf0d69eb0c8c5e56a09c51673f036da36e2c"
+    },
+    {
+      "id": "numpy_049",
+      "doc_order": 49,
+      "title": "NumPy",
+      "file": "049_terms.md",
+      "source_url": "https://numpy.org/terms",
+      "content_hash": "8eaa85cacb16570881c5fec72f268cd390a1139ab0da31cb74c1eb7d2083aae2"
+    },
+    {
+      "id": "numpy_050",
+      "doc_order": 50,
+      "title": "NumPy",
+      "file": "050_user-survey-2020.md",
+      "source_url": "https://numpy.org/user-survey-2020",
+      "content_hash": "ccfda044c0ba862b803f1e714fac5ef3af0bb77b330531bc53b43c28f0d711a5"
+    },
+    {
+      "id": "numpy_051",
+      "doc_order": 51,
+      "title": "NumPy",
+      "file": "051_user-surveys.md",
+      "source_url": "https://numpy.org/user-surveys",
+      "content_hash": "994b86dcc5ba37e77650b46188a5f4cfc1e6233f4e18d51cdb2f454aebaa38e5"
+    }
+  ]
+}

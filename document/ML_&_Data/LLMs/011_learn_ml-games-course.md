@@ -1,0 +1,113 @@
+---
+id: "llms_011"
+technology: "LLMs"
+category: "ML & Data"
+title: "LLMs"
+doc_order: 11
+source_url: "https://huggingface.co/learn/ml-games-course"
+language: "en"
+retrieved_at: "2026-11-01 22:41:08"
+content_hash: "b22fe713a01be9218eaae806bb83eda142e658eb37b66b5c5c4ad234cc17ffd6"
+---
+
+# LLMs
+
+Source: https://huggingface.co/learn/ml-games-course
+
+---
+
+ML for Games Course documentation
+
+Welcome to the 🤗 Machine Learning for Games Course
+
+# 
+
+Welcome to the course that will teach you the most fascinating topic in game development: **how to use powerful AI tools and models to create unique game experiences**.
+
+New AI models are revolutionizing the Game Industry in two impactful ways:
+
+- On **how we make games**:
+  - Generate textures using AI
+  - Using AI voice actors for the voices.
+- How we **create gameplay**:
+  - Crafting smart Non-Playable Characters (NPCs) using large language models.
+
+This course will **teach you**:
+
+- How to **integrate AI models for innovative gameplay**, featuring intelligent NPCs.
+- How to use AI tools to help your game development pipeline.
+
+In this introduction unit, you’ll:
+
+- Learn more about the **course content and the syllabus**.
+- Learn the **course requirements**.
+- Create your Hugging Face Account (it’s free)
+- Sign up to our Discord server to chat with your classmates and us (the Hugging Face team).
+
+Let’s get started!
+
+## 
+
+In this course, you will:
+
+- 🤖 Learn to use **powerful chat models to build intelligent NPC**.
+- 🪄 Run **these powerful AI models locally or with cloud APIs.**
+- 🎨 Use AI tools **to accelerate your game development**: generate voices with text-to-speech models using image generation tools…
+- 🎮 Work on **exciting game demos**.
+- 👩🎨 **Build Your Own Game Demo**.
+
+And more!
+
+At the end of this course, you’ll get a **solid foundation on using AI models in your games and AI tools in your game development**.
+
+Remember to [sign up for the course](http://eepurl.com/iCWDQw) (we are collecting your email to be able to send you the links when each Unit is published and give you information about the challenges and updates).
+
+Sign up 👉 [here](http://eepurl.com/iCWDQw)
+
+For now, all our content uses the [Unity Game Engine](https://www.unity.com). In the future, we will add content about Unreal Engine, Godot, and more.
+
+Naturally, for the demo, you can use any Game Engine you want (or no game engine), **but we advise you to use Unity**.
+
+## 
+
+This course **is not an introduction to game development**. You should have some skills in Unity to follow this course.
+
+If it’s not the case. Don’t worry, that’s the perfect time to start! To start making games with Unity, check out this fantastic course: [Create with Code](https://learn.unity.com/course/create-with-code), where you’ll learn to make five different games.
+
+With this create with code free course, **you’ll get everything you need to be able to follow the Machine Learning for Games Course**.
+
+Create with code course 👉 [https://learn.unity.com/course/create-with-code](https://learn.unity.com/course/create-with-code)
+
+In addition, you can watch this excellent introduction to Unity by [GMTK (Game Maker’s Toolkit)](https://www.youtube.com/@GMTK)
+
+## 
+
+We don’t plan to have a unit on this for now. **But the course will be improved with your feedback**.
+
+We already have a lot of free courses if you want to go deeper into:
+
+- Learning [Natural Language Processing with Transformers](https://huggingface.co/learn/nlp-course)
+- Learning [Audio Processing with Transformers (Speech-To-Text, Text-To-Speech…)](https://huggingface.co/learn/audio-course/chapter0/introduction)
+- Learn to [build Generative AI Applications with Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
+
+## 
+
+The course is now \*\*self-paced and will not have new future units\*\*. We \*\*don't provide a Certificate of Completion for this course\*\*.
+But we continue to write tutorials on how to use AI in Games here 👉 https://thomassimonini.substack.com/
+
+During this course, you will work on some demos we’ve made. But the most exciting part is that during the whole course **you will also work on your demo**.
+
+You’ll build a game demo using either:
+
+- **AI tools to help you build the game** (for instance, texture generation, AI voice actors…).
+- And or using an **AI in the game as gameplay or for the NPC**.
+
+## 
+
+In addition to this course, I’m writing a weekly blog with tutorials, articles.
+
+From creating smarter NPCs to unleashing the power of Generative AI, I’m here to demystify the process with easy-to-follow tutorials and demos.
+
+👉 [https://thomassimonini.substack.com/](https://thomassimonini.substack.com/)
+
+[Update on GitHub](https://github.com/huggingface/making-games-with-ai-course/blob/main/units/en/unit0/introduction.mdx)

@@ -1,0 +1,86 @@
+{
+  "technology": "OOP",
+  "category": "Core_Concepts",
+  "documents": [
+    {
+      "id": "oop_001",
+      "doc_order": 1,
+      "title": "Lesson: Object-Oriented Programming Concepts (The Java\u2122 Tutorials > Learning the Java Language)",
+      "file": "001_javase_tutorial_java_concepts_index.html.md",
+      "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/index.html",
+      "content_hash": "85face52621a763b6a54baf163e1922768a30836a0c7936e1449e8440c87765c"
+    },
+    {
+      "id": "oop_002",
+      "doc_order": 2,
+      "title": "OOP",
+      "file": "002_javase_tutorial_java_concepts.md",
+      "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts",
+      "content_hash": "a7d99211fdcc29ec15e0d4452cc944f89c621941eaa60328d1657dc8b20f1aab"
+    },
+    {
+      "id": "oop_003",
+      "doc_order": 3,
+      "title": "What Is an Object? (The Java\u2122 Tutorials >",
+      "file": "003_javase_tutorial_java_concepts_object.html.md",
+      "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/object.html",
+      "content_hash": "b64e8ca4ecb02df94a8112c1b62020a307c0b9b4daeab4a8d5434bbc258acd56"
+    },
+    {
+      "id": "oop_004",
+      "doc_order": 4,
+      "title": "What Is a Class? (The Java\u2122 Tutorials >",
+      "file": "004_javase_tutorial_java_concepts_class.html.md",
+      "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/class.html",
+      "content_hash": "27148550b53115801377c04770b64aeccfcdf4cf7dfa558cfecf1178d77df3b3"
+    },
+    {
+      "id": "oop_005",
+      "doc_order": 5,
+      "title": "What Is Inheritance? (The Java\u2122 Tutorials >",
+      "file": "005_javase_tutorial_java_concepts_inheritance.html.md",
+      "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/inheritance.html",
+      "content_hash": "6ff516e62f4452ddec8103964293652b58f7fa9c06e8cceb52ba790a53fc4a0d"
+    },
+    {
+      "id": "oop_006",
+      "doc_order": 6,
+      "title": "What Is an Interface? (The Java\u2122 Tutorials >",
+      "file": "006_javase_tutorial_java_concepts_interface.html.md",
+      "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/interface.html",
+      "content_hash": "32c99c964daec568f2e522428f008b652e15cc668643310fe0e9fad3390f57b0"
+    },
+    {
+      "id": "oop_007",
+      "doc_order": 7,
+      "title": "What Is a Package? (The Java\u2122 Tutorials >",
+      "file": "007_javase_tutorial_java_concepts_package.html.md",
+      "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/package.html",
+      "content_hash": "a269ff3b89143cb4459b45bce7e770ec88124df67a27dfa88978529d0174799c"
+    },
+    {
+      "id": "oop_008",
+      "doc_order": 8,
+      "title": "Questions and Exercises: Object-Oriented Programming Concepts (The Java\u2122 Tutorials >",
+      "file": "008_javase_tutorial_java_concepts_QandE_questions.html.md",
+      "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/QandE/questions.html",
+      "content_hash": "7bd3ec9f58d333933be05dddd418b0b9e5ae9c46602cddca234f6bb208f4bcf4"
+    },
+    {
+      "id": "oop_009",
+      "doc_order": 9,
+      "title": "Answers to Questions and Exercises: Object-Oriented Programming Concepts (The Java\u2122 Tutorials > Learning the Java Language >",
+      "file": "009_javase_tutorial_java_concepts_QandE_answers.html.md",
+      "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/QandE/answers.html",
+      "content_hash": "36d182cdda0a5a46943a0fecf12ad8a01199d0af2ec5d6108aed1570cf851143"
+    },
+    {
+      "id": "oop_010",
+      "doc_order": 10,
+      "title": "The Four Pillars of Object-Oriented Programming (OOP): Encapsulation, Abstraction, Inheritance, and Polymorphism",
+      "file": "010_four_pillars_of_oop.md",
+      "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/index.html",
+      "content_hash": "oop_four_pillars_comprehensive_010"
+    }
+  ]
+}

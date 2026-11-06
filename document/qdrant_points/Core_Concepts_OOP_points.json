@@ -1,0 +1,596 @@
+{
+  "category": "Core_Concepts",
+  "technology": "OOP",
+  "total_points": 31,
+  "points": [
+    {
+      "id": "865aee2f-eab8-588e-a3b6-44b4147d9803",
+      "payload": {
+        "point_id": "865aee2f-eab8-588e-a3b6-44b4147d9803",
+        "doc_id": "oop_001",
+        "doc_order": 1,
+        "chunk_index": 0,
+        "total_chunks": 2,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "Lesson: Object-Oriented Programming Concepts (The Java\u2122 Tutorials > Learning the Java Language)",
+        "section": "Lesson: Object-Oriented Programming Concepts (The Java\u2122 Tutorials > Learning the Java Language)",
+        "breadcrumb": "Lesson: Object-Oriented Programming Concepts (The Java\u2122 Tutorials > Learning the Java Language)",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/index.html",
+        "content": "## Lesson: Object-Oriented Programming Concepts (The Java\u2122 Tutorials > Learning the Java Language)\n\nSource: https://docs.oracle.com/javase/tutorial/java/concepts/index.html\n\n---\n\nIf you've never used an object-oriented programming language before, you'll need to learn a few basic concepts before you can begin writing any code. This lesson will introduce you to objects, classes, inheritance, interfaces, and packages. Each discussion focuses on how these concepts relate to the real world, while simultaneously providing an introduction to the syntax of the Java programming language.\n\nAn object is a software bundle of related state and behavior. Software objects are often used to model the real-world objects that you find in everyday life. This lesson explains how state and behavior are represented within an object, introduces the concept of data encapsulation, and explains the benefits of designing your software in this manner.\n\nA class is a blueprint or prototype from which objects are created. This section defines a class that models the state and behavior of a real-world object. It intentionally focuses on the basics, showing how even a simple class can cleanly model state and behavior.\n\nInheritance provides a powerful and natural mechanism for organizing and structuring your software. This section explains how classes inherit state and behavior from their superclasses, and explains how to derive one class from another using the simple syntax provided by the Java programming language.\n\nAn interface is a contract between a class and the outside world. When a class implements an interface, it promises to provide the behavior published by that interface. This section defines a simple interface and explains the necessary changes for any class that implements it.",
+        "char_count": 1788,
+        "token_estimate": 447
+      }
+    },
+    {
+      "id": "b954781c-76b2-5bba-be5d-21ffd4f2ace0",
+      "payload": {
+        "point_id": "b954781c-76b2-5bba-be5d-21ffd4f2ace0",
+        "doc_id": "oop_001",
+        "doc_order": 1,
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "Lesson: Object-Oriented Programming Concepts (The Java\u2122 Tutorials > Learning the Java Language)",
+        "section": "Lesson: Object-Oriented Programming Concepts (The Java\u2122 Tutorials > Learning the Java Language)",
+        "breadcrumb": "Lesson: Object-Oriented Programming Concepts (The Java\u2122 Tutorials > Learning the Java Language)",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/index.html",
+        "content": "A package is a namespace for organizing classes and interfaces in a logical manner. Placing your code into packages makes large software projects easier to manage. This section explains why this is useful, and introduces you to the Application Programming Interface (API) provided by the Java platform.\n\nUse the questions and exercises presented in this section to test your understanding of objects, classes, inheritance, interfaces, and packages.",
+        "char_count": 448,
+        "token_estimate": 112
+      }
+    },
+    {
+      "id": "f55d69c8-eb3f-59e5-bdfd-41c00b585af2",
+      "payload": {
+        "point_id": "f55d69c8-eb3f-59e5-bdfd-41c00b585af2",
+        "doc_id": "oop_002",
+        "doc_order": 2,
+        "chunk_index": 0,
+        "total_chunks": 2,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "OOP",
+        "section": "OOP",
+        "breadcrumb": "OOP",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts",
+        "content": "## OOP\n\nSource: https://docs.oracle.com/javase/tutorial/java/concepts\n\n---\n\nThe Java Tutorials have been written for JDK 8. Examples and practices described in this page don't take advantage of improvements introduced in later releases and might use technology no longer available.\n\nSee [Dev.java](https://dev.java/learn/) for updated tutorials taking advantage of the latest releases.\n\nSee [Java Language Changes](https://docs.oracle.com/pls/topic/lookup?ctx=en/java/javase&id=java_language_changes) for a summary of updated language features in Java SE 9 and subsequent releases.\n\nSee [JDK Release Notes](https://www.oracle.com/technetwork/java/javase/jdk-relnotes-index-2162236.html) for information about new features, enhancements, and removed or deprecated options for all JDK releases.\n\nIf you've never used an object-oriented programming language before, you'll need to learn a few basic concepts before you can begin writing any code. This lesson will introduce you to objects, classes, inheritance, interfaces, and packages. Each discussion focuses on how these concepts relate to the real world, while simultaneously providing an introduction to the syntax of the Java programming language.\n\nAn object is a software bundle of related state and behavior. Software objects are often used to model the real-world objects that you find in everyday life. This lesson explains how state and behavior are represented within an object, introduces the concept of data encapsulation, and explains the benefits of designing your software in this manner.",
+        "char_count": 1553,
+        "token_estimate": 388
+      }
+    },
+    {
+      "id": "d7f898d9-d30d-52e1-8ce8-67acaae42173",
+      "payload": {
+        "point_id": "d7f898d9-d30d-52e1-8ce8-67acaae42173",
+        "doc_id": "oop_002",
+        "doc_order": 2,
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "OOP",
+        "section": "OOP",
+        "breadcrumb": "OOP",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts",
+        "content": "A class is a blueprint or prototype from which objects are created. This section defines a class that models the state and behavior of a real-world object. It intentionally focuses on the basics, showing how even a simple class can cleanly model state and behavior.\n\nInheritance provides a powerful and natural mechanism for organizing and structuring your software. This section explains how classes inherit state and behavior from their superclasses, and explains how to derive one class from another using the simple syntax provided by the Java programming language.\n\nAn interface is a contract between a class and the outside world. When a class implements an interface, it promises to provide the behavior published by that interface. This section defines a simple interface and explains the necessary changes for any class that implements it.\n\nA package is a namespace for organizing classes and interfaces in a logical manner. Placing your code into packages makes large software projects easier to manage. This section explains why this is useful, and introduces you to the Application Programming Interface (API) provided by the Java platform.\n\nUse the questions and exercises presented in this section to test your understanding of objects, classes, inheritance, interfaces, and packages.",
+        "char_count": 1298,
+        "token_estimate": 324
+      }
+    },
+    {
+      "id": "8e0d2bf7-20f5-51c5-88ef-0691ebc216b7",
+      "payload": {
+        "point_id": "8e0d2bf7-20f5-51c5-88ef-0691ebc216b7",
+        "doc_id": "oop_003",
+        "doc_order": 3,
+        "chunk_index": 0,
+        "total_chunks": 2,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "What Is an Object? (The Java\u2122 Tutorials >",
+        "section": "What Is an Object? (The Java\u2122 Tutorials >",
+        "breadcrumb": "What Is an Object? (The Java\u2122 Tutorials >",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/object.html",
+        "content": "## What Is an Object? (The Java\u2122 Tutorials >\n\nLearning the Java Language > Object-Oriented Programming Concepts)\n\nSource: https://docs.oracle.com/javase/tutorial/java/concepts/object.html\n\n---\n\nObjects are key to understanding *object-oriented* technology. Look around right now and you'll find many examples of real-world objects: your dog, your desk, your television set, your bicycle.\n\nReal-world objects share two characteristics: They all have *state* and *behavior*. Dogs have state (name, color, breed, hungry) and behavior (barking, fetching, wagging tail). Bicycles also have state (current gear, current pedal cadence, current speed) and behavior (changing gear, changing pedal cadence, applying brakes). Identifying the state and behavior for real-world objects is a great way to begin thinking in terms of object-oriented programming.\n\nTake a minute right now to observe the real-world objects that are in your immediate area. For each object that you see, ask yourself two questions: \"What possible states can this object be in?\" and \"What possible behavior can this object perform?\". Make sure to write down your observations. As you do, you'll notice that real-world objects vary in complexity; your desktop lamp may have only two possible states (on and off) and two possible behaviors (turn on, turn off), but your desktop radio might have additional states (on, off, current volume, current station) and behavior (turn on, turn off, increase volume, decrease volume, seek, scan, and tune). You may also notice that some objects, in turn, will also contain other objects. These real-world observations all translate into the world of object-oriented programming.\n\nA software object.",
+        "char_count": 1699,
+        "token_estimate": 424
+      }
+    },
+    {
+      "id": "b34b87a9-5b36-55fc-8459-575ad2be03b7",
+      "payload": {
+        "point_id": "b34b87a9-5b36-55fc-8459-575ad2be03b7",
+        "doc_id": "oop_003",
+        "doc_order": 3,
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "What Is an Object? (The Java\u2122 Tutorials >",
+        "section": "What Is an Object? (The Java\u2122 Tutorials >",
+        "breadcrumb": "What Is an Object? (The Java\u2122 Tutorials >",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/object.html",
+        "content": "A software object.\n\nSoftware objects are conceptually similar to real-world objects: they too consist of state and related behavior. An object stores its state in *fields* (variables in some programming languages) and exposes its behavior through *methods* (functions in some programming languages). Methods operate on an object's internal state and serve as the primary mechanism for object-to-object communication. Hiding internal state and requiring all interaction to be performed through an object's methods is known as *data encapsulation*  a fundamental principle of object-oriented programming.\n\nConsider a bicycle, for example:\n\nA bicycle modeled as a software object.\n\nBy attributing state (current speed, current pedal cadence, and current gear) and providing methods for changing that state, the object remains in control of how the outside world is allowed to use it. For example, if the bicycle only has 6 gears, a method to change gears could reject any value that is less than 1 or greater than 6.\n\nBundling code into individual software objects provides a number of benefits, including:",
+        "char_count": 1103,
+        "token_estimate": 275
+      }
+    },
+    {
+      "id": "02934eac-b1ac-5b19-a198-4fba236330aa",
+      "payload": {
+        "point_id": "02934eac-b1ac-5b19-a198-4fba236330aa",
+        "doc_id": "oop_004",
+        "doc_order": 4,
+        "chunk_index": 0,
+        "total_chunks": 2,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "What Is a Class? (The Java\u2122 Tutorials >",
+        "section": "What Is a Class? (The Java\u2122 Tutorials >",
+        "breadcrumb": "What Is a Class? (The Java\u2122 Tutorials >",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/class.html",
+        "content": "## What Is a Class? (The Java\u2122 Tutorials >\n\nLearning the Java Language > Object-Oriented Programming Concepts)\n\nSource: https://docs.oracle.com/javase/tutorial/java/concepts/class.html\n\n---\n\nIn the real world, you'll often find many individual objects all of the same kind. There may be thousands of other bicycles in existence, all of the same make and model. Each bicycle was built from the same set of blueprints and therefore contains the same components. In object-oriented terms, we say that your bicycle is an *instance* of the *class of objects* known as bicycles. A *class* is the blueprint from which individual objects are created.\n\nThe following \n[`Bicycle`](https://docs.oracle.com/examples/Bicycle.java) class is one possible implementation of a bicycle:\n\n```\nclass Bicycle {\n    int cadence = 0;\n    int speed = 0;\n    int gear = 1;\n    void changeCadence(int newValue) {\n         cadence = newValue;\n    }\n    void changeGear(int newValue) {\n         gear = newValue;\n    }\n    void speedUp(int increment) {\n         speed = speed + increment;   \n    }\n    void applyBrakes(int decrement) {\n         speed = speed - decrement;\n    }\n    void printStates() {\n         System.out.println(\"cadence:\" +\n             cadence + \" speed:\" + \n             speed + \" gear:\" + gear);\n    }\n}\n```\nThe syntax of the Java programming language will look new to you, but the design of this class is based on the previous discussion of bicycle objects. The fields `cadence`, `speed`, and `gear` represent the object's state, and the methods (`changeCadence`, `changeGear`, `speedUp` etc.) define its interaction with the outside world.",
+        "char_count": 1635,
+        "token_estimate": 408
+      }
+    },
+    {
+      "id": "8b1efb9f-8128-5ec8-9388-4b23a8e02bd2",
+      "payload": {
+        "point_id": "8b1efb9f-8128-5ec8-9388-4b23a8e02bd2",
+        "doc_id": "oop_004",
+        "doc_order": 4,
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "What Is a Class? (The Java\u2122 Tutorials >",
+        "section": "What Is a Class? (The Java\u2122 Tutorials >",
+        "breadcrumb": "What Is a Class? (The Java\u2122 Tutorials >",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/class.html",
+        "content": "You may have noticed that the `Bicycle` class does not contain a `main` method. That's because it's not a complete application; it's just the blueprint for bicycles that might be *used* in an application. The responsibility of creating and using new `Bicycle` objects belongs to some other class in your application.\n\nHere's a \n[`BicycleDemo`](https://docs.oracle.com/examples/BicycleDemo.java) class that creates two separate `Bicycle` objects and invokes their methods:\n\n```\nclass BicycleDemo {\n    public static void main(String[] args) {\n        // Create two different \n        // Bicycle objects\n        Bicycle bike1 = new Bicycle();\n        Bicycle bike2 = new Bicycle();\n        // Invoke methods on \n        // those objects\n        bike1.changeCadence(50);\n        bike1.speedUp(10);\n        bike1.changeGear(2);\n        bike1.printStates();\n        bike2.changeCadence(50);\n        bike2.speedUp(10);\n        bike2.changeGear(2);\n        bike2.changeCadence(40);\n        bike2.speedUp(10);\n        bike2.changeGear(3);\n        bike2.printStates();\n    }\n}\n```\nThe output of this test prints the ending pedal cadence, speed, and gear for the two bicycles:\n\ncadence:50 speed:10 gear:2\ncadence:40 speed:20 gear:3",
+        "char_count": 1221,
+        "token_estimate": 305
+      }
+    },
+    {
+      "id": "4574e5bb-8086-52e4-abfe-9a2a24a85a62",
+      "payload": {
+        "point_id": "4574e5bb-8086-52e4-abfe-9a2a24a85a62",
+        "doc_id": "oop_005",
+        "doc_order": 5,
+        "chunk_index": 0,
+        "total_chunks": 1,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "What Is Inheritance? (The Java\u2122 Tutorials >",
+        "section": "What Is Inheritance? (The Java\u2122 Tutorials >",
+        "breadcrumb": "What Is Inheritance? (The Java\u2122 Tutorials >",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/inheritance.html",
+        "content": "## What Is Inheritance? (The Java\u2122 Tutorials >\n\nLearning the Java Language > Object-Oriented Programming Concepts)\n\nSource: https://docs.oracle.com/javase/tutorial/java/concepts/inheritance.html\n\n---\n\nDifferent kinds of objects often have a certain amount in common with each other. Mountain bikes, road bikes, and tandem bikes, for example, all share the characteristics of bicycles (current speed, current pedal cadence, current gear). Yet each also defines additional features that make them different: tandem bicycles have two seats and two sets of handlebars; road bikes have drop handlebars; some mountain bikes have an additional chain ring, giving them a lower gear ratio.\n\nObject-oriented programming allows classes to *inherit* commonly used state and behavior from other classes. In this example, `Bicycle` now becomes the *superclass* of `MountainBike`, `RoadBike`, and `TandemBike`. In the Java programming language, each class is allowed to have one direct superclass, and each superclass has the potential for an unlimited number of *subclasses*:\n\nA hierarchy of bicycle classes.\n\nThe syntax for creating a subclass is simple. At the beginning of your class declaration, use the `extends` keyword, followed by the name of the class to inherit from:\n\nclass MountainBike **extends** Bicycle {\n    // new fields and methods defining \n    // a mountain bike would go here\n}\n\nThis gives `MountainBike` all the same fields and methods as `Bicycle`, yet allows its code to focus exclusively on the features that make it unique. This makes code for your subclasses easy to read. However, you must take care to properly document the state and behavior that each superclass defines, since that code will not appear in the source file of each subclass.",
+        "char_count": 1756,
+        "token_estimate": 439
+      }
+    },
+    {
+      "id": "3b2e57c2-518b-5a59-97ae-1dbb2a38b6d3",
+      "payload": {
+        "point_id": "3b2e57c2-518b-5a59-97ae-1dbb2a38b6d3",
+        "doc_id": "oop_006",
+        "doc_order": 6,
+        "chunk_index": 0,
+        "total_chunks": 2,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "What Is an Interface? (The Java\u2122 Tutorials >",
+        "section": "What Is an Interface? (The Java\u2122 Tutorials >",
+        "breadcrumb": "What Is an Interface? (The Java\u2122 Tutorials >",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/interface.html",
+        "content": "## What Is an Interface? (The Java\u2122 Tutorials >\n\nLearning the Java Language > Object-Oriented Programming Concepts)\n\nSource: https://docs.oracle.com/javase/tutorial/java/concepts/interface.html\n\n---\n\nAs you've already learned, objects define their interaction with the outside world through the methods that they expose. Methods form the object's *interface* with the outside world; the buttons on the front of your television set, for example, are the interface between you and the electrical wiring on the other side of its plastic casing. You press the \"power\" button to turn the television on and off.\n\nIn its most common form, an interface is a group of related methods with empty bodies. A bicycle's behavior, if specified as an interface, might appear as follows:\n\n```\ninterface Bicycle {\n    //  wheel revolutions per minute\n    void changeCadence(int newValue);\n    void changeGear(int newValue);\n    void speedUp(int increment);\n    void applyBrakes(int decrement);\n}\n```\nTo implement this interface, the name of your class would change (to a particular brand of bicycle, for example, such as `ACMEBicycle`), and you'd use the `implements` keyword in the class declaration:\n\nclass ACMEBicycle **implements** Bicycle {\n    int cadence = 0;\n    int speed = 0;\n    int gear = 1;\n   // The compiler will now require that methods\n   // changeCadence, changeGear, speedUp, and applyBrakes\n   // all be implemented. Compilation will fail if those\n   // methods are missing from this class.\n    void changeCadence(int newValue) {\n         cadence = newValue;\n    }\n    void changeGear(int newValue) {\n         gear = newValue;\n    }\n    void speedUp(int increment) {\n         speed = speed + increment;   \n    }\n    void applyBrakes(int decrement) {\n         speed = speed - decrement;\n    }",
+        "char_count": 1793,
+        "token_estimate": 448
+      }
+    },
+    {
+      "id": "4d43701f-3366-5398-b896-10642ecdf94d",
+      "payload": {
+        "point_id": "4d43701f-3366-5398-b896-10642ecdf94d",
+        "doc_id": "oop_006",
+        "doc_order": 6,
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "What Is an Interface? (The Java\u2122 Tutorials >",
+        "section": "What Is an Interface? (The Java\u2122 Tutorials >",
+        "breadcrumb": "What Is an Interface? (The Java\u2122 Tutorials >",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/interface.html",
+        "content": "}\n    void changeGear(int newValue) {\n         gear = newValue;\n    }\n    void speedUp(int increment) {\n         speed = speed + increment;   \n    }\n    void applyBrakes(int decrement) {\n         speed = speed - decrement;\n    }\n    void printStates() {\n         System.out.println(\"cadence:\" +\n             cadence + \" speed:\" + \n             speed + \" gear:\" + gear);\n    }\n}\n\nImplementing an interface allows a class to become more formal about the behavior it promises to provide. Interfaces form a contract between the class and the outside world, and this contract is enforced at build time by the compiler. If your class claims to implement an interface, all methods defined by that interface must appear in its source code before the class will successfully compile.\n\n`ACMEBicycle` class, you'll need to add the `public` keyword to the beginning of the implemented interface methods. You'll learn the reasons for this later in the lessons on",
+        "char_count": 949,
+        "token_estimate": 237
+      }
+    },
+    {
+      "id": "12bd3fba-061f-5e7c-a506-9fe33346beee",
+      "payload": {
+        "point_id": "12bd3fba-061f-5e7c-a506-9fe33346beee",
+        "doc_id": "oop_007",
+        "doc_order": 7,
+        "chunk_index": 0,
+        "total_chunks": 2,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "What Is a Package? (The Java\u2122 Tutorials >",
+        "section": "What Is a Package? (The Java\u2122 Tutorials >",
+        "breadcrumb": "What Is a Package? (The Java\u2122 Tutorials >",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/package.html",
+        "content": "## What Is a Package? (The Java\u2122 Tutorials >\n\nLearning the Java Language > Object-Oriented Programming Concepts)\n\nSource: https://docs.oracle.com/javase/tutorial/java/concepts/package.html\n\n---\n\nA package is a namespace that organizes a set of related classes and interfaces. Conceptually you can think of packages as being similar to different folders on your computer. You might keep HTML pages in one folder, images in another, and scripts or applications in yet another. Because software written in the Java programming language can be composed of hundreds or *thousands* of individual classes, it makes sense to keep things organized by placing related classes and interfaces into packages.\n\nThe Java platform provides an enormous class library (a set of packages) suitable for use in your own applications. This library is known as the \"Application Programming Interface\", or \"API\" for short. Its packages represent the tasks most commonly associated with general-purpose programming. For example, a `String` object contains state and behavior for character strings; a `File` object allows a programmer to easily create, delete, inspect, compare, or modify a file on the filesystem; a `Socket` object allows for the creation and use of network sockets; various GUI objects control buttons and check boxes and anything else related to graphical user interfaces. There are literally thousands of classes to choose from. This allows you, the programmer, to focus on the design of your particular application, rather than the infrastructure required to make it work.\n\nThe",
+        "char_count": 1573,
+        "token_estimate": 393
+      }
+    },
+    {
+      "id": "88911859-8e9a-5689-a899-a394aa76516d",
+      "payload": {
+        "point_id": "88911859-8e9a-5689-a899-a394aa76516d",
+        "doc_id": "oop_007",
+        "doc_order": 7,
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "What Is a Package? (The Java\u2122 Tutorials >",
+        "section": "What Is a Package? (The Java\u2122 Tutorials >",
+        "breadcrumb": "What Is a Package? (The Java\u2122 Tutorials >",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/package.html",
+        "content": "The \n[Java Platform API Specification](https://docs.oracle.com/javase/8/docs/api/index.html) contains the complete listing for all packages, interfaces, classes, fields, and methods supplied by the Java SE platform. Load the page in your browser and bookmark it. As a programmer, it will become your single most important piece of reference documentation.",
+        "char_count": 355,
+        "token_estimate": 88
+      }
+    },
+    {
+      "id": "0a6b5cbb-01a2-5265-92f6-a007053ee541",
+      "payload": {
+        "point_id": "0a6b5cbb-01a2-5265-92f6-a007053ee541",
+        "doc_id": "oop_008",
+        "doc_order": 8,
+        "chunk_index": 0,
+        "total_chunks": 4,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "Questions and Exercises: Object-Oriented Programming Concepts (The Java\u2122 Tutorials >",
+        "section": "Questions and Exercises: Object-Oriented Programming Concepts (The Java\u2122 Tutorials >",
+        "breadcrumb": "Questions and Exercises: Object-Oriented Programming Concepts (The Java\u2122 Tutorials >",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/QandE/questions.html",
+        "content": "## Questions and Exercises: Object-Oriented Programming Concepts (The Java\u2122 Tutorials >\n\nLearning the Java Language > Object-Oriented Programming Concepts)\n\nSource: https://docs.oracle.com/javase/tutorial/java/concepts/QandE/questions.html\n\n---\n\n[Home Page](https://docs.oracle.com/index.html)\n                >\n                [Learning the Java Language](https://docs.oracle.com/index.html)\n                >\n                [Object-Oriented Programming Concepts](https://docs.oracle.com/index.html)\n\n[\u00ab\u00a0Previous](https://docs.oracle.com/package.html)\u00a0\u2022\u00a0[Trail](https://docs.oracle.com/TOC.html)\u00a0\u2022\u00a0[Next\u00a0\u00bb](https://docs.oracle.com/nutsandbolts/index.html)\n\nThe Java Tutorials have been written for JDK 8. Examples and practices described in this page don't take advantage of improvements introduced in later releases and might use technology no longer available.\n\nSee [Dev.java](https://dev.java/learn/) for updated tutorials taking advantage of the latest releases.\n\nSee [Java Language Changes](https://docs.oracle.com/pls/topic/lookup?ctx=en/java/javase&id=java_language_changes) for a summary of updated language features in Java SE 9 and subsequent releases.\n\nSee [JDK Release Notes](https://www.oracle.com/technetwork/java/javase/jdk-relnotes-index-2162236.html) for information about new features, enhancements, and removed or deprecated options for all JDK releases.",
+        "char_count": 1375,
+        "token_estimate": 343
+      }
+    },
+    {
+      "id": "19d3d8cf-ae3f-5c9c-be46-069d144dd88b",
+      "payload": {
+        "point_id": "19d3d8cf-ae3f-5c9c-be46-069d144dd88b",
+        "doc_id": "oop_008",
+        "doc_order": 8,
+        "chunk_index": 1,
+        "total_chunks": 4,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "Questions and Exercises: Object-Oriented Programming Concepts (The Java\u2122 Tutorials >",
+        "section": "Questions and Exercises: Object-Oriented Programming Concepts",
+        "breadcrumb": "Questions and Exercises: Object-Oriented Programming Concepts (The Java\u2122 Tutorials > > Questions and Exercises: Object-Oriented Programming Concepts",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/QandE/questions.html",
+        "content": "## Questions and Exercises: Object-Oriented Programming Concepts",
+        "char_count": 64,
+        "token_estimate": 16
+      }
+    },
+    {
+      "id": "505d254c-d6bb-5b55-8189-ee60e7c59af9",
+      "payload": {
+        "point_id": "505d254c-d6bb-5b55-8189-ee60e7c59af9",
+        "doc_id": "oop_008",
+        "doc_order": 8,
+        "chunk_index": 2,
+        "total_chunks": 4,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "Questions and Exercises: Object-Oriented Programming Concepts (The Java\u2122 Tutorials >",
+        "section": "Questions",
+        "breadcrumb": "Questions and Exercises: Object-Oriented Programming Concepts (The Java\u2122 Tutorials > > Questions and Exercises: Object-Oriented Programming Concepts > Questions",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/QandE/questions.html",
+        "content": "## Questions\n\n1. Real-world objects contain \\_\\_\\_ and \\_\\_\\_.\n2. A software object's state is stored in \\_\\_\\_.\n3. A software object's behavior is exposed through \\_\\_\\_.\n4. Hiding internal data from the outside world, and accessing it only through publicly exposed methods is known as data \\_\\_\\_.\n5. A blueprint for a software object is called a \\_\\_\\_.\n6. Common behavior can be defined in a \\_\\_\\_ and inherited into a \\_\\_\\_ using the \\_\\_\\_ keyword.\n7. A collection of methods with no implementation is called an \\_\\_\\_.\n8. A namespace that organizes classes and interfaces by functionality is called a \\_\\_\\_.\n9. The term API stands for \\_\\_\\_?",
+        "char_count": 652,
+        "token_estimate": 163
+      }
+    },
+    {
+      "id": "f6010103-e169-506a-8512-b8e4c7c39112",
+      "payload": {
+        "point_id": "f6010103-e169-506a-8512-b8e4c7c39112",
+        "doc_id": "oop_008",
+        "doc_order": 8,
+        "chunk_index": 3,
+        "total_chunks": 4,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "Questions and Exercises: Object-Oriented Programming Concepts (The Java\u2122 Tutorials >",
+        "section": "Exercises",
+        "breadcrumb": "Questions and Exercises: Object-Oriented Programming Concepts (The Java\u2122 Tutorials > > Questions and Exercises: Object-Oriented Programming Concepts > Exercises",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/QandE/questions.html",
+        "content": "## Exercises\n\n1. Create new classes for each real-world object that you observed at the beginning of this trail. Refer to the Bicycle class if you forget the required syntax.\n2. For each new class that you've created above, create an interface that defines its behavior, then require your class to implement it. Omit one or two methods and try compiling. What does the error look like?\n\n[Check your answers.](https://docs.oracle.com/answers.html)\n\n        [\u00ab Previous](https://docs.oracle.com/package.html)\n            \u2022\n            [Trail](https://docs.oracle.com/TOC.html)\n            \u2022\n            [Next \u00bb](https://docs.oracle.com/nutsandbolts/index.html)",
+        "char_count": 658,
+        "token_estimate": 164
+      }
+    },
+    {
+      "id": "c1b9f260-7a04-5943-a350-b54e64d25bb9",
+      "payload": {
+        "point_id": "c1b9f260-7a04-5943-a350-b54e64d25bb9",
+        "doc_id": "oop_009",
+        "doc_order": 9,
+        "chunk_index": 0,
+        "total_chunks": 4,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "Answers to Questions and Exercises: Object-Oriented Programming Concepts (The Java\u2122 Tutorials > Learning the Java Language >",
+        "section": "Answers to Questions and Exercises: Object-Oriented Programming Concepts (The Java\u2122 Tutorials > Learning the Java Language >",
+        "breadcrumb": "Answers to Questions and Exercises: Object-Oriented Programming Concepts (The Java\u2122 Tutorials > Learning the Java Language >",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/QandE/answers.html",
+        "content": "## Answers to Questions and Exercises: Object-Oriented Programming Concepts (The Java\u2122 Tutorials > Learning the Java Language >\n\nObject-Oriented Programming Concepts)\n\nSource: https://docs.oracle.com/javase/tutorial/java/concepts/QandE/answers.html\n\n---\n\n[Home Page](https://docs.oracle.com/index.html)\n            >\n            [Learning the Java Language](https://docs.oracle.com/index.html)\n            >\n            [Object-Oriented Programming Concepts](https://docs.oracle.com/index.html)\n        \n        [\u00ab Previous](https://docs.oracle.com/QandE/questions.html)\u00a0\u2022\u00a0[TOC](https://docs.oracle.com/TOC.html)\n\nThe Java Tutorials have been written for JDK 8. Examples and practices described in this page don't take advantage of improvements introduced in later releases and might use technology no longer available.\n\nSee [Dev.java](https://dev.java/learn/) for updated tutorials taking advantage of the latest releases.\n\nSee [Java Language Changes](https://docs.oracle.com/pls/topic/lookup?ctx=en/java/javase&id=java_language_changes) for a summary of updated language features in Java SE 9 and subsequent releases.\n\nSee [JDK Release Notes](https://www.oracle.com/technetwork/java/javase/jdk-relnotes-index-2162236.html) for information about new features, enhancements, and removed or deprecated options for all JDK releases.",
+        "char_count": 1330,
+        "token_estimate": 332
+      }
+    },
+    {
+      "id": "d12e2978-5a37-5555-937b-34a3f0731c8b",
+      "payload": {
+        "point_id": "d12e2978-5a37-5555-937b-34a3f0731c8b",
+        "doc_id": "oop_009",
+        "doc_order": 9,
+        "chunk_index": 1,
+        "total_chunks": 4,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "Answers to Questions and Exercises: Object-Oriented Programming Concepts (The Java\u2122 Tutorials > Learning the Java Language >",
+        "section": "Answers to Questions and Exercises: Object-Oriented Programming Concepts",
+        "breadcrumb": "Answers to Questions and Exercises: Object-Oriented Programming Concepts (The Java\u2122 Tutorials > Learning the Java Language > > Answers to Questions and Exercises: Object-Oriented Programming Concepts",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/QandE/answers.html",
+        "content": "## Answers to Questions and Exercises: Object-Oriented Programming Concepts",
+        "char_count": 75,
+        "token_estimate": 18
+      }
+    },
+    {
+      "id": "fa837b4b-6b37-585a-8481-8edd78ed1c57",
+      "payload": {
+        "point_id": "fa837b4b-6b37-585a-8481-8edd78ed1c57",
+        "doc_id": "oop_009",
+        "doc_order": 9,
+        "chunk_index": 2,
+        "total_chunks": 4,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "Answers to Questions and Exercises: Object-Oriented Programming Concepts (The Java\u2122 Tutorials > Learning the Java Language >",
+        "section": "Answers to Questions",
+        "breadcrumb": "Answers to Questions and Exercises: Object-Oriented Programming Concepts (The Java\u2122 Tutorials > Learning the Java Language > > Answers to Questions and Exercises: Object-Oriented Programming Concepts > Answers to Questions",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/QandE/answers.html",
+        "content": "## Answers to Questions\n\n1. Real-world objects contain **state** and **behavior**.\n2. A software object's state is stored in **fields**.\n3. A software object's behavior is exposed through **methods**.\n4. Hiding internal data from the outside world, and accessing it only through publicly exposed methods is known as data **encapsulation**.\n5. A blueprint for a software object is called a **class**.\n6. Common behavior can be defined in a **superclass** and inherited into a **subclass** using the **extends** keyword.\n7. A collection of methods with no implementation is called an **interface**.\n8. A namespace that organizes classes and interfaces by functionality is called a **package**.\n9. The term API stands for **Application Programming Interface**.",
+        "char_count": 757,
+        "token_estimate": 189
+      }
+    },
+    {
+      "id": "5d71fe8d-c6ec-5c05-99fc-677772d705e5",
+      "payload": {
+        "point_id": "5d71fe8d-c6ec-5c05-99fc-677772d705e5",
+        "doc_id": "oop_009",
+        "doc_order": 9,
+        "chunk_index": 3,
+        "total_chunks": 4,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "Answers to Questions and Exercises: Object-Oriented Programming Concepts (The Java\u2122 Tutorials > Learning the Java Language >",
+        "section": "Answers to Exercises",
+        "breadcrumb": "Answers to Questions and Exercises: Object-Oriented Programming Concepts (The Java\u2122 Tutorials > Learning the Java Language > > Answers to Questions and Exercises: Object-Oriented Programming Concepts > Answers to Exercises",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/QandE/answers.html",
+        "content": "## Answers to Exercises\n\n1. Your answers will vary depending on the real-world objects that you are modeling.\n2. Your answers will vary here as well, but the error message will specifically list the required methods that have not been implemented.",
+        "char_count": 247,
+        "token_estimate": 61
+      }
+    },
+    {
+      "id": "1cca57a7-19ee-5569-9361-1ae1a54e3191",
+      "payload": {
+        "point_id": "1cca57a7-19ee-5569-9361-1ae1a54e3191",
+        "doc_id": "oop_010",
+        "doc_order": 10,
+        "chunk_index": 0,
+        "total_chunks": 10,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "The Four Pillars of Object-Oriented Programming (OOP): Encapsulation, Abstraction, Inheritance, and Polymorphism",
+        "section": "The Four Pillars of Object-Oriented Programming (OOP)",
+        "breadcrumb": "The Four Pillars of Object-Oriented Programming (OOP): Encapsulation, Abstraction, Inheritance, and Polymorphism > The Four Pillars of Object-Oriented Programming (OOP)",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/index.html",
+        "content": "## The Four Pillars of Object-Oriented Programming (OOP)\n\nSource: https://docs.oracle.com/javase/tutorial/java/concepts/index.html\n\n---",
+        "char_count": 135,
+        "token_estimate": 33
+      }
+    },
+    {
+      "id": "79058cb8-626d-55af-96cb-7ed275f2cac7",
+      "payload": {
+        "point_id": "79058cb8-626d-55af-96cb-7ed275f2cac7",
+        "doc_id": "oop_010",
+        "doc_order": 10,
+        "chunk_index": 1,
+        "total_chunks": 10,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "The Four Pillars of Object-Oriented Programming (OOP): Encapsulation, Abstraction, Inheritance, and Polymorphism",
+        "section": "Overview: The Four Fundamental Pillars of OOP",
+        "breadcrumb": "The Four Pillars of Object-Oriented Programming (OOP): Encapsulation, Abstraction, Inheritance, and Polymorphism > The Four Pillars of Object-Oriented Programming (OOP) > Overview: The Four Fundamental Pillars of OOP",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/index.html",
+        "content": "## Overview: The Four Fundamental Pillars of OOP\n\nObject-Oriented Programming (OOP) is a programming paradigm organized around real-world entities termed \"objects\" and \"classes\". The entire architecture of OOP rests upon **Four Pillars**:\n\n1. **Encapsulation**: Bundling state (variables) and behavior (methods) together while restricting direct access to internal details (data hiding).\n2. **Abstraction**: Exposing only essential high-level interfaces to the outside world while concealing internal execution logic.\n3. **Inheritance**: Creating a hierarchy where child classes inherit properties, fields, and methods from existing parent classes, promoting code reuse.\n4. **Polymorphism**: The ability of a single interface, function, or method name to perform different underlying operations based on the object calling it.\n\n---",
+        "char_count": 831,
+        "token_estimate": 207
+      }
+    },
+    {
+      "id": "6a69dffb-b9fd-5ecf-b8ad-1c9ea3308699",
+      "payload": {
+        "point_id": "6a69dffb-b9fd-5ecf-b8ad-1c9ea3308699",
+        "doc_id": "oop_010",
+        "doc_order": 10,
+        "chunk_index": 2,
+        "total_chunks": 10,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "The Four Pillars of Object-Oriented Programming (OOP): Encapsulation, Abstraction, Inheritance, and Polymorphism",
+        "section": "1. Encapsulation (Data Hiding and Security)",
+        "breadcrumb": "The Four Pillars of Object-Oriented Programming (OOP): Encapsulation, Abstraction, Inheritance, and Polymorphism > The Four Pillars of Object-Oriented Programming (OOP) > 1. Encapsulation (Data Hiding and Security)",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/index.html",
+        "content": "## 1. Encapsulation (Data Hiding and Security)\n\nEncapsulation is the technique of keeping an object's fields private and providing access only through controlled public getter and setter methods. This prevents unauthorized direct modification of internal state and guarantees data validation.\n\n```java\n// Example in Java\npublic class BankAccount {\n    // Private state - hidden from outside access\n    private double balance;\n\n    // Public constructor\n    public BankAccount(double initialBalance) {\n        if (initialBalance >= 0) {\n            this.balance = initialBalance;\n        }\n    }\n\n    // Controlled getter\n    public double getBalance() {\n        return this.balance;\n    }\n\n    // Controlled setter with validation rules\n    public void deposit(double amount) {\n        if (amount > 0) {\n            this.balance += amount;\n        }\n    }\n}\n```\n\n```python",
+        "char_count": 872,
+        "token_estimate": 218
+      }
+    },
+    {
+      "id": "7a9f9f0b-142a-5c7c-8e31-d16e02d29141",
+      "payload": {
+        "point_id": "7a9f9f0b-142a-5c7c-8e31-d16e02d29141",
+        "doc_id": "oop_010",
+        "doc_order": 10,
+        "chunk_index": 3,
+        "total_chunks": 10,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "The Four Pillars of Object-Oriented Programming (OOP): Encapsulation, Abstraction, Inheritance, and Polymorphism",
+        "section": "Example in Python",
+        "breadcrumb": "The Four Pillars of Object-Oriented Programming (OOP): Encapsulation, Abstraction, Inheritance, and Polymorphism > Example in Python",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/index.html",
+        "content": "## Example in Python\n\nclass BankAccount:\n    def __init__(self, initial_balance: float):\n        self._balance = initial_balance  # Encapsulated attribute\n\n    @property\n    def balance(self) -> float:\n        return self._balance\n\n    def deposit(self, amount: float) -> None:\n        if amount > 0:\n            self._balance += amount\n        else:\n            raise ValueError(\"Deposit must be positive\")\n```\n\n---",
+        "char_count": 416,
+        "token_estimate": 104
+      }
+    },
+    {
+      "id": "3d44ad29-233f-5262-b42b-007ff3d5d873",
+      "payload": {
+        "point_id": "3d44ad29-233f-5262-b42b-007ff3d5d873",
+        "doc_id": "oop_010",
+        "doc_order": 10,
+        "chunk_index": 4,
+        "total_chunks": 10,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "The Four Pillars of Object-Oriented Programming (OOP): Encapsulation, Abstraction, Inheritance, and Polymorphism",
+        "section": "2. Abstraction (Hiding Complexity)",
+        "breadcrumb": "The Four Pillars of Object-Oriented Programming (OOP): Encapsulation, Abstraction, Inheritance, and Polymorphism > Example in Python > 2. Abstraction (Hiding Complexity)",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/index.html",
+        "content": "## 2. Abstraction (Hiding Complexity)\n\nAbstraction means displaying only essential information to the developer and hiding background complexity. In programming, abstraction is achieved using **abstract classes** and **interfaces**. The user knows *what* an object does, but does not need to know *how* it does it.\n\n```java\n// Example in Java: Interface defines the contract\npublic interface PaymentProcessor {\n    void processPayment(double amount);\n}\n\npublic class StripePaymentProcessor implements PaymentProcessor {\n    @Override\n    public void processPayment(double amount) {\n        // Complex Stripe API tokenization, SSL encryption, HTTP requests\n        System.out.println(\"Processing $\" + amount + \" via Stripe API\");\n    }\n}\n```\n\n```python",
+        "char_count": 751,
+        "token_estimate": 187
+      }
+    },
+    {
+      "id": "1dde413f-8d0a-5b1a-95b3-585f7be7d780",
+      "payload": {
+        "point_id": "1dde413f-8d0a-5b1a-95b3-585f7be7d780",
+        "doc_id": "oop_010",
+        "doc_order": 10,
+        "chunk_index": 5,
+        "total_chunks": 10,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "The Four Pillars of Object-Oriented Programming (OOP): Encapsulation, Abstraction, Inheritance, and Polymorphism",
+        "section": "Example in Python using abc module",
+        "breadcrumb": "The Four Pillars of Object-Oriented Programming (OOP): Encapsulation, Abstraction, Inheritance, and Polymorphism > Example in Python using abc module",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/index.html",
+        "content": "## Example in Python using abc module\n\nfrom abc import ABC, abstractmethod\n\nclass NotificationService(ABC):\n    @abstractmethod\n    def send_notification(self, recipient: str, message: str) -> None:\n        \"\"\"Abstract contract - subclasses must implement\"\"\"\n        pass\n\nclass EmailNotification(NotificationService):\n    def send_notification(self, recipient: str, message: str) -> None:\n        print(f\"Sending Email to {recipient}: {message}\")\n```\n\n---",
+        "char_count": 456,
+        "token_estimate": 114
+      }
+    },
+    {
+      "id": "4312600e-4049-5df2-bb3f-614a3390c08b",
+      "payload": {
+        "point_id": "4312600e-4049-5df2-bb3f-614a3390c08b",
+        "doc_id": "oop_010",
+        "doc_order": 10,
+        "chunk_index": 6,
+        "total_chunks": 10,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "The Four Pillars of Object-Oriented Programming (OOP): Encapsulation, Abstraction, Inheritance, and Polymorphism",
+        "section": "3. Inheritance (Code Reuse and Hierarchy)",
+        "breadcrumb": "The Four Pillars of Object-Oriented Programming (OOP): Encapsulation, Abstraction, Inheritance, and Polymorphism > Example in Python using abc module > 3. Inheritance (Code Reuse and Hierarchy)",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/index.html",
+        "content": "## 3. Inheritance (Code Reuse and Hierarchy)\n\nInheritance is the mechanism by which a new class (subclass or derived class) inherits fields and methods from an existing class (superclass or base class). This models \"is-a\" relationships and eliminates duplicate code across systems.\n\n```java\n// Superclass (Base)\npublic class Vehicle {\n    protected String brand;\n\n    public Vehicle(String brand) {\n        this.brand = brand;\n    }\n\n    public void startEngine() {\n        System.out.println(brand + \" engine is running.\");\n    }\n}\n\n// Subclass (Derived)\npublic class ElectricCar extends Vehicle {\n    private int batteryCapacity;\n\n    public ElectricCar(String brand, int batteryCapacity) {\n        super(brand); // Call superclass constructor\n        this.batteryCapacity = batteryCapacity;\n    }\n\n    public void charge() {\n        System.out.println(\"Charging \" + brand + \" battery (\" + batteryCapacity + \" kWh)\");\n    }\n}\n```\n\n```python",
+        "char_count": 942,
+        "token_estimate": 235
+      }
+    },
+    {
+      "id": "0f514889-be73-51a6-92ac-2ae3cddda0c9",
+      "payload": {
+        "point_id": "0f514889-be73-51a6-92ac-2ae3cddda0c9",
+        "doc_id": "oop_010",
+        "doc_order": 10,
+        "chunk_index": 7,
+        "total_chunks": 10,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "The Four Pillars of Object-Oriented Programming (OOP): Encapsulation, Abstraction, Inheritance, and Polymorphism",
+        "section": "Example in Python",
+        "breadcrumb": "The Four Pillars of Object-Oriented Programming (OOP): Encapsulation, Abstraction, Inheritance, and Polymorphism > Example in Python",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/index.html",
+        "content": "## Example in Python\n\nclass Vehicle:\n    def __init__(self, brand: str):\n        self.brand = brand\n\n    def start_engine(self) -> str:\n        return f\"{self.brand} engine started.\"\n\nclass ElectricCar(Vehicle):\n    def __init__(self, brand: str, battery_kwh: int):\n        super().__init__(brand)\n        self.battery_kwh = battery_kwh\n```\n\n---",
+        "char_count": 345,
+        "token_estimate": 86
+      }
+    },
+    {
+      "id": "a4b2f8cc-f996-5e6e-af5c-1865d52f8162",
+      "payload": {
+        "point_id": "a4b2f8cc-f996-5e6e-af5c-1865d52f8162",
+        "doc_id": "oop_010",
+        "doc_order": 10,
+        "chunk_index": 8,
+        "total_chunks": 10,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "The Four Pillars of Object-Oriented Programming (OOP): Encapsulation, Abstraction, Inheritance, and Polymorphism",
+        "section": "4. Polymorphism (Multiple Forms)",
+        "breadcrumb": "The Four Pillars of Object-Oriented Programming (OOP): Encapsulation, Abstraction, Inheritance, and Polymorphism > Example in Python > 4. Polymorphism (Multiple Forms)",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/index.html",
+        "content": "## 4. Polymorphism (Multiple Forms)\n\nPolymorphism translates literally from Greek as \"many forms\". It allows objects of different subclasses to be treated through a single common superclass or interface, with the correct subclass implementation executed at runtime (Dynamic Method Dispatch).\n\nThere are two primary types of polymorphism:\n1. **Compile-time Polymorphism (Method Overloading)**: Methods in the same class sharing the same name but with different parameter lists or types.\n2. **Runtime Polymorphism (Method Overriding)**: A subclass providing a specific implementation of a method already defined in its superclass.\n\n```java\n// Runtime Polymorphism Example in Java\npublic class Animal {\n    public void makeSound() {\n        System.out.println(\"The animal makes a sound\");\n    }\n}\n\npublic class Dog extends Animal {\n    @Override\n    public void makeSound() {\n        System.out.println(\"Bark bark\");\n    }\n}\n\npublic class Cat extends Animal {\n    @Override\n    public void makeSound() {\n        System.out.println(\"Meow meow\");\n    }\n}\n\n// Usage: Polymorphic collection\nAnimal myDog = new Dog();\nAnimal myCat = new Cat();\nmyDog.makeSound(); // Prints \"Bark bark\"\nmyCat.makeSound(); // Prints \"Meow meow\"\n```\n\n---",
+        "char_count": 1226,
+        "token_estimate": 306
+      }
+    },
+    {
+      "id": "c3215798-9696-5c53-8359-bbb71b9ee11d",
+      "payload": {
+        "point_id": "c3215798-9696-5c53-8359-bbb71b9ee11d",
+        "doc_id": "oop_010",
+        "doc_order": 10,
+        "chunk_index": 9,
+        "total_chunks": 10,
+        "technology": "OOP",
+        "category": "Core Concepts",
+        "title": "The Four Pillars of Object-Oriented Programming (OOP): Encapsulation, Abstraction, Inheritance, and Polymorphism",
+        "section": "Summary of the 4 Pillars of OOP",
+        "breadcrumb": "The Four Pillars of Object-Oriented Programming (OOP): Encapsulation, Abstraction, Inheritance, and Polymorphism > Example in Python > Summary of the 4 Pillars of OOP",
+        "source_url": "https://docs.oracle.com/javase/tutorial/java/concepts/index.html",
+        "content": "## Summary of the 4 Pillars of OOP\n\n| Pillar | Primary Purpose | How It Is Implemented | Major Benefit |\n| :--- | :--- | :--- | :--- |\n| **Encapsulation** | Protect and bundle internal state | `private`/`protected` modifiers, getters/setters | Data security, preventing bugs, validation |\n| **Abstraction** | Hide unnecessary background complexity | `interface`, `abstract class`, `abstractmethod` | Simple public APIs, decoupled design |\n| **Inheritance** | Form parent-child relationships (\"is-a\") | `extends`, `class Sub(Super):` | Code reuse, eliminates duplicated logic |\n| **Polymorphism** | Treat multiple classes through a shared API | Method overriding (`@Override`), dynamic dispatch | Extensible architecture, easy plug-and-play |",
+        "char_count": 741,
+        "token_estimate": 185
+      }
+    }
+  ]
+}

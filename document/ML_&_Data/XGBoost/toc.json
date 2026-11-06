@@ -1,0 +1,174 @@
+{
+  "technology": "XGBoost",
+  "category": "ML_&_Data",
+  "documents": [
+    {
+      "id": "xgboost_001",
+      "doc_order": 1,
+      "title": "XGBoost",
+      "file": "001_en_latest.md",
+      "source_url": "https://xgboost.readthedocs.io/en/latest",
+      "content_hash": "62a3b648412147bc9d090f2c4bcc10a7d9d622b072ed24ffbfd1f8fbcf4fa4bd"
+    },
+    {
+      "id": "xgboost_002",
+      "doc_order": 2,
+      "title": "XGBoost",
+      "file": "002_en_release_0.72.md",
+      "source_url": "https://xgboost.readthedocs.io/en/release_0.72",
+      "content_hash": "8a8dee54c7b124f2bf09dba4afe1b53a408c21580c75bdc3475acd28d2d426a3"
+    },
+    {
+      "id": "xgboost_003",
+      "doc_order": 3,
+      "title": "XGBoost",
+      "file": "003_en_release_0.80.md",
+      "source_url": "https://xgboost.readthedocs.io/en/release_0.80",
+      "content_hash": "8cceee2c98f7d88ae13bb9b090fcff88c4877f10741c3f3824a454890c1d6cfc"
+    },
+    {
+      "id": "xgboost_004",
+      "doc_order": 4,
+      "title": "XGBoost",
+      "file": "004_en_release_0.81.md",
+      "source_url": "https://xgboost.readthedocs.io/en/release_0.81",
+      "content_hash": "c136d62c637788fb5e7a85a7a0dbb23a53a83e4089047b11a9072ab98a97a9cd"
+    },
+    {
+      "id": "xgboost_005",
+      "doc_order": 5,
+      "title": "XGBoost",
+      "file": "005_en_release_0.82.md",
+      "source_url": "https://xgboost.readthedocs.io/en/release_0.82",
+      "content_hash": "60c6984d6d8bb3b768261af63fa4e6b3afec931f648066fc8c5ab740ba09605b"
+    },
+    {
+      "id": "xgboost_006",
+      "doc_order": 6,
+      "title": "XGBoost",
+      "file": "006_en_release_0.90.md",
+      "source_url": "https://xgboost.readthedocs.io/en/release_0.90",
+      "content_hash": "4dfb3029e0f0bbd73427295dc8eb695aa01b60c5431a3b8f27b0d35642c579c2"
+    },
+    {
+      "id": "xgboost_007",
+      "doc_order": 7,
+      "title": "XGBoost",
+      "file": "007_en_release_1.0.0.md",
+      "source_url": "https://xgboost.readthedocs.io/en/release_1.0.0",
+      "content_hash": "42758dba57a258a15891f92875cd24a2eea834b35b6fa42db26991e06da9ca43"
+    },
+    {
+      "id": "xgboost_008",
+      "doc_order": 8,
+      "title": "XGBoost",
+      "file": "008_en_release_1.1.0.md",
+      "source_url": "https://xgboost.readthedocs.io/en/release_1.1.0",
+      "content_hash": "58b186f47d3a9473f29d3d74fab4760349c22478d9ba64e87243cf156dc8155b"
+    },
+    {
+      "id": "xgboost_009",
+      "doc_order": 9,
+      "title": "XGBoost",
+      "file": "009_en_release_1.2.0.md",
+      "source_url": "https://xgboost.readthedocs.io/en/release_1.2.0",
+      "content_hash": "34a749c9251607d1a88f1c0b8de4d6e651b948d2d21721b960377f3bbc97f47e"
+    },
+    {
+      "id": "xgboost_010",
+      "doc_order": 10,
+      "title": "XGBoost",
+      "file": "010_en_release_1.3.0.md",
+      "source_url": "https://xgboost.readthedocs.io/en/release_1.3.0",
+      "content_hash": "3cd431b46a4c50b38b39309285b2de18cd82b9fa1307b801aef9a4c1aefaafdb"
+    },
+    {
+      "id": "xgboost_011",
+      "doc_order": 11,
+      "title": "XGBoost",
+      "file": "011_en_release_1.4.0.md",
+      "source_url": "https://xgboost.readthedocs.io/en/release_1.4.0",
+      "content_hash": "fd3e25a6e62e29b27391aec89534d127b7faa5e85f21bb9014d324f8a3744fa3"
+    },
+    {
+      "id": "xgboost_012",
+      "doc_order": 12,
+      "title": "XGBoost",
+      "file": "012_en_release_1.5.0.md",
+      "source_url": "https://xgboost.readthedocs.io/en/release_1.5.0",
+      "content_hash": "d3518f82aba709fc8f73cf081976b04f07e955d8ffc6b0cd3488b13d825145c1"
+    },
+    {
+      "id": "xgboost_013",
+      "doc_order": 13,
+      "title": "XGBoost",
+      "file": "013_en_release_1.6.0.md",
+      "source_url": "https://xgboost.readthedocs.io/en/release_1.6.0",
+      "content_hash": "4869c854547c1bc55e81415a857be0a76a2f840a1c18c0161686f7b2d6eb2375"
+    },
+    {
+      "id": "xgboost_014",
+      "doc_order": 14,
+      "title": "XGBoost",
+      "file": "014_en_release_1.7.0.md",
+      "source_url": "https://xgboost.readthedocs.io/en/release_1.7.0",
+      "content_hash": "15d660abdca13c86ab2a5e935a9fab9d718eee8e1874e6a80ad9f78541e695a7"
+    },
+    {
+      "id": "xgboost_015",
+      "doc_order": 15,
+      "title": "XGBoost",
+      "file": "015_en_release_2.0.0.md",
+      "source_url": "https://xgboost.readthedocs.io/en/release_2.0.0",
+      "content_hash": "947f703faf6bbc8a7275e548580d6424b7ffa24ebeb02c0967145007616b1a25"
+    },
+    {
+      "id": "xgboost_016",
+      "doc_order": 16,
+      "title": "XGBoost",
+      "file": "016_en_release_2.1.0.md",
+      "source_url": "https://xgboost.readthedocs.io/en/release_2.1.0",
+      "content_hash": "1bbb3cabceba9254cb45ffe10d3773e3d5d119011d45ddbfd62688b2c9dc895f"
+    },
+    {
+      "id": "xgboost_017",
+      "doc_order": 17,
+      "title": "XGBoost",
+      "file": "017_en_release_3.0.0.md",
+      "source_url": "https://xgboost.readthedocs.io/en/release_3.0.0",
+      "content_hash": "053c9d00ee0773499231dd2157546e68ff077a6090e3b50aeb50901fbe788901"
+    },
+    {
+      "id": "xgboost_018",
+      "doc_order": 18,
+      "title": "XGBoost",
+      "file": "018_en_release_3.1.0.md",
+      "source_url": "https://xgboost.readthedocs.io/en/release_3.1.0",
+      "content_hash": "4f9ffe19be55997512db9194cac6930e61e1d631b662b61aaca68b28063fe76f"
+    },
+    {
+      "id": "xgboost_019",
+      "doc_order": 19,
+      "title": "XGBoost",
+      "file": "019_en_release_3.2.0.md",
+      "source_url": "https://xgboost.readthedocs.io/en/release_3.2.0",
+      "content_hash": "7eefbd648401c0826da3082f3a737b2edb07811ecae8512d03fc84c286999e51"
+    },
+    {
+      "id": "xgboost_020",
+      "doc_order": 20,
+      "title": "XGBoost",
+      "file": "020_en_release_3.3.0.md",
+      "source_url": "https://xgboost.readthedocs.io/en/release_3.3.0",
+      "content_hash": "04b39abf48e484a52d7fec83e63f41c737563d6d237cc20dafc76b3e264f9843"
+    },
+    {
+      "id": "xgboost_021",
+      "doc_order": 21,
+      "title": "XGBoost",
+      "file": "021_en_stable.md",
+      "source_url": "https://xgboost.readthedocs.io/en/stable",
+      "content_hash": "845e2e7b7a56d043ad258d2bb74de11d4fd4fc4ca9495c22a3f600a05f14918a"
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "technology": "React.js",
+  "category": "Frontend",
+  "documents": [
+    {
+      "id": "react.js_001",
+      "doc_order": 1,
+      "title": "React.js",
+      "file": "001_index.md",
+      "source_url": "https://react.dev",
+      "content_hash": "f6f7cfae255f8a4b135bcd12886b9f8b5cff11acbe0a9d97a27e3c58c3caad65"
+    },
+    {
+      "id": "react.js_002",
+      "doc_order": 2,
+      "title": "React",
+      "file": "002_index.md",
+      "source_url": "https://react.dev",
+      "content_hash": "b6e4df877e16bc2b3018a108f46e1061813aa8b33f3daca3ef433677f845fdc0"
+    },
+    {
+      "id": "react.js_003",
+      "doc_order": 3,
+      "title": "Introduction \u2013 React",
+      "file": "003_learn_react-compiler_introduction.md",
+      "source_url": "https://react.dev/learn/react-compiler/introduction",
+      "content_hash": "128bd608fa84645b3c2a3d91ac9534cfced33f738f66f80ac89db4a63221f1dc"
+    },
+    {
+      "id": "react.js_004",
+      "doc_order": 4,
+      "title": "React",
+      "file": "004_index.md",
+      "source_url": "https://react.dev",
+      "content_hash": "b6e4df877e16bc2b3018a108f46e1061813aa8b33f3daca3ef433677f845fdc0"
+    },
+    {
+      "id": "react.js_005",
+      "doc_order": 5,
+      "title": "Tutorial: Tic-Tac-Toe \u2013 React",
+      "file": "005_learn_tutorial-tic-tac-toe.md",
+      "source_url": "https://react.dev/learn/tutorial-tic-tac-toe",
+      "content_hash": "856cb28522b28a13e1bc057ffa50b8b1253dc159c31d37642c54524dafd9b0e5"
+    },
+    {
+      "id": "react.js_006",
+      "doc_order": 6,
+      "title": "Quick Start \u2013 React",
+      "file": "006_learn.md",
+      "source_url": "https://react.dev/learn",
+      "content_hash": "0ef7af2debccb5f9155eb4b476b7b8c6bff6789c80a1fd11e4e827bdb46e376b"
+    },
+    {
+      "id": "react.js_007",
+      "doc_order": 7,
+      "title": "Thinking in React \u2013 React",
+      "file": "007_learn_thinking-in-react.md",
+      "source_url": "https://react.dev/learn/thinking-in-react",
+      "content_hash": "68100a40673753c7ccc8c73d087748db47338bd66923d264560568db0c681c13"
+    },
+    {
+      "id": "react.js_008",
+      "doc_order": 8,
+      "title": "Quick Start \u2013 React",
+      "file": "008_learn.md",
+      "source_url": "https://react.dev/learn",
+      "content_hash": "0ef7af2debccb5f9155eb4b476b7b8c6bff6789c80a1fd11e4e827bdb46e376b"
+    },
+    {
+      "id": "react.js_009",
+      "doc_order": 9,
+      "title": "Installation \u2013 React",
+      "file": "009_learn_installation.md",
+      "source_url": "https://react.dev/learn/installation",
+      "content_hash": "234019ba5b1f61fb586f712c1f1a9ced6c602783602eb6ba67fde86a5ac61229"
+    },
+    {
+      "id": "react.js_010",
+      "doc_order": 10,
+      "title": "Creating a React App \u2013 React",
+      "file": "010_learn_creating-a-react-app.md",
+      "source_url": "https://react.dev/learn/creating-a-react-app",
+      "content_hash": "50d29ddb0371e3bf758596d062e0afc6660e6a5cdba5d92ebbf8670471cc5275"
+    },
+    {
+      "id": "react.js_011",
+      "doc_order": 11,
+      "title": "Thinking in React \u2013 React",
+      "file": "011_learn_thinking-in-react.md",
+      "source_url": "https://react.dev/learn/thinking-in-react",
+      "content_hash": "68100a40673753c7ccc8c73d087748db47338bd66923d264560568db0c681c13"
+    },
+    {
+      "id": "react.js_012",
+      "doc_order": 12,
+      "title": "Build a React app from Scratch \u2013 React",
+      "file": "012_learn_build-a-react-app-from-scratch.md",
+      "source_url": "https://react.dev/learn/build-a-react-app-from-scratch",
+      "content_hash": "344b002a82b898b0c6fc9c70787c0bce375d8f6f0ab88389b987a134bd37b9e5"
+    },
+    {
+      "id": "react.js_013",
+      "doc_order": 13,
+      "title": "Installation \u2013 React",
+      "file": "013_learn_installation.md",
+      "source_url": "https://react.dev/learn/installation",
+      "content_hash": "234019ba5b1f61fb586f712c1f1a9ced6c602783602eb6ba67fde86a5ac61229"
+    },
+    {
+      "id": "react.js_014",
+      "doc_order": 14,
+      "title": "Add React to an Existing Project \u2013 React",
+      "file": "014_learn_add-react-to-an-existing-project.md",
+      "source_url": "https://react.dev/learn/add-react-to-an-existing-project",
+      "content_hash": "557cf27bf9df8ce4bcccecaa97ce246e72fff995bd3c8bff99b3a0c193bfceae"
+    },
+    {
+      "id": "react.js_015",
+      "doc_order": 15,
+      "title": "Setup \u2013 React",
+      "file": "015_learn_setup.md",
+      "source_url": "https://react.dev/learn/setup",
+      "content_hash": "1a1b17c583bc50c1102c9ff000564ff0724cdc220b9d74fc378183b770543c11"
+    },
+    {
+      "id": "react.js_016",
+      "doc_order": 16,
+      "title": "Editor Setup \u2013 React",
+      "file": "016_learn_editor-setup.md",
+      "source_url": "https://react.dev/learn/editor-setup",
+      "content_hash": "99c5182398d9b90d4903953785c25aead4fe61b2b2bc7d0d0fea21ab0a65edd0"
+    },
+    {
+      "id": "react.js_017",
+      "doc_order": 17,
+      "title": "Using TypeScript \u2013 React",
+      "file": "017_learn_typescript.md",
+      "source_url": "https://react.dev/learn/typescript",
+      "content_hash": "1e27edeb91405bfe8c499f0e11227b036a2622189820ad7badc4f100e97100b2"
+    },
+    {
+      "id": "react.js_018",
+      "doc_order": 18,
+      "title": "React Developer Tools \u2013 React",
+      "file": "018_learn_react-developer-tools.md",
+      "source_url": "https://react.dev/learn/react-developer-tools",
+      "content_hash": "1ecd064dc1f1481a8b7683ec43f087ce6e10f0d787c4ed71feaaa6d96d0045f4"
+    },
+    {
+      "id": "react.js_019",
+      "doc_order": 19,
+      "title": "React Compiler \u2013 React",
+      "file": "019_learn_react-compiler.md",
+      "source_url": "https://react.dev/learn/react-compiler",
+      "content_hash": "153e44c3500750f6b556c6ceb64e2336dd93b995e5a4601730c99168245263b3"
+    },
+    {
+      "id": "react.js_020",
+      "doc_order": 20,
+      "title": "Installation \u2013 React",
+      "file": "020_learn_react-compiler_installation.md",
+      "source_url": "https://react.dev/learn/react-compiler/installation",
+      "content_hash": "bb86375e84ad586353b360272a9ea6f9bdcec751561fc21c55de31e232ef2220"
+    },
+    {
+      "id": "react.js_021",
+      "doc_order": 21,
+      "title": "Incremental Adoption \u2013 React",
+      "file": "021_learn_react-compiler_incremental-adoption.md",
+      "source_url": "https://react.dev/learn/react-compiler/incremental-adoption",
+      "content_hash": "11947ab6bab9a3dc0993ecb2b12069b0923afb9de1c63ba8af01545724abfddc"
+    },
+    {
+      "id": "react.js_022",
+      "doc_order": 22,
+      "title": "Debugging and Troubleshooting \u2013 React",
+      "file": "022_learn_react-compiler_debugging.md",
+      "source_url": "https://react.dev/learn/react-compiler/debugging",
+      "content_hash": "18234644f3e5a32a4bb204e26bf44e5db06287845089e065c59f1ca5a7e8e559"
+    },
+    {
+      "id": "react.js_023",
+      "doc_order": 23,
+      "title": "Describing the UI \u2013 React",
+      "file": "023_learn_describing-the-ui.md",
+      "source_url": "https://react.dev/learn/describing-the-ui",
+      "content_hash": "57af0b47a26f1d96cccf5d6d4cdc757f4c75129e2c9980ecd3085fd0646c2daa"
+    },
+    {
+      "id": "react.js_024",
+      "doc_order": 24,
+      "title": "Your First Component \u2013 React",
+      "file": "024_learn_your-first-component.md",
+      "source_url": "https://react.dev/learn/your-first-component",
+      "content_hash": "01f93aa6ffdcb8e94789d6b0b9f5637617a8d5c3079f9742a943ea73d0d68433"
+    },
+    {
+      "id": "react.js_025",
+      "doc_order": 25,
+      "title": "Importing and Exporting Components \u2013 React",
+      "file": "025_learn_importing-and-exporting-components.md",
+      "source_url": "https://react.dev/learn/importing-and-exporting-components",
+      "content_hash": "fdc45f9f18f5207a53c6c40134e0fb06c086a134402515b2374008f3fcdcbe83"
+    },
+    {
+      "id": "react.js_026",
+      "doc_order": 26,
+      "title": "Writing Markup with JSX \u2013 React",
+      "file": "026_learn_writing-markup-with-jsx.md",
+      "source_url": "https://react.dev/learn/writing-markup-with-jsx",
+      "content_hash": "f0d36e13f0bb5e10355c1f4bb3460a4ca1a6acabb9a0f304d2aaf3c52a48162a"
+    },
+    {
+      "id": "react.js_027",
+      "doc_order": 27,
+      "title": "JavaScript in JSX with Curly Braces \u2013 React",
+      "file": "027_learn_javascript-in-jsx-with-curly-braces.md",
+      "source_url": "https://react.dev/learn/javascript-in-jsx-with-curly-braces",
+      "content_hash": "09c86f06b4c270db64570ed674bbac2eee695b733bc0b3a3f583f4cc0f7a9540"
+    },
+    {
+      "id": "react.js_028",
+      "doc_order": 28,
+      "title": "Passing Props to a Component \u2013 React",
+      "file": "028_learn_passing-props-to-a-component.md",
+      "source_url": "https://react.dev/learn/passing-props-to-a-component",
+      "content_hash": "6b9305bbe8df14d73436cc0c1a566869ecfc666dd6381562afd67a7b04906c41"
+    },
+    {
+      "id": "react.js_029",
+      "doc_order": 29,
+      "title": "Conditional Rendering \u2013 React",
+      "file": "029_learn_conditional-rendering.md",
+      "source_url": "https://react.dev/learn/conditional-rendering",
+      "content_hash": "6c787dd0fb61c8e127557344d3095e5363b7e626676586c6d6ced79cf60ca72f"
+    },
+    {
+      "id": "react.js_030",
+      "doc_order": 30,
+      "title": "Rendering Lists \u2013 React",
+      "file": "030_learn_rendering-lists.md",
+      "source_url": "https://react.dev/learn/rendering-lists",
+      "content_hash": "6120fa83a61f75373552bdb59bc1f971ff97c8812a12be2597bbce13435c517e"
+    },
+    {
+      "id": "react.js_031",
+      "doc_order": 31,
+      "title": "React Reference Overview \u2013 React",
+      "file": "031_reference_react.md",
+      "source_url": "https://react.dev/reference/react",
+      "content_hash": "d1e6c2c0cdbe31cce7bb696aac733d1369529f7d745dcf8b21cd1b12498320fb"
+    },
+    {
+      "id": "react.js_032",
+      "doc_order": 32,
+      "title": "React Reference Overview \u2013 React",
+      "file": "032_reference_react.md",
+      "source_url": "https://react.dev/reference/react",
+      "content_hash": "d1e6c2c0cdbe31cce7bb696aac733d1369529f7d745dcf8b21cd1b12498320fb"
+    },
+    {
+      "id": "react.js_033",
+      "doc_order": 33,
+      "title": "React Versions \u2013 React",
+      "file": "033_versions.md",
+      "source_url": "https://react.dev/versions",
+      "content_hash": "1f02939f74d6266e83b12e8cdac6a1183b4379390933764d14ee560838ea91cd"
+    },
+    {
+      "id": "react.js_034",
+      "doc_order": 34,
+      "title": "React Community \u2013 React",
+      "file": "034_community.md",
+      "source_url": "https://react.dev/community",
+      "content_hash": "840db344dd6eeac66f337685365851ff2128c013560b6a44964713bae25ca5fc"
+    },
+    {
+      "id": "react.js_035",
+      "doc_order": 35,
+      "title": "React Blog \u2013 React",
+      "file": "035_blog.md",
+      "source_url": "https://react.dev/blog",
+      "content_hash": "5e1aef0181a65a2cbcb509706da52326fb1be136dcb0b59f23b87f28d1227a9b"
+    },
+    {
+      "id": "react.js_036",
+      "doc_order": 36,
+      "title": "Translations \u2013 React",
+      "file": "036_community_translations.md",
+      "source_url": "https://react.dev/community/translations",
+      "content_hash": "5abb263af82800a2232a4951de4abc3208676c0eabfcc6bcca41eaaee4641417"
+    },
+    {
+      "id": "react.js_037",
+      "doc_order": 37,
+      "title": "React Versions \u2013 React",
+      "file": "037_versions.md",
+      "source_url": "https://react.dev/versions",
+      "content_hash": "1f02939f74d6266e83b12e8cdac6a1183b4379390933764d14ee560838ea91cd"
+    },
+    {
+      "id": "react.js_038",
+      "doc_order": 38,
+      "title": "React Community \u2013 React",
+      "file": "038_community.md",
+      "source_url": "https://react.dev/community",
+      "content_hash": "840db344dd6eeac66f337685365851ff2128c013560b6a44964713bae25ca5fc"
+    },
+    {
+      "id": "react.js_039",
+      "doc_order": 39,
+      "title": "React Blog \u2013 React",
+      "file": "039_blog.md",
+      "source_url": "https://react.dev/blog",
+      "content_hash": "5e1aef0181a65a2cbcb509706da52326fb1be136dcb0b59f23b87f28d1227a9b"
+    },
+    {
+      "id": "react.js_040",
+      "doc_order": 40,
+      "title": "Translations \u2013 React",
+      "file": "040_community_translations.md",
+      "source_url": "https://react.dev/community/translations",
+      "content_hash": "5abb263af82800a2232a4951de4abc3208676c0eabfcc6bcca41eaaee4641417"
+    }
+  ]
+}

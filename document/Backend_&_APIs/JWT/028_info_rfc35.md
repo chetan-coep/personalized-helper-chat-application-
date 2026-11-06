@@ -1,0 +1,50 @@
+---
+id: "jwt_028"
+technology: "JWT"
+category: "Backend & APIs"
+title: "JWT"
+doc_order: 28
+source_url: "https://www.rfc-editor.org/info/rfc35"
+language: "en"
+retrieved_at: "2026-11-01 22:16:19"
+content_hash: "eb8a588f6278c021c40d125a841d5e993c146c99371f0152fb268d76c27540ad"
+---
+
+# JWT
+
+Source: https://www.rfc-editor.org/info/rfc35
+
+---
+
+- [Home](https://www.rfc-editor.org/)
+- **RFC 35**
+
+View as:
+
+# RFC 35: Network Meeting
+
+- S.D. Crocker
+
+Informational
+
+```
+Network Working Group                                         S. Crocker
+Request for Comments: 35                                            UCLA
+Category: Informational                                     3 March 1970
+                            Network Meeting
+     I expect to have the details of the new network protocol as
+outlined in NWG/RFC #33 ready in two weeks.  Some interest has been
+expressed in a live presentation, so we will host a network meeting on
+Tuesday, March 17, at UCLA at 9:00 a.m.  To facilitate interaction,
+please limit attendance to one programmer from each site.  It is also
+wise to leave the 18th open in case discussion continues.
+     The subject of the meeting will be a detailed presentation of the
+network protocol, suitable for implementing unless major flaws are
+discovered.  Documentation will be available at the meeting and if not
+obsoleted by the meeting, will be sent out as NWG/RFC on March 20.
+     Please call Mrs. Charlotte LaRoche at (213) 825-2543 if you need
+help in making arrangements.
+       [ This RFC was put into machine readable form for entry ]
+       [ into the online RFC archives by Jochen Friedrich 4/97 ]
+                                                                [Page 1]
+```

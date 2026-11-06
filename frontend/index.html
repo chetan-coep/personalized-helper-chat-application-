@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DocSyntax AI — Developer Code & Documentation Assistant</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Top Bar: Minimal Header with Dark/Light Toggle -->
+    <header class="app-header">
+      <div class="header-brand">
+        <div class="brand-icon">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="16 18 22 12 16 6"></polyline>
+            <polyline points="8 6 2 12 8 18"></polyline>
+          </svg>
+        </div>
+        <div class="brand-text">
+          <span class="brand-title">DocSyntax AI</span>
+          <span class="brand-tagline">Documentation & Syntax Copilot</span>
+        </div>
+      </div>
+
+      <div class="header-actions">
+        <!-- Button to view all indexed technologies -->
+        <button id="techListBtn" class="header-btn tech-btn" title="View all indexed documentation technologies">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+            <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+          </svg>
+          <span>Indexed Technologies</span>
+        </button>
+
+        <button id="themeToggle" class="theme-toggle-btn" aria-label="Toggle theme" title="Switch dark/light mode">
+          <span class="theme-icon light-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="5"></circle>
+              <line x1="12" y1="1" x2="12" y2="3"></line>
+              <line x1="12" y1="21" x2="12" y2="23"></line>
+              <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+              <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+              <line x1="1" y1="12" x2="3" y2="12"></line>
+              <line x1="21" y1="12" x2="23" y2="12"></line>
+              <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+              <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+            </svg>
+          </span>
+          <span class="theme-icon dark-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+            </svg>
+          </span>
+          <span class="theme-label" id="themeLabel">Dark</span>
+        </button>
+      </div>
+    </header>
+
+    <!-- Main Workspace: 2-Column Blueprint Layout -->
+    <main class="blueprint-layout">
+      
+      <!-- LEFT COLUMN -->
+      <section class="left-column">
+        
+        <!-- 1. Explanation or Why to Use -->
+        <article class="panel explanation-panel" id="explanationPanel">
+          <div class="panel-header">
+            <div class="panel-title-group">
+              <span class="panel-icon">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <circle cx="12" cy="12" r="10"></circle>
+                  <line x1="12" y1="16" x2="12" y2="12"></line>
+                  <line x1="12" y1="8" x2="12.01" y2="8"></line>
+                </svg>
+              </span>
+              <h2 class="panel-title">Explanation & Why to Use</h2>
+            </div>
+            <div class="panel-meta" id="explanationMeta">
+              <span class="source-badge" id="sourceBadge" style="display: none;">Official Doc</span>
+            </div>
+          </div>
+
+          <div class="panel-content" id="explanationContent">
+            <!-- Empty Placeholder State -->
+            <div class="empty-state" id="explanationEmpty">
+              <div class="empty-illustration">
+                <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                  <polyline points="14 2 14 8 20 8"></polyline>
+                  <line x1="16" y1="13" x2="8" y2="13"></line>
+                  <line x1="16" y1="17" x2="8" y2="17"></line>
+                  <polyline points="10 9 9 9 8 9"></polyline>
+                </svg>
+              </div>
+              <p class="empty-title">No question asked yet</p>
+              <p class="empty-desc">Type your syntax or documentation question below. The explanation, conceptual reasoning, and official documentation context will appear here.</p>
+            </div>
+
+            <!-- Populated Content View -->
+            <div class="populated-view" id="explanationBody" style="display: none;">
+              <!-- Dynamic explanation injected here -->
+            </div>
+          </div>
+        </article>
+
+        <!-- 2. User's Prompt for the LLM -->
+        <article class="panel prompt-panel" id="promptPanel">
+          <div class="panel-header">
+            <div class="panel-title-group">
+              <span class="panel-icon">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+                </svg>
+              </span>
+              <h2 class="panel-title">User's Prompt for the LLM</h2>
+            </div>
+            <div class="quick-examples">
+              <span class="examples-hint">Try:</span>
+              <button type="button" class="example-chip" data-query="How do I filter rows with multiple conditions in pandas?">pandas filter</button>
+              <button type="button" class="example-chip" data-query="How do I define a path parameter with validation in FastAPI?">FastAPI params</button>
+              <button type="button" class="example-chip" data-query="How do I manage state with useState hook in React?">React useState</button>
+            </div>
+          </div>
+
+          <form class="prompt-form" id="promptForm">
+            <div class="prompt-input-wrapper">
+              <textarea 
+                id="promptInput" 
+                class="prompt-textarea" 
+                placeholder="Ask about syntax, parameters, or documentation (e.g. How to create an API route in FastAPI with query parameters?)..." 
+                rows="3"
+                required
+              ></textarea>
+            </div>
+            <div class="prompt-footer">
+              <div class="footer-left">
+                <span class="keyboard-hint">Press <kbd>Ctrl</kbd> + <kbd>Enter</kbd> to submit</span>
+              </div>
+              <div class="footer-right">
+                <button type="button" id="clearBtn" class="secondary-btn" title="Clear input">Clear</button>
+                <button type="submit" id="submitBtn" class="primary-btn">
+                  <span>Generate Syntax</span>
+                  <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <line x1="22" y1="2" x2="11" y2="13"></line>
+                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </form>
+        </article>
+
+      </section>
+
+      <!-- RIGHT COLUMN: Syntax with Code (Full Height) -->
+      <section class="right-column">
+        <article class="panel syntax-panel" id="syntaxPanel">
+          <div class="panel-header">
+            <div class="panel-title-group">
+              <span class="panel-icon">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M16 18l6-6-6-6"></path>
+                  <path d="M8 6l-6 6 6 6"></path>
+                </svg>
+              </span>
+              <h2 class="panel-title">Syntax with Code</h2>
+            </div>
+            <div class="panel-actions">
+              <button id="copyBtn" class="action-btn" title="Copy code snippet to clipboard" style="display: none;">
+                <svg class="copy-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+                  <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+                </svg>
+                <span class="btn-text">Copy Code</span>
+              </button>
+            </div>
+          </div>
+
+          <div class="panel-content syntax-content" id="syntaxContent">
+            <!-- Empty Placeholder State -->
+            <div class="empty-state" id="syntaxEmpty">
+              <div class="empty-illustration">
+                <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                  <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
+                  <line x1="8" y1="21" x2="16" y2="21"></line>
+                  <line x1="12" y1="17" x2="12" y2="21"></line>
+                </svg>
+              </div>
+              <p class="empty-title">Awaiting Query</p>
+              <p class="empty-desc">Your copy-pasteable code syntax, parameter signatures, and API breakdown will be displayed here in full detail.</p>
+            </div>
+
+            <!-- Populated Syntax View -->
+            <div class="populated-view" id="syntaxBody" style="display: none;">
+              <!-- Dynamic Code block and syntax breakdown -->
+            </div>
+          </div>
+        </article>
+      </section>
+
+    </main>
+  </div>
+
+  <!-- Modal: Supported Technologies -->
+  <div id="techModal" class="modal-overlay" style="display: none;">
+    <div class="modal-container">
+      <div class="modal-header">
+        <div class="modal-title-group">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+            <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+          </svg>
+          <h3 class="modal-title">Indexed Documentation Technologies</h3>
+        </div>
+        <button id="closeModalBtn" class="close-btn" aria-label="Close modal">&times;</button>
+      </div>
+
+      <div class="modal-search-box">
+        <input type="text" id="techSearchInput" class="modal-search-input" placeholder="Search technologies (e.g. pandas, FastAPI, React)...">
+      </div>
+
+      <div class="modal-body" id="techModalBody">
+        <div class="modal-loading">Loading technologies...</div>
+      </div>
+
+      <div class="modal-footer">
+        <span class="modal-hint">Tip: Click any badge to auto-filter your search prompt</span>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,596 @@
+{
+  "category": "ML_&_Data",
+  "technology": "XGBoost",
+  "total_points": 31,
+  "points": [
+    {
+      "id": "9c6d2abf-4d28-506e-b052-7c4820b333b9",
+      "payload": {
+        "point_id": "9c6d2abf-4d28-506e-b052-7c4820b333b9",
+        "doc_id": "xgboost_001",
+        "doc_order": 1,
+        "chunk_index": 0,
+        "total_chunks": 2,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost",
+        "breadcrumb": "XGBoost",
+        "source_url": "https://xgboost.readthedocs.io/en/latest",
+        "content": "## XGBoost\n\nSource: https://xgboost.readthedocs.io/en/latest\n\n---",
+        "char_count": 65,
+        "token_estimate": 16
+      }
+    },
+    {
+      "id": "6ad01249-68b3-511a-b0bd-42a1fd74e0c5",
+      "payload": {
+        "point_id": "6ad01249-68b3-511a-b0bd-42a1fd74e0c5",
+        "doc_id": "xgboost_001",
+        "doc_order": 1,
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)",
+        "breadcrumb": "XGBoost > XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)",
+        "source_url": "https://xgboost.readthedocs.io/en/latest",
+        "content": "## XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)\n\n**XGBoost** is an optimized distributed gradient boosting library designed to be highly **efficient**, **flexible** and **portable**.\nIt implements machine learning algorithms under the [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) framework.\nXGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.\nThe same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.",
+        "char_count": 604,
+        "token_estimate": 151
+      }
+    },
+    {
+      "id": "571b4aa9-0e5b-5094-8e1c-c3eed2c24fdb",
+      "payload": {
+        "point_id": "571b4aa9-0e5b-5094-8e1c-c3eed2c24fdb",
+        "doc_id": "xgboost_002",
+        "doc_order": 2,
+        "chunk_index": 0,
+        "total_chunks": 1,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost",
+        "breadcrumb": "XGBoost",
+        "source_url": "https://xgboost.readthedocs.io/en/release_0.72",
+        "content": "## XGBoost\n\nSource: https://xgboost.readthedocs.io/en/release_0.72\n\n---\n\n**XGBoost** is an optimized distributed gradient boosting library designed to be highly **efficient**, **flexible** and **portable**.\nIt implements machine learning algorithms under the [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) framework.\nXGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.\nThe same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.",
+        "char_count": 595,
+        "token_estimate": 148
+      }
+    },
+    {
+      "id": "e7d3e830-4b2b-51f5-bc6f-69950524cb47",
+      "payload": {
+        "point_id": "e7d3e830-4b2b-51f5-bc6f-69950524cb47",
+        "doc_id": "xgboost_003",
+        "doc_order": 3,
+        "chunk_index": 0,
+        "total_chunks": 1,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost",
+        "breadcrumb": "XGBoost",
+        "source_url": "https://xgboost.readthedocs.io/en/release_0.80",
+        "content": "## XGBoost\n\nSource: https://xgboost.readthedocs.io/en/release_0.80\n\n---\n\n**XGBoost** is an optimized distributed gradient boosting library designed to be highly **efficient**, **flexible** and **portable**.\nIt implements machine learning algorithms under the [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) framework.\nXGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.\nThe same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.",
+        "char_count": 595,
+        "token_estimate": 148
+      }
+    },
+    {
+      "id": "9b0fa9b7-4481-5517-9b73-7756fa56cb25",
+      "payload": {
+        "point_id": "9b0fa9b7-4481-5517-9b73-7756fa56cb25",
+        "doc_id": "xgboost_004",
+        "doc_order": 4,
+        "chunk_index": 0,
+        "total_chunks": 1,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost",
+        "breadcrumb": "XGBoost",
+        "source_url": "https://xgboost.readthedocs.io/en/release_0.81",
+        "content": "## XGBoost\n\nSource: https://xgboost.readthedocs.io/en/release_0.81\n\n---\n\n**XGBoost** is an optimized distributed gradient boosting library designed to be highly **efficient**, **flexible** and **portable**.\nIt implements machine learning algorithms under the [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) framework.\nXGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.\nThe same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.",
+        "char_count": 595,
+        "token_estimate": 148
+      }
+    },
+    {
+      "id": "bfced0d1-e8dc-5952-bd78-4bf1c2160a98",
+      "payload": {
+        "point_id": "bfced0d1-e8dc-5952-bd78-4bf1c2160a98",
+        "doc_id": "xgboost_005",
+        "doc_order": 5,
+        "chunk_index": 0,
+        "total_chunks": 1,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost",
+        "breadcrumb": "XGBoost",
+        "source_url": "https://xgboost.readthedocs.io/en/release_0.82",
+        "content": "## XGBoost\n\nSource: https://xgboost.readthedocs.io/en/release_0.82\n\n---\n\n**XGBoost** is an optimized distributed gradient boosting library designed to be highly **efficient**, **flexible** and **portable**.\nIt implements machine learning algorithms under the [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) framework.\nXGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.\nThe same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.",
+        "char_count": 595,
+        "token_estimate": 148
+      }
+    },
+    {
+      "id": "03fea4d0-de75-574e-8ce7-6f02b91365ea",
+      "payload": {
+        "point_id": "03fea4d0-de75-574e-8ce7-6f02b91365ea",
+        "doc_id": "xgboost_006",
+        "doc_order": 6,
+        "chunk_index": 0,
+        "total_chunks": 1,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost",
+        "breadcrumb": "XGBoost",
+        "source_url": "https://xgboost.readthedocs.io/en/release_0.90",
+        "content": "## XGBoost\n\nSource: https://xgboost.readthedocs.io/en/release_0.90\n\n---\n\n**XGBoost** is an optimized distributed gradient boosting library designed to be highly **efficient**, **flexible** and **portable**.\nIt implements machine learning algorithms under the [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) framework.\nXGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.\nThe same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.",
+        "char_count": 595,
+        "token_estimate": 148
+      }
+    },
+    {
+      "id": "4cbbb68a-adf6-5e75-9235-447f0bd7b047",
+      "payload": {
+        "point_id": "4cbbb68a-adf6-5e75-9235-447f0bd7b047",
+        "doc_id": "xgboost_007",
+        "doc_order": 7,
+        "chunk_index": 0,
+        "total_chunks": 1,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost",
+        "breadcrumb": "XGBoost",
+        "source_url": "https://xgboost.readthedocs.io/en/release_1.0.0",
+        "content": "## XGBoost\n\nSource: https://xgboost.readthedocs.io/en/release_1.0.0\n\n---\n\n**XGBoost** is an optimized distributed gradient boosting library designed to be highly **efficient**, **flexible** and **portable**.\nIt implements machine learning algorithms under the [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) framework.\nXGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.\nThe same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.",
+        "char_count": 596,
+        "token_estimate": 149
+      }
+    },
+    {
+      "id": "33835919-95b5-5a13-bd66-fa1436704376",
+      "payload": {
+        "point_id": "33835919-95b5-5a13-bd66-fa1436704376",
+        "doc_id": "xgboost_008",
+        "doc_order": 8,
+        "chunk_index": 0,
+        "total_chunks": 1,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost",
+        "breadcrumb": "XGBoost",
+        "source_url": "https://xgboost.readthedocs.io/en/release_1.1.0",
+        "content": "## XGBoost\n\nSource: https://xgboost.readthedocs.io/en/release_1.1.0\n\n---\n\n**XGBoost** is an optimized distributed gradient boosting library designed to be highly **efficient**, **flexible** and **portable**.\nIt implements machine learning algorithms under the [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) framework.\nXGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.\nThe same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.",
+        "char_count": 596,
+        "token_estimate": 149
+      }
+    },
+    {
+      "id": "aa796e27-8a45-5fb7-8297-366b341296fd",
+      "payload": {
+        "point_id": "aa796e27-8a45-5fb7-8297-366b341296fd",
+        "doc_id": "xgboost_009",
+        "doc_order": 9,
+        "chunk_index": 0,
+        "total_chunks": 1,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost",
+        "breadcrumb": "XGBoost",
+        "source_url": "https://xgboost.readthedocs.io/en/release_1.2.0",
+        "content": "## XGBoost\n\nSource: https://xgboost.readthedocs.io/en/release_1.2.0\n\n---\n\n**XGBoost** is an optimized distributed gradient boosting library designed to be highly **efficient**, **flexible** and **portable**.\nIt implements machine learning algorithms under the [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) framework.\nXGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.\nThe same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.",
+        "char_count": 596,
+        "token_estimate": 149
+      }
+    },
+    {
+      "id": "c0780e8d-d751-553b-9be2-8d674add9f9a",
+      "payload": {
+        "point_id": "c0780e8d-d751-553b-9be2-8d674add9f9a",
+        "doc_id": "xgboost_010",
+        "doc_order": 10,
+        "chunk_index": 0,
+        "total_chunks": 1,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost",
+        "breadcrumb": "XGBoost",
+        "source_url": "https://xgboost.readthedocs.io/en/release_1.3.0",
+        "content": "## XGBoost\n\nSource: https://xgboost.readthedocs.io/en/release_1.3.0\n\n---\n\n**XGBoost** is an optimized distributed gradient boosting library designed to be highly **efficient**, **flexible** and **portable**.\nIt implements machine learning algorithms under the [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) framework.\nXGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.\nThe same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.",
+        "char_count": 596,
+        "token_estimate": 149
+      }
+    },
+    {
+      "id": "139d4ac1-8b1d-59b2-890c-8ef57167f2b0",
+      "payload": {
+        "point_id": "139d4ac1-8b1d-59b2-890c-8ef57167f2b0",
+        "doc_id": "xgboost_011",
+        "doc_order": 11,
+        "chunk_index": 0,
+        "total_chunks": 1,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost",
+        "breadcrumb": "XGBoost",
+        "source_url": "https://xgboost.readthedocs.io/en/release_1.4.0",
+        "content": "## XGBoost\n\nSource: https://xgboost.readthedocs.io/en/release_1.4.0\n\n---\n\n**XGBoost** is an optimized distributed gradient boosting library designed to be highly **efficient**, **flexible** and **portable**.\nIt implements machine learning algorithms under the [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) framework.\nXGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.\nThe same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.",
+        "char_count": 596,
+        "token_estimate": 149
+      }
+    },
+    {
+      "id": "dd22a408-c9c9-5ae1-b957-7ec89ef0e8e1",
+      "payload": {
+        "point_id": "dd22a408-c9c9-5ae1-b957-7ec89ef0e8e1",
+        "doc_id": "xgboost_012",
+        "doc_order": 12,
+        "chunk_index": 0,
+        "total_chunks": 1,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost",
+        "breadcrumb": "XGBoost",
+        "source_url": "https://xgboost.readthedocs.io/en/release_1.5.0",
+        "content": "## XGBoost\n\nSource: https://xgboost.readthedocs.io/en/release_1.5.0\n\n---\n\n**XGBoost** is an optimized distributed gradient boosting library designed to be highly **efficient**, **flexible** and **portable**.\nIt implements machine learning algorithms under the [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) framework.\nXGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.\nThe same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.",
+        "char_count": 596,
+        "token_estimate": 149
+      }
+    },
+    {
+      "id": "630ff12b-85cd-580e-88c2-bbccdda70e11",
+      "payload": {
+        "point_id": "630ff12b-85cd-580e-88c2-bbccdda70e11",
+        "doc_id": "xgboost_013",
+        "doc_order": 13,
+        "chunk_index": 0,
+        "total_chunks": 2,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost",
+        "breadcrumb": "XGBoost",
+        "source_url": "https://xgboost.readthedocs.io/en/release_1.6.0",
+        "content": "## XGBoost\n\nSource: https://xgboost.readthedocs.io/en/release_1.6.0\n\n---",
+        "char_count": 72,
+        "token_estimate": 18
+      }
+    },
+    {
+      "id": "edbb69e1-271e-5962-adf4-b73b0a0992e5",
+      "payload": {
+        "point_id": "edbb69e1-271e-5962-adf4-b73b0a0992e5",
+        "doc_id": "xgboost_013",
+        "doc_order": 13,
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost Documentation[\u00ef](https://xgboost.readthedocs.io#xgboost-documentation)",
+        "breadcrumb": "XGBoost > XGBoost Documentation[\u00ef](https://xgboost.readthedocs.io#xgboost-documentation)",
+        "source_url": "https://xgboost.readthedocs.io/en/release_1.6.0",
+        "content": "## XGBoost Documentation[\u00ef](https://xgboost.readthedocs.io#xgboost-documentation)\n\n**XGBoost** is an optimized distributed gradient boosting library designed to be highly **efficient**, **flexible** and **portable**.\nIt implements machine learning algorithms under the [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) framework.\nXGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.\nThe same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.",
+        "char_count": 605,
+        "token_estimate": 151
+      }
+    },
+    {
+      "id": "b7fce785-920d-5c3e-a232-2239ee7f2c40",
+      "payload": {
+        "point_id": "b7fce785-920d-5c3e-a232-2239ee7f2c40",
+        "doc_id": "xgboost_014",
+        "doc_order": 14,
+        "chunk_index": 0,
+        "total_chunks": 2,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost",
+        "breadcrumb": "XGBoost",
+        "source_url": "https://xgboost.readthedocs.io/en/release_1.7.0",
+        "content": "## XGBoost\n\nSource: https://xgboost.readthedocs.io/en/release_1.7.0\n\n---",
+        "char_count": 72,
+        "token_estimate": 18
+      }
+    },
+    {
+      "id": "e16fa20f-1f0b-51e0-9b99-6593d9f20708",
+      "payload": {
+        "point_id": "e16fa20f-1f0b-51e0-9b99-6593d9f20708",
+        "doc_id": "xgboost_014",
+        "doc_order": 14,
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)",
+        "breadcrumb": "XGBoost > XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)",
+        "source_url": "https://xgboost.readthedocs.io/en/release_1.7.0",
+        "content": "## XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)\n\n**XGBoost** is an optimized distributed gradient boosting library designed to be highly **efficient**, **flexible** and **portable**.\nIt implements machine learning algorithms under the [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) framework.\nXGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.\nThe same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.",
+        "char_count": 604,
+        "token_estimate": 151
+      }
+    },
+    {
+      "id": "4b503b3d-7edd-5ed4-8a36-62cfdb3cedb9",
+      "payload": {
+        "point_id": "4b503b3d-7edd-5ed4-8a36-62cfdb3cedb9",
+        "doc_id": "xgboost_015",
+        "doc_order": 15,
+        "chunk_index": 0,
+        "total_chunks": 2,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost",
+        "breadcrumb": "XGBoost",
+        "source_url": "https://xgboost.readthedocs.io/en/release_2.0.0",
+        "content": "## XGBoost\n\nSource: https://xgboost.readthedocs.io/en/release_2.0.0\n\n---",
+        "char_count": 72,
+        "token_estimate": 18
+      }
+    },
+    {
+      "id": "c5bd133c-4b7a-5362-a2af-c32349c3870c",
+      "payload": {
+        "point_id": "c5bd133c-4b7a-5362-a2af-c32349c3870c",
+        "doc_id": "xgboost_015",
+        "doc_order": 15,
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)",
+        "breadcrumb": "XGBoost > XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)",
+        "source_url": "https://xgboost.readthedocs.io/en/release_2.0.0",
+        "content": "## XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)\n\n**XGBoost** is an optimized distributed gradient boosting library designed to be highly **efficient**, **flexible** and **portable**.\nIt implements machine learning algorithms under the [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) framework.\nXGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.\nThe same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.",
+        "char_count": 604,
+        "token_estimate": 151
+      }
+    },
+    {
+      "id": "b5da14d0-a36c-5906-96b5-a74c4bdea90e",
+      "payload": {
+        "point_id": "b5da14d0-a36c-5906-96b5-a74c4bdea90e",
+        "doc_id": "xgboost_016",
+        "doc_order": 16,
+        "chunk_index": 0,
+        "total_chunks": 2,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost",
+        "breadcrumb": "XGBoost",
+        "source_url": "https://xgboost.readthedocs.io/en/release_2.1.0",
+        "content": "## XGBoost\n\nSource: https://xgboost.readthedocs.io/en/release_2.1.0\n\n---",
+        "char_count": 72,
+        "token_estimate": 18
+      }
+    },
+    {
+      "id": "51bd5f73-bc73-553e-b27a-255ed375368b",
+      "payload": {
+        "point_id": "51bd5f73-bc73-553e-b27a-255ed375368b",
+        "doc_id": "xgboost_016",
+        "doc_order": 16,
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)",
+        "breadcrumb": "XGBoost > XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)",
+        "source_url": "https://xgboost.readthedocs.io/en/release_2.1.0",
+        "content": "## XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)\n\n**XGBoost** is an optimized distributed gradient boosting library designed to be highly **efficient**, **flexible** and **portable**.\nIt implements machine learning algorithms under the [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) framework.\nXGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.\nThe same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.",
+        "char_count": 604,
+        "token_estimate": 151
+      }
+    },
+    {
+      "id": "f4aa506b-ad35-5bba-9cb1-ddc151ad11ab",
+      "payload": {
+        "point_id": "f4aa506b-ad35-5bba-9cb1-ddc151ad11ab",
+        "doc_id": "xgboost_017",
+        "doc_order": 17,
+        "chunk_index": 0,
+        "total_chunks": 2,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost",
+        "breadcrumb": "XGBoost",
+        "source_url": "https://xgboost.readthedocs.io/en/release_3.0.0",
+        "content": "## XGBoost\n\nSource: https://xgboost.readthedocs.io/en/release_3.0.0\n\n---",
+        "char_count": 72,
+        "token_estimate": 18
+      }
+    },
+    {
+      "id": "958f9760-4cca-55dd-ba24-c9be50761057",
+      "payload": {
+        "point_id": "958f9760-4cca-55dd-ba24-c9be50761057",
+        "doc_id": "xgboost_017",
+        "doc_order": 17,
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)",
+        "breadcrumb": "XGBoost > XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)",
+        "source_url": "https://xgboost.readthedocs.io/en/release_3.0.0",
+        "content": "## XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)\n\n**XGBoost** is an optimized distributed gradient boosting library designed to be highly **efficient**, **flexible** and **portable**.\nIt implements machine learning algorithms under the [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) framework.\nXGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.\nThe same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.",
+        "char_count": 604,
+        "token_estimate": 151
+      }
+    },
+    {
+      "id": "fc28a453-aac8-5519-bc20-c8e1abbe282c",
+      "payload": {
+        "point_id": "fc28a453-aac8-5519-bc20-c8e1abbe282c",
+        "doc_id": "xgboost_018",
+        "doc_order": 18,
+        "chunk_index": 0,
+        "total_chunks": 2,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost",
+        "breadcrumb": "XGBoost",
+        "source_url": "https://xgboost.readthedocs.io/en/release_3.1.0",
+        "content": "## XGBoost\n\nSource: https://xgboost.readthedocs.io/en/release_3.1.0\n\n---",
+        "char_count": 72,
+        "token_estimate": 18
+      }
+    },
+    {
+      "id": "21edadc6-a307-5b1c-b0d7-c233e926c34a",
+      "payload": {
+        "point_id": "21edadc6-a307-5b1c-b0d7-c233e926c34a",
+        "doc_id": "xgboost_018",
+        "doc_order": 18,
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)",
+        "breadcrumb": "XGBoost > XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)",
+        "source_url": "https://xgboost.readthedocs.io/en/release_3.1.0",
+        "content": "## XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)\n\n**XGBoost** is an optimized distributed gradient boosting library designed to be highly **efficient**, **flexible** and **portable**.\nIt implements machine learning algorithms under the [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) framework.\nXGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.\nThe same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.",
+        "char_count": 604,
+        "token_estimate": 151
+      }
+    },
+    {
+      "id": "974e93c8-3a81-55dd-a676-5dedbb2e3503",
+      "payload": {
+        "point_id": "974e93c8-3a81-55dd-a676-5dedbb2e3503",
+        "doc_id": "xgboost_019",
+        "doc_order": 19,
+        "chunk_index": 0,
+        "total_chunks": 2,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost",
+        "breadcrumb": "XGBoost",
+        "source_url": "https://xgboost.readthedocs.io/en/release_3.2.0",
+        "content": "## XGBoost\n\nSource: https://xgboost.readthedocs.io/en/release_3.2.0\n\n---",
+        "char_count": 72,
+        "token_estimate": 18
+      }
+    },
+    {
+      "id": "9e655ab9-45b7-5316-9218-42859e0f7745",
+      "payload": {
+        "point_id": "9e655ab9-45b7-5316-9218-42859e0f7745",
+        "doc_id": "xgboost_019",
+        "doc_order": 19,
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)",
+        "breadcrumb": "XGBoost > XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)",
+        "source_url": "https://xgboost.readthedocs.io/en/release_3.2.0",
+        "content": "## XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)\n\n**XGBoost** is an optimized distributed gradient boosting library designed to be highly **efficient**, **flexible** and **portable**.\nIt implements machine learning algorithms under the [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) framework.\nXGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.\nThe same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.",
+        "char_count": 604,
+        "token_estimate": 151
+      }
+    },
+    {
+      "id": "ec77d5c2-dce1-5f54-8c6c-826261f2f314",
+      "payload": {
+        "point_id": "ec77d5c2-dce1-5f54-8c6c-826261f2f314",
+        "doc_id": "xgboost_020",
+        "doc_order": 20,
+        "chunk_index": 0,
+        "total_chunks": 2,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost",
+        "breadcrumb": "XGBoost",
+        "source_url": "https://xgboost.readthedocs.io/en/release_3.3.0",
+        "content": "## XGBoost\n\nSource: https://xgboost.readthedocs.io/en/release_3.3.0\n\n---",
+        "char_count": 72,
+        "token_estimate": 18
+      }
+    },
+    {
+      "id": "baee2500-93d3-5668-96bf-f75ac808489c",
+      "payload": {
+        "point_id": "baee2500-93d3-5668-96bf-f75ac808489c",
+        "doc_id": "xgboost_020",
+        "doc_order": 20,
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)",
+        "breadcrumb": "XGBoost > XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)",
+        "source_url": "https://xgboost.readthedocs.io/en/release_3.3.0",
+        "content": "## XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)\n\n**XGBoost** is an optimized distributed gradient boosting library designed to be highly **efficient**, **flexible** and **portable**.\nIt implements machine learning algorithms under the [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) framework.\nXGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.\nThe same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.",
+        "char_count": 604,
+        "token_estimate": 151
+      }
+    },
+    {
+      "id": "55f7beec-6d79-51e8-bed2-82082634436c",
+      "payload": {
+        "point_id": "55f7beec-6d79-51e8-bed2-82082634436c",
+        "doc_id": "xgboost_021",
+        "doc_order": 21,
+        "chunk_index": 0,
+        "total_chunks": 2,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost",
+        "breadcrumb": "XGBoost",
+        "source_url": "https://xgboost.readthedocs.io/en/stable",
+        "content": "## XGBoost\n\nSource: https://xgboost.readthedocs.io/en/stable\n\n---",
+        "char_count": 65,
+        "token_estimate": 16
+      }
+    },
+    {
+      "id": "64e4ce81-7f2a-5211-920f-a183c6602bd2",
+      "payload": {
+        "point_id": "64e4ce81-7f2a-5211-920f-a183c6602bd2",
+        "doc_id": "xgboost_021",
+        "doc_order": 21,
+        "chunk_index": 1,
+        "total_chunks": 2,
+        "technology": "XGBoost",
+        "category": "ML & Data",
+        "title": "XGBoost",
+        "section": "XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)",
+        "breadcrumb": "XGBoost > XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)",
+        "source_url": "https://xgboost.readthedocs.io/en/stable",
+        "content": "## XGBoost Documentation[](https://xgboost.readthedocs.io#xgboost-documentation)\n\n**XGBoost** is an optimized distributed gradient boosting library designed to be highly **efficient**, **flexible** and **portable**.\nIt implements machine learning algorithms under the [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) framework.\nXGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.\nThe same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.",
+        "char_count": 604,
+        "token_estimate": 151
+      }
+    }
+  ]
+}

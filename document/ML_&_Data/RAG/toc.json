@@ -1,0 +1,214 @@
+{
+  "technology": "RAG",
+  "category": "ML_&_Data",
+  "documents": [
+    {
+      "id": "rag_001",
+      "doc_order": 1,
+      "title": "LangChain overview - Docs by LangChain",
+      "file": "001_oss_python_langchain_overview.md",
+      "source_url": "https://docs.langchain.com/oss/python/langchain/overview",
+      "content_hash": "0c528bb45796ff2119bcf0614b8a3142f9ae0c7124cc68ad3f1191e871d2ea8c"
+    },
+    {
+      "id": "rag_002",
+      "doc_order": 2,
+      "title": "Build - Docs by LangChain",
+      "file": "002_build-overview.md",
+      "source_url": "https://docs.langchain.com/build-overview",
+      "content_hash": "01380dffe9ef0452fa384bbcb4904e65924ee864a64e4e93fbb2e80c9ed2e980"
+    },
+    {
+      "id": "rag_003",
+      "doc_order": 3,
+      "title": "Overview - Docs by LangChain",
+      "file": "003_langsmith_administration-overview.md",
+      "source_url": "https://docs.langchain.com/langsmith/administration-overview",
+      "content_hash": "ae1dac68b2321e39138a844dc38828a982303350a96b4d7906993abe22104f3f"
+    },
+    {
+      "id": "rag_004",
+      "doc_order": 4,
+      "title": "Agent Server - Docs by LangChain",
+      "file": "004_langsmith_agent-server-overview.md",
+      "source_url": "https://docs.langchain.com/langsmith/agent-server-overview",
+      "content_hash": "c691cb49c27559cff4c9af70e4debb1bb5566b3a3df6cdc2fd5794cb6878a6a2"
+    },
+    {
+      "id": "rag_005",
+      "doc_order": 5,
+      "title": "Reference - Docs by LangChain",
+      "file": "005_langsmith_deploy-reference-overview.md",
+      "source_url": "https://docs.langchain.com/langsmith/deploy-reference-overview",
+      "content_hash": "a9cfe7513d87e6738449f3702c2097bae893c1480c076bdede4d7ae68832f003"
+    },
+    {
+      "id": "rag_006",
+      "doc_order": 6,
+      "title": "Deploy to Cloud - Docs by LangChain",
+      "file": "006_langsmith_deploy-to-cloud-overview.md",
+      "source_url": "https://docs.langchain.com/langsmith/deploy-to-cloud-overview",
+      "content_hash": "4043a0908a305d13d0908b73ea101a99e132369c2bb50b8b4eb6412cd06655a2"
+    },
+    {
+      "id": "rag_007",
+      "doc_order": 7,
+      "title": "Deploy to self-hosted - Docs by LangChain",
+      "file": "007_langsmith_deploy-to-self-hosted-overview.md",
+      "source_url": "https://docs.langchain.com/langsmith/deploy-to-self-hosted-overview",
+      "content_hash": "485d819daed3c67d5464fdb2629ba297ed90770c231d92b8f98e59c204ca813a"
+    },
+    {
+      "id": "rag_008",
+      "doc_order": 8,
+      "title": "Govern - Docs by LangChain",
+      "file": "008_langsmith_govern-overview.md",
+      "source_url": "https://docs.langchain.com/langsmith/govern-overview",
+      "content_hash": "1dc97c0957acb9436fffa01b02d4307f1e0542a713959d2eb768c4dc01ee3ded"
+    },
+    {
+      "id": "rag_009",
+      "doc_order": 9,
+      "title": "Managed Deep Agents - Docs by LangChain",
+      "file": "009_langsmith_javascript_managed-deep-agents-overview.md",
+      "source_url": "https://docs.langchain.com/langsmith/javascript/managed-deep-agents-overview",
+      "content_hash": "1aabe5d09f0ef9128fce7c09a74fb15ce82d0391c65357f4f2009a64d710f819"
+    },
+    {
+      "id": "rag_010",
+      "doc_order": 10,
+      "title": "LangSmith setup - Docs by LangChain",
+      "file": "010_langsmith_langsmith-setup-overview.md",
+      "source_url": "https://docs.langchain.com/langsmith/langsmith-setup-overview",
+      "content_hash": "c29b2c4b688634cdd7bc480d28e1e16bd0618480de6e9aa29524a6829dd74ab8"
+    },
+    {
+      "id": "rag_011",
+      "doc_order": 11,
+      "title": "Managed Deep Agents - Docs by LangChain",
+      "file": "011_langsmith_python_managed-deep-agents-overview.md",
+      "source_url": "https://docs.langchain.com/langsmith/python/managed-deep-agents-overview",
+      "content_hash": "bf8a7a7d00569be9d9fd910f86eec277149e8a5ad021a6795dddc635fb33b077"
+    },
+    {
+      "id": "rag_012",
+      "doc_order": 12,
+      "title": "Save the agent overview for a session (Beta) - Docs by LangChain",
+      "file": "012_langsmith_smith-api_issues-agent_save-the-agent-overview-for-a-session-beta.md",
+      "source_url": "https://docs.langchain.com/langsmith/smith-api/issues-agent/save-the-agent-overview-for-a-session-beta",
+      "content_hash": "d36597314e33994319a2d6d5f6b13f40009813bbcb362c1fcf224c7ba4702c09"
+    },
+    {
+      "id": "rag_013",
+      "doc_order": 13,
+      "title": "Deep Agents Code - Docs by LangChain",
+      "file": "013_oss_deepagents_code_overview.md",
+      "source_url": "https://docs.langchain.com/oss/deepagents/code/overview",
+      "content_hash": "38cb259687b97779ef9187414a9f6c61c47e716dc82173a3c0188dceb1db128e"
+    },
+    {
+      "id": "rag_014",
+      "doc_order": 14,
+      "title": "Contributing - Docs by LangChain",
+      "file": "014_oss_javascript_contributing_overview.md",
+      "source_url": "https://docs.langchain.com/oss/javascript/contributing/overview",
+      "content_hash": "8865d8b055bbab60f72412f778faa3dd6d549cb9cd689247b5da70a8f321f900"
+    },
+    {
+      "id": "rag_015",
+      "doc_order": 15,
+      "title": "Overview - Docs by LangChain",
+      "file": "015_oss_javascript_deepagents_frontend_overview.md",
+      "source_url": "https://docs.langchain.com/oss/javascript/deepagents/frontend/overview",
+      "content_hash": "e613126ad7c1430ae914976e9ef430983b7103f1ef87017ece4937d86713753d"
+    },
+    {
+      "id": "rag_016",
+      "doc_order": 16,
+      "title": "Deep Agents overview - Docs by LangChain",
+      "file": "016_oss_javascript_deepagents_overview.md",
+      "source_url": "https://docs.langchain.com/oss/javascript/deepagents/overview",
+      "content_hash": "4e5c8d756befa3c6b9b0e148d18e679ceb29179dae6ae7fee26660195c3eb6d9"
+    },
+    {
+      "id": "rag_017",
+      "doc_order": 17,
+      "title": "Deploy your app to cloud - Docs by LangChain",
+      "file": "017_langsmith_deployment-quickstart.md",
+      "source_url": "https://docs.langchain.com/langsmith/deployment-quickstart",
+      "content_hash": "34b8205b1b09acafc98fdf601ca6ba03cb2ab653fdb6d2e3e651795b2220e778"
+    },
+    {
+      "id": "rag_018",
+      "doc_order": 18,
+      "title": "Evaluation quickstart - Docs by LangChain",
+      "file": "018_langsmith_evaluation-quickstart.md",
+      "source_url": "https://docs.langchain.com/langsmith/evaluation-quickstart",
+      "content_hash": "4ee4ef9d542d8d77e1c33e3fd08f1a05fcbcb80f3b2752ebc5c1d5adfcadf8a7"
+    },
+    {
+      "id": "rag_019",
+      "doc_order": 19,
+      "title": "Quickstart - Docs by LangChain",
+      "file": "019_langsmith_fleet_quickstart.md",
+      "source_url": "https://docs.langchain.com/langsmith/fleet/quickstart",
+      "content_hash": "dee5f1addf1c3507afc3ff6e90bcb926ac9694abd916b8a44bbbb00a2d675638"
+    },
+    {
+      "id": "rag_020",
+      "doc_order": 20,
+      "title": "Managed Deep Agents quickstart - Docs by LangChain",
+      "file": "020_langsmith_javascript_managed-deep-agents-quickstart.md",
+      "source_url": "https://docs.langchain.com/langsmith/javascript/managed-deep-agents-quickstart",
+      "content_hash": "ccc3056a4d01fbf4ed03f684c94981fdaed862e56bdadf82041eb18db4d827e2"
+    },
+    {
+      "id": "rag_021",
+      "doc_order": 21,
+      "title": "Tracing quickstart - Docs by LangChain",
+      "file": "021_langsmith_observability-quickstart.md",
+      "source_url": "https://docs.langchain.com/langsmith/observability-quickstart",
+      "content_hash": "4d182c5e71e11b6305a2080fb34193ff00222d58ad8e086bf5e3a9dc1b185ee5"
+    },
+    {
+      "id": "rag_022",
+      "doc_order": 22,
+      "title": "Prompt engineering quickstart - Docs by LangChain",
+      "file": "022_langsmith_prompt-engineering-quickstart.md",
+      "source_url": "https://docs.langchain.com/langsmith/prompt-engineering-quickstart",
+      "content_hash": "31612b9b8aa30376f80b25780b0305a526066e764046ddb65054a9fffd0e9142"
+    },
+    {
+      "id": "rag_023",
+      "doc_order": 23,
+      "title": "Managed Deep Agents quickstart - Docs by LangChain",
+      "file": "023_langsmith_python_managed-deep-agents-quickstart.md",
+      "source_url": "https://docs.langchain.com/langsmith/python/managed-deep-agents-quickstart",
+      "content_hash": "52c3f151b95ac49b68e9fcb3aff4b5ebb5e41f57861c782b85d6ad6c0ca44c71"
+    },
+    {
+      "id": "rag_024",
+      "doc_order": 24,
+      "title": "Quickstart - Docs by LangChain",
+      "file": "024_oss_deepagents_code_quickstart.md",
+      "source_url": "https://docs.langchain.com/oss/deepagents/code/quickstart",
+      "content_hash": "e1db6819bc5b77e4a28993056a94b0d26aa05582f3ff5f1a7b1d1a929bc2845f"
+    },
+    {
+      "id": "rag_025",
+      "doc_order": 25,
+      "title": "Quickstart - Docs by LangChain",
+      "file": "025_oss_javascript_deepagents_quickstart.md",
+      "source_url": "https://docs.langchain.com/oss/javascript/deepagents/quickstart",
+      "content_hash": "b9ff173bcdaa6dc1d1d1b8c98aa79584e82680b2b20e980b9c872001a0517acf"
+    },
+    {
+      "id": "rag_026",
+      "doc_order": 26,
+      "title": "RAG",
+      "file": "026_docs.md",
+      "source_url": "https://python.langchain.com/docs",
+      "content_hash": "e434a1dd3ae4aeb95aadcc9f5710b0131b9580cfe242108ecb031ee89d3fb60c"
+    }
+  ]
+}

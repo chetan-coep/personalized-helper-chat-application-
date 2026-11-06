@@ -1,0 +1,542 @@
+{
+  "technology": "LLMs",
+  "category": "ML_&_Data",
+  "documents": [
+    {
+      "id": "llms_001",
+      "doc_order": 1,
+      "title": "LLMs",
+      "file": "001_learn.md",
+      "source_url": "https://huggingface.co/learn",
+      "content_hash": "be86d8fbebf803c3723db9bba1d5368283111a89c5840c5d3e372d6713c47b4c"
+    },
+    {
+      "id": "llms_002",
+      "doc_order": 2,
+      "title": "LLMs",
+      "file": "002_learn_agents-course.md",
+      "source_url": "https://huggingface.co/learn/agents-course",
+      "content_hash": "938bd1ef749b81916a15e350f3ff17f5e0b32d5c3969bdf6c590cd0319703281"
+    },
+    {
+      "id": "llms_003",
+      "doc_order": 3,
+      "title": "LLMs",
+      "file": "003_learn_audio-course.md",
+      "source_url": "https://huggingface.co/learn/audio-course",
+      "content_hash": "90716d4af46e38a9923c6ffcdfa14cb701c2f6c308db915c20f58ed5f8e82418"
+    },
+    {
+      "id": "llms_004",
+      "doc_order": 4,
+      "title": "LLMs",
+      "file": "004_learn_computer-vision-course.md",
+      "source_url": "https://huggingface.co/learn/computer-vision-course",
+      "content_hash": "4d3961ae40ce0bca618f018025aff21705217fb5d9127a745322b321fa72678a"
+    },
+    {
+      "id": "llms_005",
+      "doc_order": 5,
+      "title": "LLMs",
+      "file": "005_learn_context-course.md",
+      "source_url": "https://huggingface.co/learn/context-course",
+      "content_hash": "23bbfebd2f2b995382fbd7eb959d116d23ccca88af1804eec3a1f4b9d1a3aca4"
+    },
+    {
+      "id": "llms_006",
+      "doc_order": 6,
+      "title": "LLMs",
+      "file": "006_learn_cookbook.md",
+      "source_url": "https://huggingface.co/learn/cookbook",
+      "content_hash": "f8f0f0c2d6d5771a3758aeb472e0d6018d7452304e27f6011597e2c5ac8ad4e0"
+    },
+    {
+      "id": "llms_007",
+      "doc_order": 7,
+      "title": "LLMs",
+      "file": "007_learn_deep-rl-course.md",
+      "source_url": "https://huggingface.co/learn/deep-rl-course",
+      "content_hash": "d528953494633c6f441696a8d79b1154acba05b99ad46e71f38ff9ba234f86a7"
+    },
+    {
+      "id": "llms_008",
+      "doc_order": 8,
+      "title": "LLMs",
+      "file": "008_learn_diffusion-course.md",
+      "source_url": "https://huggingface.co/learn/diffusion-course",
+      "content_hash": "72abb33f826e517f545fa12f360e158ea025bcd254ed36c9d781ed9a8377d673"
+    },
+    {
+      "id": "llms_009",
+      "doc_order": 9,
+      "title": "LLMs",
+      "file": "009_learn_mcp-course.md",
+      "source_url": "https://huggingface.co/learn/mcp-course",
+      "content_hash": "4ec5596b5236f5890f05bb85c6d88a1fd12a404d38a4fe84d390bb7e67894df3"
+    },
+    {
+      "id": "llms_010",
+      "doc_order": 10,
+      "title": "LLMs",
+      "file": "010_learn_ml-for-3d-course.md",
+      "source_url": "https://huggingface.co/learn/ml-for-3d-course",
+      "content_hash": "217a8457f172aa23eb039251d8c1adde8c6b508adda10dbf240d25c0c5f2e911"
+    },
+    {
+      "id": "llms_011",
+      "doc_order": 11,
+      "title": "LLMs",
+      "file": "011_learn_ml-games-course.md",
+      "source_url": "https://huggingface.co/learn/ml-games-course",
+      "content_hash": "b22fe713a01be9218eaae806bb83eda142e658eb37b66b5c5c4ad234cc17ffd6"
+    },
+    {
+      "id": "llms_012",
+      "doc_order": 12,
+      "title": "LLMs",
+      "file": "012_learn_robotics-course.md",
+      "source_url": "https://huggingface.co/learn/robotics-course",
+      "content_hash": "01a39f1ad600eab471e4d0c1d86f4213b47a63ee11e2d1ade277e979826e7b24"
+    },
+    {
+      "id": "llms_013",
+      "doc_order": 13,
+      "title": "LLMs",
+      "file": "013_blog.md",
+      "source_url": "https://huggingface.co/blog",
+      "content_hash": "ed37a694fe99bf7225b151c1e8a0b2174ce9df2c0c84246cd2bc5909e23d2cf7"
+    },
+    {
+      "id": "llms_014",
+      "doc_order": 14,
+      "title": "LLMs",
+      "file": "014_blog_asyncgrpo-lora-hfjobs.md",
+      "source_url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "content_hash": "5d2fe349151ba2ab76bf90d53abfe6bb0b962acb91537279de54a48da4d6a212"
+    },
+    {
+      "id": "llms_015",
+      "doc_order": 15,
+      "title": "LLMs",
+      "file": "015_blog_evaleval-aisi.md",
+      "source_url": "https://huggingface.co/blog/evaleval-aisi",
+      "content_hash": "339d043b8c83e0774b8bf82c953370f335417217b33056687cf4a96764e8009c"
+    },
+    {
+      "id": "llms_016",
+      "doc_order": 16,
+      "title": "LLMs",
+      "file": "016_blog_gradio-workflow-1111.md",
+      "source_url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "content_hash": "1a008ab2872036ffb0ed73ff95199c727ea67a022c8b97164448df76edab3634"
+    },
+    {
+      "id": "llms_017",
+      "doc_order": 17,
+      "title": "LLMs",
+      "file": "017_blog_grpo-with-trl-ifstruct.md",
+      "source_url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "content_hash": "f1828b40fcb2944c9f413d754d9d5be68284de8b6233ce13ea403e4c2520c3d5"
+    },
+    {
+      "id": "llms_018",
+      "doc_order": 18,
+      "title": "LLMs",
+      "file": "018_blog_Hcompany_holo4.md",
+      "source_url": "https://huggingface.co/blog/Hcompany/holo4",
+      "content_hash": "fad55552794669df716b20bc61ebd5c29cc2879d716f8b5aac7e37ab47aa38ca"
+    },
+    {
+      "id": "llms_019",
+      "doc_order": 19,
+      "title": "LLMs",
+      "file": "019_blog_Hcompany_neomme.md",
+      "source_url": "https://huggingface.co/blog/Hcompany/neomme",
+      "content_hash": "a47260fe545efd795ee975de110c686e76032b8a44d797338eb68106907ee5a4"
+    },
+    {
+      "id": "llms_020",
+      "doc_order": 20,
+      "title": "LLMs",
+      "file": "020_blog_ibm-research_altk-evolve-consistency.md",
+      "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "content_hash": "f7553459df935381288ec11db2ca62db1c84727965d2f869eb43166e570e8c67"
+    },
+    {
+      "id": "llms_021",
+      "doc_order": 21,
+      "title": "LLMs",
+      "file": "021_blog_microsoft_thinkingbox.md",
+      "source_url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "content_hash": "9b4b50a6c71cbd7bc2372cd1b41f053a6ffd4f1a87221b107e7482f5651eb267"
+    },
+    {
+      "id": "llms_022",
+      "doc_order": 22,
+      "title": "LLMs",
+      "file": "022_blog_MultiverseComputingCAI_getting-the-source-right-not-just-the-fact-source.md",
+      "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "content_hash": "9f57df67158e22dd31ded5de7fa5aecb8737137a155b230d03c7d6bfb240311b"
+    },
+    {
+      "id": "llms_023",
+      "doc_order": 23,
+      "title": "LLMs",
+      "file": "023_blog_omlx.md",
+      "source_url": "https://huggingface.co/blog/omlx",
+      "content_hash": "7b97106f160825b85f85d19b2f8fe5a6dcc83e828844af26d849019a984c0e6a"
+    },
+    {
+      "id": "llms_024",
+      "doc_order": 24,
+      "title": "LLMs",
+      "file": "024_blog_open-tts-leaderboard.md",
+      "source_url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "content_hash": "e030286b3c8616b79fa2dd478a060cfbaaa1630a79cc47d5d08fdc55bde309d1"
+    },
+    {
+      "id": "llms_025",
+      "doc_order": 25,
+      "title": "LLMs",
+      "file": "025_blog_rl-environments.md",
+      "source_url": "https://huggingface.co/blog/rl-environments",
+      "content_hash": "d1b371b9ad5d63cc4ff4a9ac04b8fcc12b102bb33e0b82374c049a037df2cfa9"
+    },
+    {
+      "id": "llms_026",
+      "doc_order": 26,
+      "title": "LLMs",
+      "file": "026_blog_ServiceNow-AI_autosynthdata.md",
+      "source_url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "content_hash": "f8ea8e4c70c926e975a47b5b44f0484e9828eedd02cc78cfc73da7378b9fb49c"
+    },
+    {
+      "id": "llms_027",
+      "doc_order": 27,
+      "title": "LLMs",
+      "file": "027_blog_tokenizers-v1.md",
+      "source_url": "https://huggingface.co/blog/tokenizers-v1",
+      "content_hash": "4ac75be87c55d812e13600691025c862a8962af9008e2291e8a060c9ef1520bd"
+    },
+    {
+      "id": "llms_028",
+      "doc_order": 28,
+      "title": "LLMs",
+      "file": "028_blog_transformers-llama-cpp-quants.md",
+      "source_url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "content_hash": "ec85e48f7bb04ab1878bb56743365987af7e8f3135641d1497647ff6898f361b"
+    },
+    {
+      "id": "llms_029",
+      "doc_order": 29,
+      "title": "LLMs",
+      "file": "029_datasets.md",
+      "source_url": "https://huggingface.co/datasets",
+      "content_hash": "8f23a448eef704905629c6ff2d8bb917fc9bc0934eb9c3b71444604725631767"
+    },
+    {
+      "id": "llms_030",
+      "doc_order": 30,
+      "title": "LLMs",
+      "file": "030_docs.md",
+      "source_url": "https://huggingface.co/docs",
+      "content_hash": "f20e769401c2d74ca2ca5689d30057d8f64bd661dcab348cd4f1d092a5d31f54"
+    },
+    {
+      "id": "llms_031",
+      "doc_order": 31,
+      "title": "LLMs",
+      "file": "031_docs_accelerate.md",
+      "source_url": "https://huggingface.co/docs/accelerate",
+      "content_hash": "36629f0d7161432c5d0ef493e000c53f1aa70aa7b9d15884e2ef2d9eb441ad78"
+    },
+    {
+      "id": "llms_032",
+      "doc_order": 32,
+      "title": "LLMs",
+      "file": "032_docs_autotrain.md",
+      "source_url": "https://huggingface.co/docs/autotrain",
+      "content_hash": "a171b60b8821c21fdadb388d07ca055d7569bc244dfe608181a169b6818bd728"
+    },
+    {
+      "id": "llms_033",
+      "doc_order": 33,
+      "title": "LLMs",
+      "file": "033_docs_bitsandbytes.md",
+      "source_url": "https://huggingface.co/docs/bitsandbytes",
+      "content_hash": "1365228a4ce691b56a4025abbcd46a6faca28ed2f07b12552f9c8553d3cd93c7"
+    },
+    {
+      "id": "llms_034",
+      "doc_order": 34,
+      "title": "LLMs",
+      "file": "034_docs_chat-ui.md",
+      "source_url": "https://huggingface.co/docs/chat-ui",
+      "content_hash": "bb9904e6128d9ddf921ceaa329fdeae73c2e530de534ab6b144b031be74650b1"
+    },
+    {
+      "id": "llms_035",
+      "doc_order": 35,
+      "title": "LLMs",
+      "file": "035_docs_dataset-viewer.md",
+      "source_url": "https://huggingface.co/docs/dataset-viewer",
+      "content_hash": "54712b7c59706af56a9b612f08cd3e9a21b5bc03f26813d1efae0f659135d5eb"
+    },
+    {
+      "id": "llms_036",
+      "doc_order": 36,
+      "title": "LLMs",
+      "file": "036_docs_datasets.md",
+      "source_url": "https://huggingface.co/docs/datasets",
+      "content_hash": "0fe237f510d88cbe2705a319859ce5e4f89d17f4972f752208f3a628b67294fe"
+    },
+    {
+      "id": "llms_037",
+      "doc_order": 37,
+      "title": "LLMs",
+      "file": "037_docs_diffusers.md",
+      "source_url": "https://huggingface.co/docs/diffusers",
+      "content_hash": "adf912c284f6e7a913f23976231764180ba13c487b2865e3183be4ad891f6dec"
+    },
+    {
+      "id": "llms_038",
+      "doc_order": 38,
+      "title": "LLMs",
+      "file": "038_docs_evaluate.md",
+      "source_url": "https://huggingface.co/docs/evaluate",
+      "content_hash": "40d797b606ff86ca2e45e8ace0ea17be5da667565b952b500f84bfa027b9aa78"
+    },
+    {
+      "id": "llms_039",
+      "doc_order": 39,
+      "title": "LLMs",
+      "file": "039_docs_google-cloud.md",
+      "source_url": "https://huggingface.co/docs/google-cloud",
+      "content_hash": "e28998e89233429880d5656753d308f64ffa89c4c30e35d425b7e6fc3cca96a5"
+    },
+    {
+      "id": "llms_040",
+      "doc_order": 40,
+      "title": "LLMs",
+      "file": "040_docs_hub.md",
+      "source_url": "https://huggingface.co/docs/hub",
+      "content_hash": "c7952d8a2b812d3ec32d8255a028c8a2a0899704d2985ffc91e1fe21e8a45fe2"
+    },
+    {
+      "id": "llms_041",
+      "doc_order": 41,
+      "title": "LLMs",
+      "file": "041_docs_huggingface.js.md",
+      "source_url": "https://huggingface.co/docs/huggingface.js",
+      "content_hash": "6496f4d759e8d3dc207aefed10b13b9813793995276221dbacf899227162c50e"
+    },
+    {
+      "id": "llms_042",
+      "doc_order": 42,
+      "title": "LLMs",
+      "file": "042_docs_huggingface_hub.md",
+      "source_url": "https://huggingface.co/docs/huggingface_hub",
+      "content_hash": "f1c6fb62ea337b806eb43fe19df82bda9ee907e049da378e5b7cabab6bb9e8ed"
+    },
+    {
+      "id": "llms_043",
+      "doc_order": 43,
+      "title": "LLMs",
+      "file": "043_docs_inference-endpoints.md",
+      "source_url": "https://huggingface.co/docs/inference-endpoints",
+      "content_hash": "2a3dfdec166cae18806c99589f252bb99f51e2c066b6a3d32feedf269e521bb0"
+    },
+    {
+      "id": "llms_044",
+      "doc_order": 44,
+      "title": "LLMs",
+      "file": "044_docs_inference-providers.md",
+      "source_url": "https://huggingface.co/docs/inference-providers",
+      "content_hash": "54cedaa8bc731e849dc9c447e7ab044a0099f2fb0958da3c7314beb73447ed23"
+    },
+    {
+      "id": "llms_045",
+      "doc_order": 45,
+      "title": "LLMs",
+      "file": "045_docs_kernels.md",
+      "source_url": "https://huggingface.co/docs/kernels",
+      "content_hash": "2ff7c093a3d19a0c79d446bb7707ddb980e72c292b981123655c46321132fadb"
+    },
+    {
+      "id": "llms_046",
+      "doc_order": 46,
+      "title": "LLMs",
+      "file": "046_docs_leaderboards.md",
+      "source_url": "https://huggingface.co/docs/leaderboards",
+      "content_hash": "0eae6ddcd42dd71ea362d3d2191dcf15be19914b6e3aadace782b7b374907b59"
+    },
+    {
+      "id": "llms_047",
+      "doc_order": 47,
+      "title": "LLMs",
+      "file": "047_docs_lerobot.md",
+      "source_url": "https://huggingface.co/docs/lerobot",
+      "content_hash": "87807dc22ff82e7d21a5815fef83da39f2d6dd193f190484c3ab644ccbff0cc7"
+    },
+    {
+      "id": "llms_048",
+      "doc_order": 48,
+      "title": "LLMs",
+      "file": "048_docs_lighteval.md",
+      "source_url": "https://huggingface.co/docs/lighteval",
+      "content_hash": "5dfd3f96c1d622a6d1e19233460255e520e4927fd2b22efb7fb35e91131c24b5"
+    },
+    {
+      "id": "llms_049",
+      "doc_order": 49,
+      "title": "LLMs",
+      "file": "049_docs_microsoft-azure.md",
+      "source_url": "https://huggingface.co/docs/microsoft-azure",
+      "content_hash": "0ee33efd36c7ae3551d5c536ee4ac3b5b5dc66be8218438a7843a66dfe844fae"
+    },
+    {
+      "id": "llms_050",
+      "doc_order": 50,
+      "title": "LLMs",
+      "file": "050_docs_openenv.md",
+      "source_url": "https://huggingface.co/docs/openenv",
+      "content_hash": "fc5de4851d73f4a567b011fdaa385479765a62335f202b3c835325e22dfb1fe2"
+    },
+    {
+      "id": "llms_051",
+      "doc_order": 51,
+      "title": "LLMs",
+      "file": "051_docs_optimum.md",
+      "source_url": "https://huggingface.co/docs/optimum",
+      "content_hash": "930b7772c753504266d311332fedec421ba4fbcba4b6ae2a835e9e38b29a79e1"
+    },
+    {
+      "id": "llms_052",
+      "doc_order": 52,
+      "title": "LLMs",
+      "file": "052_docs_optimum-executorch.md",
+      "source_url": "https://huggingface.co/docs/optimum-executorch",
+      "content_hash": "c4adb1730e5583306357b8eabfd8f117f3991f118183258b59d6fce182abbc29"
+    },
+    {
+      "id": "llms_053",
+      "doc_order": 53,
+      "title": "LLMs",
+      "file": "053_docs_optimum-habana.md",
+      "source_url": "https://huggingface.co/docs/optimum-habana",
+      "content_hash": "94d4b3bebbe52e201834cf5de50de595ad756e3a6b1d7f3502785b8fd457cf39"
+    },
+    {
+      "id": "llms_054",
+      "doc_order": 54,
+      "title": "LLMs",
+      "file": "054_docs_optimum-intel.md",
+      "source_url": "https://huggingface.co/docs/optimum-intel",
+      "content_hash": "91f86536ea55dc3bc255094e784413b5173901e4892afc9a30554f753ccf1063"
+    },
+    {
+      "id": "llms_055",
+      "doc_order": 55,
+      "title": "LLMs",
+      "file": "055_docs_optimum-neuron.md",
+      "source_url": "https://huggingface.co/docs/optimum-neuron",
+      "content_hash": "a63230a3f45a54b32d37864bda885f143102ceac2d047a6984b6387215dc2819"
+    },
+    {
+      "id": "llms_056",
+      "doc_order": 56,
+      "title": "LLMs",
+      "file": "056_docs_optimum-tpu.md",
+      "source_url": "https://huggingface.co/docs/optimum-tpu",
+      "content_hash": "c226b6752a1c6e734eaac2c7cad53f5e04cb1a08684c56cdaf4bc88e0075b7d5"
+    },
+    {
+      "id": "llms_057",
+      "doc_order": 57,
+      "title": "LLMs",
+      "file": "057_docs_peft.md",
+      "source_url": "https://huggingface.co/docs/peft",
+      "content_hash": "6123c23129fe5137df31402b2e088aee984e6a0a469a00a95dc47a5dde52da30"
+    },
+    {
+      "id": "llms_058",
+      "doc_order": 58,
+      "title": "LLMs",
+      "file": "058_docs_reachy_mini.md",
+      "source_url": "https://huggingface.co/docs/reachy_mini",
+      "content_hash": "f7caa29f6151d9d4d9bc270d7f1461d38321d8478749f7cbb696d3da8a216a75"
+    },
+    {
+      "id": "llms_059",
+      "doc_order": 59,
+      "title": "LLMs",
+      "file": "059_docs_safetensors.md",
+      "source_url": "https://huggingface.co/docs/safetensors",
+      "content_hash": "743dae15e0338bf98d3e00fb7325160137da294d965f7abd486060127b808442"
+    },
+    {
+      "id": "llms_060",
+      "doc_order": 60,
+      "title": "LLMs",
+      "file": "060_docs_sagemaker.md",
+      "source_url": "https://huggingface.co/docs/sagemaker",
+      "content_hash": "53f3e3331e66ab83ea6615cf03628b6b712f8ff96025cae16081547447ae2985"
+    },
+    {
+      "id": "llms_061",
+      "doc_order": 61,
+      "title": "LLMs",
+      "file": "061_docs_setfit.md",
+      "source_url": "https://huggingface.co/docs/setfit",
+      "content_hash": "3ebe16233ba985cd0d275cff17bb470d74cd8013b74febd6f1fcf2527c6f2772"
+    },
+    {
+      "id": "llms_062",
+      "doc_order": 62,
+      "title": "LLMs",
+      "file": "062_models.md",
+      "source_url": "https://huggingface.co/models",
+      "content_hash": "175384b8dc83867389beabc77bacb15ef6f9149a9a047befd95d9bec4b91c872"
+    },
+    {
+      "id": "llms_063",
+      "doc_order": 63,
+      "title": "LLMs",
+      "file": "063_organizations.md",
+      "source_url": "https://huggingface.co/organizations",
+      "content_hash": "caf7f911a26c27ca7a5f2e305db6687732a7d11afb0b429e203018666dc20a6f"
+    },
+    {
+      "id": "llms_064",
+      "doc_order": 64,
+      "title": "LLMs",
+      "file": "064_pricing.md",
+      "source_url": "https://huggingface.co/pricing",
+      "content_hash": "e77d5655fcd55a0218289295e08b71e1b0ce4a3f53143244e73396bb0d17c06d"
+    },
+    {
+      "id": "llms_065",
+      "doc_order": 65,
+      "title": "LLMs",
+      "file": "065_privacy.md",
+      "source_url": "https://huggingface.co/privacy",
+      "content_hash": "009274d2d00dcb6d9369cc4b6402ff541bb789a352b05ed3a413668ff545d72a"
+    },
+    {
+      "id": "llms_066",
+      "doc_order": 66,
+      "title": "LLMs",
+      "file": "066_spaces.md",
+      "source_url": "https://huggingface.co/spaces",
+      "content_hash": "62d72bfab96b2dadcfbcb636af74a6a481a3c406b783881daf5a0353c1226ed1"
+    },
+    {
+      "id": "llms_067",
+      "doc_order": 67,
+      "title": "LLMs",
+      "file": "067_terms-of-service.md",
+      "source_url": "https://huggingface.co/terms-of-service",
+      "content_hash": "360af9df73fdbc04a2e0ed29b79be41cd70328c79e03a63c832960c49e0940a1"
+    }
+  ]
+}

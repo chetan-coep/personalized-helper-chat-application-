@@ -1,0 +1,806 @@
+{
+  "technology": "Prisma_ORM",
+  "category": "Backend_&_APIs",
+  "documents": [
+    {
+      "id": "prisma_orm_001",
+      "doc_order": 1,
+      "title": "Prisma ORM",
+      "file": "001_index.md",
+      "source_url": "https://www.prisma.io",
+      "content_hash": "01f30ad921262ccee133479b1a7691bf9e4e9222e6b00f09861e7dc2f16b1134"
+    },
+    {
+      "id": "prisma_orm_002",
+      "doc_order": 2,
+      "title": "Prisma ORM",
+      "file": "002_compute_guides.md",
+      "source_url": "https://www.prisma.io/compute/guides",
+      "content_hash": "e357762cb553de511e047986eb2fd4c126eca44fbe950993319285c6b24833f8"
+    },
+    {
+      "id": "prisma_orm_003",
+      "doc_order": 3,
+      "title": "Prisma ORM",
+      "file": "003_compute_ai-business-api-tool-calls.md",
+      "source_url": "https://www.prisma.io/compute/ai-business-api-tool-calls",
+      "content_hash": "41e9615e15acf28dc8a1f0e32d38a373e20d4907b0827c18b14724e61204d1f8"
+    },
+    {
+      "id": "prisma_orm_004",
+      "doc_order": 4,
+      "title": "Prisma ORM",
+      "file": "004_apollo.md",
+      "source_url": "https://www.prisma.io/apollo",
+      "content_hash": "0925d0966f8248570a523efce18831bb3fb2cc9f56b32e62a2fe6e58601e5d4f"
+    },
+    {
+      "id": "prisma_orm_005",
+      "doc_order": 5,
+      "title": "Prisma ORM",
+      "file": "005_apps.md",
+      "source_url": "https://www.prisma.io/apps",
+      "content_hash": "0ab8aeef5afabba9918bf4c27ca5c7c579391ddbba5719abe9da74ca6ea7975f"
+    },
+    {
+      "id": "prisma_orm_006",
+      "doc_order": 6,
+      "title": "Prisma ORM",
+      "file": "006_brand.md",
+      "source_url": "https://www.prisma.io/brand",
+      "content_hash": "8cb7a187cf6dceb965413e51c6e41949b3a1564e38accc683bd6dad513557a8c"
+    },
+    {
+      "id": "prisma_orm_007",
+      "doc_order": 7,
+      "title": "Prisma ORM",
+      "file": "007_brand-kit.md",
+      "source_url": "https://www.prisma.io/brand-kit",
+      "content_hash": "55bf696f6cedd2a6a0316aaec996e4596de4c0e8e692ef3d5639cf9f0dc38af3"
+    },
+    {
+      "id": "prisma_orm_008",
+      "doc_order": 8,
+      "title": "Prisma ORM",
+      "file": "008_brand_comparison.md",
+      "source_url": "https://www.prisma.io/brand/comparison",
+      "content_hash": "4805870cc2fb735f8783d29921b6228d73718a53eedae53bca842de308a0e888"
+    },
+    {
+      "id": "prisma_orm_009",
+      "doc_order": 9,
+      "title": "Prisma ORM",
+      "file": "009_brand_prisms.md",
+      "source_url": "https://www.prisma.io/brand/prisms",
+      "content_hash": "ceec71503bf5c99d0041ab1d38e4b3ae8ef9dfbc8dc822e375f3a8fc59c06ca7"
+    },
+    {
+      "id": "prisma_orm_010",
+      "doc_order": 10,
+      "title": "Prisma ORM",
+      "file": "010_brand_rays.md",
+      "source_url": "https://www.prisma.io/brand/rays",
+      "content_hash": "26a82a1457f50d742d45ccca1006c08bf414a3bdd57eb72d3f90079461a13ff2"
+    },
+    {
+      "id": "prisma_orm_011",
+      "doc_order": 11,
+      "title": "Prisma ORM",
+      "file": "011_changelog.md",
+      "source_url": "https://www.prisma.io/changelog",
+      "content_hash": "2c232c83c11a473014313be4325ea2d20a73a0f2dfcaa9c046c96f64c4c1d68a"
+    },
+    {
+      "id": "prisma_orm_012",
+      "doc_order": 12,
+      "title": "Prisma ORM",
+      "file": "012_changelog_2024-03-13.md",
+      "source_url": "https://www.prisma.io/changelog/2024-03-13",
+      "content_hash": "0dc3fc5a2aaaf3c43732d548268ae402c116d56bfd8fa76247773d3c63104541"
+    },
+    {
+      "id": "prisma_orm_013",
+      "doc_order": 13,
+      "title": "Prisma ORM",
+      "file": "013_changelog_2024-04-03.md",
+      "source_url": "https://www.prisma.io/changelog/2024-04-03",
+      "content_hash": "816022df14ac9031c11c513cefb73480f6ee08bc229e09515b8daec63342e099"
+    },
+    {
+      "id": "prisma_orm_014",
+      "doc_order": 14,
+      "title": "Prisma ORM",
+      "file": "014_changelog_2024-04-25.md",
+      "source_url": "https://www.prisma.io/changelog/2024-04-25",
+      "content_hash": "b8c99757cc518a135613cf91dcf64d12eab1d5ce4fe606ac0b2eece969e65fa8"
+    },
+    {
+      "id": "prisma_orm_015",
+      "doc_order": 15,
+      "title": "Prisma ORM",
+      "file": "015_changelog_2024-05-15.md",
+      "source_url": "https://www.prisma.io/changelog/2024-05-15",
+      "content_hash": "f6946652ddec53b022c317840e21010f56383685e20938ae2d7c5f3ec0109a6a"
+    },
+    {
+      "id": "prisma_orm_016",
+      "doc_order": 16,
+      "title": "Prisma ORM",
+      "file": "016_changelog_2024-06-06.md",
+      "source_url": "https://www.prisma.io/changelog/2024-06-06",
+      "content_hash": "bf20fc99c367bf0763961b5b3e6fee6f6bd8fc6a2acac6f2018ab4c879b23b2a"
+    },
+    {
+      "id": "prisma_orm_017",
+      "doc_order": 17,
+      "title": "Prisma ORM",
+      "file": "017_changelog_2024-06-27.md",
+      "source_url": "https://www.prisma.io/changelog/2024-06-27",
+      "content_hash": "a91db2145dd30e7434e50cc5b99171b4eac75013b19a3df23598a88e11f5e560"
+    },
+    {
+      "id": "prisma_orm_018",
+      "doc_order": 18,
+      "title": "Prisma ORM",
+      "file": "018_changelog_2024-07-18.md",
+      "source_url": "https://www.prisma.io/changelog/2024-07-18",
+      "content_hash": "8211129e774082b2bfc183e0b014b1322b8afe4db2cfbbc64cd901fe55f9479d"
+    },
+    {
+      "id": "prisma_orm_019",
+      "doc_order": 19,
+      "title": "Prisma ORM",
+      "file": "019_changelog_2024-08-08.md",
+      "source_url": "https://www.prisma.io/changelog/2024-08-08",
+      "content_hash": "38e43da90df6310bb0b143e8a0d3544f55c00cf06cb3c4c3f17cf18a16120a0d"
+    },
+    {
+      "id": "prisma_orm_020",
+      "doc_order": 20,
+      "title": "Prisma ORM",
+      "file": "020_changelog_2024-08-29.md",
+      "source_url": "https://www.prisma.io/changelog/2024-08-29",
+      "content_hash": "043c4f7557c1015dcc6dccbb3748be1238acf01f3d60238b72d5994efe073da9"
+    },
+    {
+      "id": "prisma_orm_021",
+      "doc_order": 21,
+      "title": "Prisma ORM",
+      "file": "021_changelog_2024-09-26.md",
+      "source_url": "https://www.prisma.io/changelog/2024-09-26",
+      "content_hash": "256a30e9f04047badeac215979d270560ad06297b6268f7e6220594f3e46d86c"
+    },
+    {
+      "id": "prisma_orm_022",
+      "doc_order": 22,
+      "title": "Prisma ORM",
+      "file": "022_changelog_2024-10-17.md",
+      "source_url": "https://www.prisma.io/changelog/2024-10-17",
+      "content_hash": "eb880e5c5fed8822c9003ec6b4f443f6349e9fd5537bb32adacbacafc37dbc63"
+    },
+    {
+      "id": "prisma_orm_023",
+      "doc_order": 23,
+      "title": "Prisma ORM",
+      "file": "023_changelog_2024-11-07.md",
+      "source_url": "https://www.prisma.io/changelog/2024-11-07",
+      "content_hash": "c7f3f472b7a767f2d6a913c58441fd2936e44dc643df7fc09039f5e4ce66c8c8"
+    },
+    {
+      "id": "prisma_orm_024",
+      "doc_order": 24,
+      "title": "Prisma ORM",
+      "file": "024_changelog_2024-11-28.md",
+      "source_url": "https://www.prisma.io/changelog/2024-11-28",
+      "content_hash": "66d8817975bd0ba67b9d8758660067b565509014dba2ee47811384d3a08f689a"
+    },
+    {
+      "id": "prisma_orm_025",
+      "doc_order": 25,
+      "title": "Prisma ORM",
+      "file": "025_changelog_2024-12-19.md",
+      "source_url": "https://www.prisma.io/changelog/2024-12-19",
+      "content_hash": "758a4a05b0f76618fbc5fe0551ec7b8b2d5e2d05e4bb5a9a82e359a08e46f462"
+    },
+    {
+      "id": "prisma_orm_026",
+      "doc_order": 26,
+      "title": "Prisma ORM",
+      "file": "026_changelog_2025-01-09.md",
+      "source_url": "https://www.prisma.io/changelog/2025-01-09",
+      "content_hash": "7b2eaca1f62ec33bb892e55109d6aa187b432ca75e57f144d9f09a9b8ab47755"
+    },
+    {
+      "id": "prisma_orm_027",
+      "doc_order": 27,
+      "title": "Prisma ORM",
+      "file": "027_changelog_2025-01-30.md",
+      "source_url": "https://www.prisma.io/changelog/2025-01-30",
+      "content_hash": "d13f16d37224336720a2a4b983a350d2c184876c6c7e4ae0d01168799e56ed21"
+    },
+    {
+      "id": "prisma_orm_028",
+      "doc_order": 28,
+      "title": "Prisma ORM",
+      "file": "028_changelog_2025-02-20.md",
+      "source_url": "https://www.prisma.io/changelog/2025-02-20",
+      "content_hash": "019aefe256514d07b1017421530c22419331de90b790e964127a77bb8fe7b018"
+    },
+    {
+      "id": "prisma_orm_029",
+      "doc_order": 29,
+      "title": "Prisma ORM",
+      "file": "029_changelog_2025-03-13.md",
+      "source_url": "https://www.prisma.io/changelog/2025-03-13",
+      "content_hash": "846fed2bf76b8bfe31caedc1b2c4b9985742ba5833523d4c4e3b1dd511d2c7ca"
+    },
+    {
+      "id": "prisma_orm_030",
+      "doc_order": 30,
+      "title": "Prisma ORM",
+      "file": "030_changelog_2025-04-10.md",
+      "source_url": "https://www.prisma.io/changelog/2025-04-10",
+      "content_hash": "f5d6106f0ac1c4d6f5eac4783b053cfb4678b1bf94ac40aafd0c3bd18a6b1318"
+    },
+    {
+      "id": "prisma_orm_031",
+      "doc_order": 31,
+      "title": "Prisma ORM",
+      "file": "031_changelog_2025-05-01.md",
+      "source_url": "https://www.prisma.io/changelog/2025-05-01",
+      "content_hash": "3983522f6c11967fc3ee94d9a10014f6f86265c3646793f3ac5219d4e4135641"
+    },
+    {
+      "id": "prisma_orm_032",
+      "doc_order": 32,
+      "title": "Prisma ORM",
+      "file": "032_changelog_2025-05-19.md",
+      "source_url": "https://www.prisma.io/changelog/2025-05-19",
+      "content_hash": "59111a4489fb01b88c37c500d1b7d7ed3d092efb5fbdc15ff0114301d83334bb"
+    },
+    {
+      "id": "prisma_orm_033",
+      "doc_order": 33,
+      "title": "Prisma ORM",
+      "file": "033_changelog_2025-06-05.md",
+      "source_url": "https://www.prisma.io/changelog/2025-06-05",
+      "content_hash": "9b746c03c3ff3391d7332208d6b14b6c17d5dc4f7ae6cd60ccdb8cb21e65de90"
+    },
+    {
+      "id": "prisma_orm_034",
+      "doc_order": 34,
+      "title": "Prisma ORM",
+      "file": "034_changelog_2025-06-17.md",
+      "source_url": "https://www.prisma.io/changelog/2025-06-17",
+      "content_hash": "6f1cbbf5acaa0390a825c57d5884216a1784431c688d3a0fd91ab219277a1851"
+    },
+    {
+      "id": "prisma_orm_035",
+      "doc_order": 35,
+      "title": "Prisma ORM",
+      "file": "035_changelog_2025-07-02.md",
+      "source_url": "https://www.prisma.io/changelog/2025-07-02",
+      "content_hash": "81643e296d4a0e3f2a0f72c5d611b835f7c26a37c20b91d8344deee2f477da08"
+    },
+    {
+      "id": "prisma_orm_036",
+      "doc_order": 36,
+      "title": "Prisma ORM",
+      "file": "036_changelog_2025-07-17.md",
+      "source_url": "https://www.prisma.io/changelog/2025-07-17",
+      "content_hash": "0ca30bc8a52e8e343afa57e7d06ed83aad74b627bc029b8045820663fc2df2dc"
+    },
+    {
+      "id": "prisma_orm_037",
+      "doc_order": 37,
+      "title": "Prisma ORM",
+      "file": "037_changelog_2025-07-30.md",
+      "source_url": "https://www.prisma.io/changelog/2025-07-30",
+      "content_hash": "917d5e365115120ab01708559f6c14e8c2afb53f553e1bab9b71d3648d0310ec"
+    },
+    {
+      "id": "prisma_orm_038",
+      "doc_order": 38,
+      "title": "Prisma ORM",
+      "file": "038_changelog_2025-08-13.md",
+      "source_url": "https://www.prisma.io/changelog/2025-08-13",
+      "content_hash": "45354f19fd764dc526c7f68b8ee30f747eb25dc2c23bd461ebc0d06046b72927"
+    },
+    {
+      "id": "prisma_orm_039",
+      "doc_order": 39,
+      "title": "Prisma ORM",
+      "file": "039_changelog_2025-08-27.md",
+      "source_url": "https://www.prisma.io/changelog/2025-08-27",
+      "content_hash": "e3fa085c5d7f04a1291bf88bfcdb034f2a425b324cd468abcd38fc0af72f59ad"
+    },
+    {
+      "id": "prisma_orm_040",
+      "doc_order": 40,
+      "title": "Prisma ORM",
+      "file": "040_changelog_2025-09-10.md",
+      "source_url": "https://www.prisma.io/changelog/2025-09-10",
+      "content_hash": "f89ad060b8a267bec4cc180a953239e6cba273f039f23ed86fd039daf9ed37ca"
+    },
+    {
+      "id": "prisma_orm_041",
+      "doc_order": 41,
+      "title": "Prisma ORM",
+      "file": "041_changelog_2025-10-08.md",
+      "source_url": "https://www.prisma.io/changelog/2025-10-08",
+      "content_hash": "379869a421f84abc5d396210ccf75414b27aaf1759aee3ddd80db8691f493e03"
+    },
+    {
+      "id": "prisma_orm_042",
+      "doc_order": 42,
+      "title": "Prisma ORM",
+      "file": "042_changelog_2025-10-22.md",
+      "source_url": "https://www.prisma.io/changelog/2025-10-22",
+      "content_hash": "ef09475480f64be7fa58cf8cbf4e612a4fe0c58b7773bc4a8e1034f5c9a2d390"
+    },
+    {
+      "id": "prisma_orm_043",
+      "doc_order": 43,
+      "title": "Prisma ORM",
+      "file": "043_changelog_2025-11-05.md",
+      "source_url": "https://www.prisma.io/changelog/2025-11-05",
+      "content_hash": "a6bf08d2479b5fff95f5f522423bc78edf3318d28cef008692df16bdeb298ded"
+    },
+    {
+      "id": "prisma_orm_044",
+      "doc_order": 44,
+      "title": "Prisma ORM",
+      "file": "044_changelog_2025-11-19.md",
+      "source_url": "https://www.prisma.io/changelog/2025-11-19",
+      "content_hash": "0d7cc15aea4582d7446008a6c59d5cc83e29e7550189cda8d61e02f6f6f0f1a1"
+    },
+    {
+      "id": "prisma_orm_045",
+      "doc_order": 45,
+      "title": "Prisma ORM",
+      "file": "045_changelog_2025-12-03.md",
+      "source_url": "https://www.prisma.io/changelog/2025-12-03",
+      "content_hash": "43e934073796d5b26c7a19af85677cf69ece3ace29ab8264e788568da2ace168"
+    },
+    {
+      "id": "prisma_orm_046",
+      "doc_order": 46,
+      "title": "Prisma ORM",
+      "file": "046_changelog_2025-12-17.md",
+      "source_url": "https://www.prisma.io/changelog/2025-12-17",
+      "content_hash": "4f5f06ea136d54308d7a8800d15f4b70f0b4393a0d7e8f2e9a238320cca9a122"
+    },
+    {
+      "id": "prisma_orm_047",
+      "doc_order": 47,
+      "title": "Prisma ORM",
+      "file": "047_changelog_2026-01-21.md",
+      "source_url": "https://www.prisma.io/changelog/2026-01-21",
+      "content_hash": "de1c0150cc8fa2a3cf414237e4363bf59b624079cc0ed7d2f268be817231339b"
+    },
+    {
+      "id": "prisma_orm_048",
+      "doc_order": 48,
+      "title": "Prisma ORM",
+      "file": "048_changelog_2026-02-11.md",
+      "source_url": "https://www.prisma.io/changelog/2026-02-11",
+      "content_hash": "b0335c63e17c4562552d31b985b278de87deefc28f0740c2ff458b4536c6a631"
+    },
+    {
+      "id": "prisma_orm_049",
+      "doc_order": 49,
+      "title": "Prisma ORM",
+      "file": "049_changelog_2026-02-19.md",
+      "source_url": "https://www.prisma.io/changelog/2026-02-19",
+      "content_hash": "e906814e9537ede8e621d4660890da61905d097ad0d069890de44c69f3bb1a63"
+    },
+    {
+      "id": "prisma_orm_050",
+      "doc_order": 50,
+      "title": "Prisma ORM",
+      "file": "050_changelog_2026-02-27.md",
+      "source_url": "https://www.prisma.io/changelog/2026-02-27",
+      "content_hash": "9821893fa5bf69a205ee0b3fe1b6db455bb2cfa9be7673e6d68aa7d1e0a525ab"
+    },
+    {
+      "id": "prisma_orm_051",
+      "doc_order": 51,
+      "title": "Prisma ORM",
+      "file": "051_changelog_2026-03-11.md",
+      "source_url": "https://www.prisma.io/changelog/2026-03-11",
+      "content_hash": "2d7ce499d7821c35a556924b695b6a2d4a7b20e39bfc2c4e8f668cf49ad294d7"
+    },
+    {
+      "id": "prisma_orm_052",
+      "doc_order": 52,
+      "title": "Prisma ORM",
+      "file": "052_changelog_2026-03-27.md",
+      "source_url": "https://www.prisma.io/changelog/2026-03-27",
+      "content_hash": "f311366e3d1dfdf6ee9409abc0894a26f403dc586ed610392f195978ef73f5ae"
+    },
+    {
+      "id": "prisma_orm_053",
+      "doc_order": 53,
+      "title": "Prisma ORM",
+      "file": "053_changelog_2026-04-07.md",
+      "source_url": "https://www.prisma.io/changelog/2026-04-07",
+      "content_hash": "d7027ca6b215cf5181fc56bd407f70b46d089eb02063bc2e216f6cc8e4abcb5b"
+    },
+    {
+      "id": "prisma_orm_054",
+      "doc_order": 54,
+      "title": "Prisma ORM",
+      "file": "054_changelog_2026-04-22.md",
+      "source_url": "https://www.prisma.io/changelog/2026-04-22",
+      "content_hash": "a2840fac09147c971a5c9c63341f3df63edff3190906f9c3bf3ba9684cb31cff"
+    },
+    {
+      "id": "prisma_orm_055",
+      "doc_order": 55,
+      "title": "Prisma ORM",
+      "file": "055_changelog_2026-04-27.md",
+      "source_url": "https://www.prisma.io/changelog/2026-04-27",
+      "content_hash": "4e403e9872ee9360952f9a68d91b871fbe34c391d5b9e0508912d500d7f57ad7"
+    },
+    {
+      "id": "prisma_orm_056",
+      "doc_order": 56,
+      "title": "Prisma ORM",
+      "file": "056_changelog_2026-05-15.md",
+      "source_url": "https://www.prisma.io/changelog/2026-05-15",
+      "content_hash": "395d09bdf76d2f4e7786bf0b22c33a3c53d544ed8e0ba4c8ce39058a0a0c5dbf"
+    },
+    {
+      "id": "prisma_orm_057",
+      "doc_order": 57,
+      "title": "Prisma ORM",
+      "file": "057_changelog_2026-05-19.md",
+      "source_url": "https://www.prisma.io/changelog/2026-05-19",
+      "content_hash": "fc750eb53f7e6c1b5d0eff9a3997f668b40920c633146e5fa6bfed645b5ce62b"
+    },
+    {
+      "id": "prisma_orm_058",
+      "doc_order": 58,
+      "title": "Prisma ORM",
+      "file": "058_changelog_2026-06-05.md",
+      "source_url": "https://www.prisma.io/changelog/2026-06-05",
+      "content_hash": "15a9ee529f8ef049941ed4027d8af4d7ec1a32b86b5847094ea17f8fa1576562"
+    },
+    {
+      "id": "prisma_orm_059",
+      "doc_order": 59,
+      "title": "Prisma ORM",
+      "file": "059_changelog_2026-06-11.md",
+      "source_url": "https://www.prisma.io/changelog/2026-06-11",
+      "content_hash": "253f529aa5dd2af9afd40053f5db23735e121019bf99866370fcdaec72b1692b"
+    },
+    {
+      "id": "prisma_orm_060",
+      "doc_order": 60,
+      "title": "Prisma ORM",
+      "file": "060_changelog_2026-06-19.md",
+      "source_url": "https://www.prisma.io/changelog/2026-06-19",
+      "content_hash": "a935d1d2faccd032fa73b48c87d51c74cce9c1fe15f55f0b53e163105c6e8d90"
+    },
+    {
+      "id": "prisma_orm_061",
+      "doc_order": 61,
+      "title": "Prisma ORM",
+      "file": "061_changelog_2026-06-24.md",
+      "source_url": "https://www.prisma.io/changelog/2026-06-24",
+      "content_hash": "56c61432a7e38788ee3065bf18b4901300ac1720fff182ae54a2e930cb23e634"
+    },
+    {
+      "id": "prisma_orm_062",
+      "doc_order": 62,
+      "title": "Prisma ORM",
+      "file": "062_changelog_2026-07-03.md",
+      "source_url": "https://www.prisma.io/changelog/2026-07-03",
+      "content_hash": "712dcc8509f6c180a1efe6abda862d7644273e09df51e388cfc50c86f5627cd9"
+    },
+    {
+      "id": "prisma_orm_063",
+      "doc_order": 63,
+      "title": "Prisma ORM",
+      "file": "063_changelog_2026-07-09.md",
+      "source_url": "https://www.prisma.io/changelog/2026-07-09",
+      "content_hash": "b645fc0ca6720f6536a8e5fe1bcb3a378f2e6ee390a7fbad5dc92cf0c3bd4b9b"
+    },
+    {
+      "id": "prisma_orm_064",
+      "doc_order": 64,
+      "title": "Prisma ORM",
+      "file": "064_changelog_2026-07-17.md",
+      "source_url": "https://www.prisma.io/changelog/2026-07-17",
+      "content_hash": "60ab31c8715f1c3e0611604656f0e658dd2fd38cd5c38ee48b901173ac1ed7c8"
+    },
+    {
+      "id": "prisma_orm_065",
+      "doc_order": 65,
+      "title": "Prisma ORM",
+      "file": "065_changelog_2026-07-24.md",
+      "source_url": "https://www.prisma.io/changelog/2026-07-24",
+      "content_hash": "62a1c875a8a3829f4ff4de3f9777084018d68b6cbcd580f04cbdbd3874b7ba0b"
+    },
+    {
+      "id": "prisma_orm_066",
+      "doc_order": 66,
+      "title": "Prisma ORM",
+      "file": "066_changelog_2026-08-02.md",
+      "source_url": "https://www.prisma.io/changelog/2026-08-02",
+      "content_hash": "cdce17272de5a17412f99aa4ddab1cbc418e305402be3237820b45a792dbf13c"
+    },
+    {
+      "id": "prisma_orm_067",
+      "doc_order": 67,
+      "title": "Prisma ORM",
+      "file": "067_changelog_2026-08-28.md",
+      "source_url": "https://www.prisma.io/changelog/2026-08-28",
+      "content_hash": "6da917181babf55411f436872a881b2ddc787c039adc95d20b34c68fd41af68e"
+    },
+    {
+      "id": "prisma_orm_068",
+      "doc_order": 68,
+      "title": "Prisma ORM",
+      "file": "068_changelog_2026-10-02.md",
+      "source_url": "https://www.prisma.io/changelog/2026-10-02",
+      "content_hash": "846a717faf119833e107120355676706595d51fd00b88145e414e388ff6db886"
+    },
+    {
+      "id": "prisma_orm_069",
+      "doc_order": 69,
+      "title": "Prisma ORM",
+      "file": "069_cockroachdb.md",
+      "source_url": "https://www.prisma.io/cockroachdb",
+      "content_hash": "a060a85e96e5f88a7d6807e334edc4d1dee5afbe9aad4e78f2809d58fc84e500"
+    },
+    {
+      "id": "prisma_orm_070",
+      "doc_order": 70,
+      "title": "Prisma ORM",
+      "file": "070_community.md",
+      "source_url": "https://www.prisma.io/community",
+      "content_hash": "6f6ee5605126dbc39e8c85bf1ca4998ebdfc3976427384864b38882186e9d400"
+    },
+    {
+      "id": "prisma_orm_071",
+      "doc_order": 71,
+      "title": "Prisma ORM",
+      "file": "071_company.md",
+      "source_url": "https://www.prisma.io/company",
+      "content_hash": "9ce85e2887334248a3141833b083d88cbab3f56378389058ff7052f9ec240489"
+    },
+    {
+      "id": "prisma_orm_072",
+      "doc_order": 72,
+      "title": "Prisma ORM",
+      "file": "072_company_careers.md",
+      "source_url": "https://www.prisma.io/company/careers",
+      "content_hash": "6d19b4bc8f68bb856ed8df0ace27a554bb735854a27b57ef7490f5e5ea92d1ea"
+    },
+    {
+      "id": "prisma_orm_073",
+      "doc_order": 73,
+      "title": "Prisma ORM",
+      "file": "073_compare.md",
+      "source_url": "https://www.prisma.io/compare",
+      "content_hash": "ac7722ed6c6aa4005c944c174923fb78b15d4fd67d253387da3063d1c3da672d"
+    },
+    {
+      "id": "prisma_orm_074",
+      "doc_order": 74,
+      "title": "Prisma ORM",
+      "file": "074_compare_convex.md",
+      "source_url": "https://www.prisma.io/compare/convex",
+      "content_hash": "91cea5b65bca77efba66adac2f7139de2d673996ccd4703dde62721e5abc8af7"
+    },
+    {
+      "id": "prisma_orm_075",
+      "doc_order": 75,
+      "title": "Prisma ORM",
+      "file": "075_compare_kysely.md",
+      "source_url": "https://www.prisma.io/compare/kysely",
+      "content_hash": "e41088d37e7ff8509454f9a3cda55e935da948d6860797e74d5ced0571e2434e"
+    },
+    {
+      "id": "prisma_orm_076",
+      "doc_order": 76,
+      "title": "Prisma ORM",
+      "file": "076_compare_mongoose.md",
+      "source_url": "https://www.prisma.io/compare/mongoose",
+      "content_hash": "f18dce1fdb869bfe45f6e6f3a7ed986a2298a3c01592c1480355c3c24ea08c07"
+    },
+    {
+      "id": "prisma_orm_077",
+      "doc_order": 77,
+      "title": "Prisma ORM",
+      "file": "077_compare_neon.md",
+      "source_url": "https://www.prisma.io/compare/neon",
+      "content_hash": "2b6b5e256bfa3615f4e36b2e6ed2ed78ccb5009016b6e38a04d58123d212643a"
+    },
+    {
+      "id": "prisma_orm_078",
+      "doc_order": 78,
+      "title": "Prisma ORM",
+      "file": "078_compare_planetscale.md",
+      "source_url": "https://www.prisma.io/compare/planetscale",
+      "content_hash": "70a462ffdc6744baeec57840c364c346d2e77264d21607ba992d0e24460ed7c8"
+    },
+    {
+      "id": "prisma_orm_079",
+      "doc_order": 79,
+      "title": "Prisma ORM",
+      "file": "079_compare_supabase.md",
+      "source_url": "https://www.prisma.io/compare/supabase",
+      "content_hash": "e5ee0aae2bea5ced9ae7723c1d26bcdc6d970b810933c9c7f1a3a1d7def0cfec"
+    },
+    {
+      "id": "prisma_orm_080",
+      "doc_order": 80,
+      "title": "Prisma ORM",
+      "file": "080_compare_vercel-neon-drizzle.md",
+      "source_url": "https://www.prisma.io/compare/vercel-neon-drizzle",
+      "content_hash": "e5c440960e623ba5a8112972a11df1dc4b15cca56a45a5477864f91b479cf43d"
+    },
+    {
+      "id": "prisma_orm_081",
+      "doc_order": 81,
+      "title": "Prisma ORM",
+      "file": "081_compute.md",
+      "source_url": "https://www.prisma.io/compute",
+      "content_hash": "6f4bc690a6a3e2ffb22a03c5432c84f17fa7667af9da8a90b13dde4b1469093b"
+    },
+    {
+      "id": "prisma_orm_082",
+      "doc_order": 82,
+      "title": "Prisma ORM",
+      "file": "082_compute_ai-assistant-conversation-history.md",
+      "source_url": "https://www.prisma.io/compute/ai-assistant-conversation-history",
+      "content_hash": "71adf7aad6ec39f16e868575ce88d6f89d3f369e4c09c6aaefbebe86f9400546"
+    },
+    {
+      "id": "prisma_orm_083",
+      "doc_order": 83,
+      "title": "Prisma ORM",
+      "file": "083_compute_ai-chat-timeout-streaming.md",
+      "source_url": "https://www.prisma.io/compute/ai-chat-timeout-streaming",
+      "content_hash": "dbc7918fd49b779bddecb121bf4c513c5ad46c237d4eb139aa40c181d9eddb11"
+    },
+    {
+      "id": "prisma_orm_084",
+      "doc_order": 84,
+      "title": "Prisma ORM",
+      "file": "084_compute_ai-usage-credits.md",
+      "source_url": "https://www.prisma.io/compute/ai-usage-credits",
+      "content_hash": "a65efdfd7a3914977bc17d1aaa5d180ae9e97365467450e7eba7c11fcd2289c9"
+    },
+    {
+      "id": "prisma_orm_085",
+      "doc_order": 85,
+      "title": "Prisma ORM",
+      "file": "085_compute_app-database-health-checks.md",
+      "source_url": "https://www.prisma.io/compute/app-database-health-checks",
+      "content_hash": "7f821a891e3dc5bc14c8921faeef87d8c009c8fd46cacf7753bee6aa429abae3"
+    },
+    {
+      "id": "prisma_orm_086",
+      "doc_order": 86,
+      "title": "Prisma ORM",
+      "file": "086_compute_bolt-lovable-export-hosting.md",
+      "source_url": "https://www.prisma.io/compute/bolt-lovable-export-hosting",
+      "content_hash": "7c5df80a97de4c365453fb26ceb4cb14b8424fcf67822191e35a724d169882d9"
+    },
+    {
+      "id": "prisma_orm_087",
+      "doc_order": 87,
+      "title": "Prisma ORM",
+      "file": "087_compute_business-app-operations.md",
+      "source_url": "https://www.prisma.io/compute/business-app-operations",
+      "content_hash": "135210851d8ee8ef01fa4d5c4157078b94e3c63b1ed8b63d4282638ef356674d"
+    },
+    {
+      "id": "prisma_orm_088",
+      "doc_order": 88,
+      "title": "Prisma ORM",
+      "file": "088_compute_cursor-typescript-app-hosting.md",
+      "source_url": "https://www.prisma.io/compute/cursor-typescript-app-hosting",
+      "content_hash": "a7a918659fdd474c5d01fc881c275a146e38259ecd96c32f63886c751e4b5fcb"
+    },
+    {
+      "id": "prisma_orm_089",
+      "doc_order": 89,
+      "title": "Prisma ORM",
+      "file": "089_compute_custom-domain-not-working.md",
+      "source_url": "https://www.prisma.io/compute/custom-domain-not-working",
+      "content_hash": "14849a87b0f691763f10aebe7cf295f76a0217a9975b6ff835c493957c1b8fad"
+    },
+    {
+      "id": "prisma_orm_090",
+      "doc_order": 90,
+      "title": "Prisma ORM",
+      "file": "090_compute_customer-report-hosting.md",
+      "source_url": "https://www.prisma.io/compute/customer-report-hosting",
+      "content_hash": "a3715b8d1404d14e9a7d977b27da7db0b592e8cbae78db74fb2dafd64c71dc03"
+    },
+    {
+      "id": "prisma_orm_091",
+      "doc_order": 91,
+      "title": "Prisma ORM",
+      "file": "091_compute_deployment-handoff-checks.md",
+      "source_url": "https://www.prisma.io/compute/deployment-handoff-checks",
+      "content_hash": "a6d476a5ecb1523b2a79398bad8ce6d08cbc567f133e3e6bbe78f97ca11e42fc"
+    },
+    {
+      "id": "prisma_orm_092",
+      "doc_order": 92,
+      "title": "Prisma ORM",
+      "file": "092_compute_discord-slack-bot-postgres.md",
+      "source_url": "https://www.prisma.io/compute/discord-slack-bot-postgres",
+      "content_hash": "d0aa082315ce84a796d86c0d405e0eb192ff5e5e2e5d68815f0b126fcb7dd9f6"
+    },
+    {
+      "id": "prisma_orm_093",
+      "doc_order": 93,
+      "title": "Prisma ORM",
+      "file": "093_compute_file-uploads-disappear-after-redeploy.md",
+      "source_url": "https://www.prisma.io/compute/file-uploads-disappear-after-redeploy",
+      "content_hash": "51ac5ea7effa840089574a4be8b3929e71138b6e4d9b400bf3a8fd14122bb789"
+    },
+    {
+      "id": "prisma_orm_094",
+      "doc_order": 94,
+      "title": "Prisma ORM",
+      "file": "094_compute_from-dev-server-to-production.md",
+      "source_url": "https://www.prisma.io/compute/from-dev-server-to-production",
+      "content_hash": "971dba9afd4e54dd1a3840c106f7175cf1a7f72b4838c6cfe19f52fec7cc93fd"
+    },
+    {
+      "id": "prisma_orm_095",
+      "doc_order": 95,
+      "title": "Prisma ORM",
+      "file": "095_compute_long-running-background-jobs.md",
+      "source_url": "https://www.prisma.io/compute/long-running-background-jobs",
+      "content_hash": "4730ae154953d285367536179b75ed0a424820f398fa7bd61924e047dadc19fb"
+    },
+    {
+      "id": "prisma_orm_096",
+      "doc_order": 96,
+      "title": "Prisma ORM",
+      "file": "096_compute_missing-environment-variables-after-deploy.md",
+      "source_url": "https://www.prisma.io/compute/missing-environment-variables-after-deploy",
+      "content_hash": "07ff330c5331629f32080cfbf5487348c38eded1a8204e747f69b5acad83b7b1"
+    },
+    {
+      "id": "prisma_orm_097",
+      "doc_order": 97,
+      "title": "Prisma ORM",
+      "file": "097_compute_multi-user-inventory-app.md",
+      "source_url": "https://www.prisma.io/compute/multi-user-inventory-app",
+      "content_hash": "f41df3149a51d6f86aa78e4510f4fc67765577dd10d8f33c84861ca5e58aa16d"
+    },
+    {
+      "id": "prisma_orm_098",
+      "doc_order": 98,
+      "title": "Prisma ORM",
+      "file": "098_compute_multiple-business-apps.md",
+      "source_url": "https://www.prisma.io/compute/multiple-business-apps",
+      "content_hash": "17c5e342409f2c9e51aeaa2d3726f978bffe961d21d4e657f3062282b3600901"
+    },
+    {
+      "id": "prisma_orm_099",
+      "doc_order": 99,
+      "title": "Prisma ORM",
+      "file": "099_compute_nextjs-form-submissions.md",
+      "source_url": "https://www.prisma.io/compute/nextjs-form-submissions",
+      "content_hash": "a65b4a0b723a54daee6657bec94fae885265f5deac69051f8fca9797184d5de4"
+    },
+    {
+      "id": "prisma_orm_100",
+      "doc_order": 100,
+      "title": "Prisma ORM",
+      "file": "100_compute_nextjs-stripe-subscriptions.md",
+      "source_url": "https://www.prisma.io/compute/nextjs-stripe-subscriptions",
+      "content_hash": "c3cc84f6cc0d7d39623999f00de28633c67b780e4ce56d42a6627a779d7f4272"
+    }
+  ]
+}

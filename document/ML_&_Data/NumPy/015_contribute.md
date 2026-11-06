@@ -1,0 +1,106 @@
+---
+id: "numpy_015"
+technology: "NumPy"
+category: "ML & Data"
+title: "NumPy"
+doc_order: 15
+source_url: "https://numpy.org/contribute"
+language: "en"
+retrieved_at: "2026-11-01 22:37:12"
+content_hash: "3f94e5844c7e703129a44d1883aeaaa49d848e95836894a4db9676c28f3d7738"
+---
+
+# NumPy
+
+Source: https://numpy.org/contribute
+
+---
+
+The NumPy project welcomes your expertise and enthusiasm!
+Your choices aren’t limited to programming, as you can
+see below there are many areas where we need **your** help.
+
+If you’re unsure where to start or how your skills fit in, *reach out!* You
+can ask on the [mailing
+list](https://mail.python.org/mailman/listinfo/numpy-discussion) or
+[GitHub](https://github.com/numpy/numpy) (open an
+[issue](https://github.com/numpy/numpy/issues) or comment on a relevant
+issue).
+
+Those are our preferred channels (open source is open by nature). We also
+recognize that reaching out in public can feel a little daunting,
+if you are new to the project or to open source. If you’d feel more comfortable
+starting with a private conversation, you are welcome to reach out to our
+active maintainers via [\[email protected\]](https://numpy.org/cdn-cgi/l/email-protection#6a041f071a13471e0f0b072a0d05050d060f0d18051f1a1944090507) or on
+[Slack](https://numpy-team.slack.com)
+(ask for an invite via [\[email protected\]](https://numpy.org/cdn-cgi/l/email-protection#dbb5aeb6aba2f6afbebab69bbcb4b4bcb7bebca9b4aeaba8f5b8b4b6)).
+
+We also have *community* and *triage* meetings, alternating weekly on
+Wednesdays; see the [community
+calendar](https://scientific-python.org/calendars/) for times. We announce
+the meetings on the [mailing
+list](https://mail.python.org/mailman/listinfo/numpy-discussion) as well.
+You are welcome and encouraged to join.
+
+If you are new to contributing to open source, we highly recommend reading
+[this guide](https://opensource.guide/how-to-contribute/).
+
+Our community aspires to treat everyone equally and to value all
+contributions. We have a [Code of Conduct](https://numpy.org/code-of-conduct/) to foster an open
+and welcoming environment.
+
+For a visual guide on how to contribute to NumPy, check out this [comic](https://heyzine.com/flip-book/3e66a13901.html).
+
+Programmers, this
+[guide](https://numpy.org/devdocs/dev/index.html#development-process-summary)
+explains how to contribute to the NumPy codebase.
+Note that non-maintainers may only have two non-draft pull requests open for
+review at a time. Come introduce yourself at a community or triage meeting
+to be added to the exception list for the two-PRs-at-a-time policy.
+
+Check out also our [YouTube channel](https://www.youtube.com/playlist?list=PLCK6zCrcN3GXBUUzDr9L4__LnXZVtaIzS) for additional advice.
+
+The project has more than 250 open pull requests – meaning many potential improvements and many open-source contributors waiting for feedback. If you’re a developer who knows NumPy, you can help even if you’re not familiar with the codebase. You can:
+
+NumPy’s [User Guide](https://numpy.org/devdocs) is undergoing rehabilitation.
+We’re in need of new tutorials, how-to’s, and deep-dive explanations, and the
+site needs restructuring. Opportunities aren’t limited to writers. We’d also
+welcome worked examples, notebooks, and videos. [NEP 44 — Restructuring the
+NumPyDocumentation](https://numpy.org/neps/nep-0044-restructuring-numpy-docs.html)
+lays out our ideas – and you may have others.
+
+The [NumPy issue tracker](https://github.com/numpy/numpy/issues) has a *lot*
+of open issues. Some are no longer valid, some should be prioritized, and some
+would make good issues for new contributors. You can:
+
+Please just dive in.
+
+We’ve just revamped our website, but we’re far from done. If you love web
+development, these
+[issues](https://github.com/numpy/numpy.org/issues?q=is%3Aissue+is%3Aopen+label%3Adesign)
+list some of our unmet needs – and feel free to share your own ideas.
+
+We can barely begin to list the contributions a graphic designer can make here. Our docs are parched for illustration; our growing website craves images – opportunities abound.
+
+We are working on translating [numpy.org](https://numpy.org) into multiple languages to make
+its content more accessible to NumPy users all over the globe. (See
+[NEP 28](https://numpy.org/neps/nep-0028-website-redesign.html#translation-multilingual-i18n)
+for background.) Volunteer translators are at the heart of this effort. If you’d like to help,
+join the *translation* channel on the
+[Scientific Python Discord server](https://discord.com/invite/vur45CbwMz).
+
+To get familiar with our translation process, read the guide
+[How to translate content using Crowdin](https://scientific-python-translations.github.io/translate/).
+
+Through community contact we share our work more widely and learn where we’re
+falling short. We’re eager to get more people involved in efforts like organizing NumPy [code
+sprints](https://scisprints.github.io/), a newsletter, and perhaps a blog.
+
+For many years, NumPy was maintained by dedicated volunteers, but as its importance grew it
+became clear that to ensure stability and growth we would need financial support.
+[This SciPy'19 talk](https://www.youtube.com/watch?v=dBTJD_FDVjU) explains how much difference
+that support has made. Like most nonprofits, we are constantly seeking grants, sponsorships,
+and other kinds of funding. We have a number of ideas and of course we welcome more.
+Fundraising is a scarce skill here – we’d appreciate your help.
+
+If you’d like to contribute to NumPy by making a donation, visit [https://numpy.org/about/#donate](https://numpy.org/about/#donate).

@@ -1,0 +1,558 @@
+{
+  "category": "ML_&_Data",
+  "technology": "scikit-learn",
+  "total_points": 29,
+  "points": [
+    {
+      "id": "5ff32843-4986-551e-b2d2-e05e9e2f941a",
+      "payload": {
+        "point_id": "5ff32843-4986-551e-b2d2-e05e9e2f941a",
+        "doc_id": "scikit-learn_001",
+        "doc_order": 1,
+        "chunk_index": 0,
+        "total_chunks": 3,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "scikit-learn: machine learning in Python \u2014 scikit-learn 1.9.1 documentation",
+        "section": "scikit-learn: machine learning in Python \u2014 scikit-learn 1.9.1 documentation",
+        "breadcrumb": "scikit-learn: machine learning in Python \u2014 scikit-learn 1.9.1 documentation",
+        "source_url": "https://scikit-learn.org/stable",
+        "content": "## scikit-learn: machine learning in Python \u2014 scikit-learn 1.9.1 documentation\n\nSource: https://scikit-learn.org/stable\n\n---\n\nIdentifying which category an object belongs to.\n\n**Applications:** Spam detection, image recognition.\n            **Algorithms:**\n            [Gradient boosting](https://scikit-learn.org/modules/ensemble.html#histogram-based-gradient-boosting),\n            [nearest neighbors](https://scikit-learn.org/modules/neighbors.html#classification),\n            [random forest](https://scikit-learn.org/modules/ensemble.html#forest),\n            [logistic regression](https://scikit-learn.org/modules/linear_model.html#logistic-regression),\n            and [more...](https://scikit-learn.org/supervised_learning.html)\n\n[Examples](https://scikit-learn.org/auto_examples/classification/index.html)\n\nPredicting a continuous-valued attribute associated with an object.\n\n**Applications:** Drug response, stock prices.\n            **Algorithms:**\n            [Gradient boosting](https://scikit-learn.org/modules/ensemble.html#histogram-based-gradient-boosting),\n            [nearest neighbors](https://scikit-learn.org/modules/neighbors.html#regression),\n            [random forest](https://scikit-learn.org/modules/ensemble.html#forest),\n            [ridge](https://scikit-learn.org/modules/linear_model.html#ridge-regression-and-classification),\n            and [more...](https://scikit-learn.org/supervised_learning.html)\n\n[Examples](https://scikit-learn.org/auto_examples/index.html)\n\nAutomatic grouping of similar objects into sets.\n\n**Applications:** Customer segmentation, grouping experiment outcomes.\n            **Algorithms:**\n            [k-Means](https://scikit-learn.org/modules/clustering.html#k-means),",
+        "char_count": 1731,
+        "token_estimate": 432
+      }
+    },
+    {
+      "id": "fbec493e-60cf-5aa8-b87e-6e81823d1344",
+      "payload": {
+        "point_id": "fbec493e-60cf-5aa8-b87e-6e81823d1344",
+        "doc_id": "scikit-learn_001",
+        "doc_order": 1,
+        "chunk_index": 1,
+        "total_chunks": 3,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "scikit-learn: machine learning in Python \u2014 scikit-learn 1.9.1 documentation",
+        "section": "scikit-learn: machine learning in Python \u2014 scikit-learn 1.9.1 documentation",
+        "breadcrumb": "scikit-learn: machine learning in Python \u2014 scikit-learn 1.9.1 documentation",
+        "source_url": "https://scikit-learn.org/stable",
+        "content": "Automatic grouping of similar objects into sets.\n\n**Applications:** Customer segmentation, grouping experiment outcomes.\n            **Algorithms:**\n            [k-Means](https://scikit-learn.org/modules/clustering.html#k-means),\n            [HDBSCAN](https://scikit-learn.org/modules/clustering.html#hdbscan),\n            [hierarchical clustering](https://scikit-learn.org/modules/clustering.html#hierarchical-clustering),\n            and [more...](https://scikit-learn.org/modules/clustering.html)\n\n[Examples](https://scikit-learn.org/auto_examples/cluster/index.html)\n\nReducing the number of random variables to consider.\n\n**Applications:** Visualization, increased efficiency.\n            **Algorithms:**\n            [PCA](https://scikit-learn.org/modules/decomposition.html#pca),\n            [feature selection](https://scikit-learn.org/modules/feature_selection.html#feature-selection),\n            [non-negative matrix factorization](https://scikit-learn.org/modules/decomposition.html#nmf),\n            and [more...](https://scikit-learn.org/modules/decomposition.html)\n\n[Examples](https://scikit-learn.org/auto_examples/decomposition/index.html)\n\nComparing, validating and choosing parameters and models.\n\n**Applications:** Improved accuracy via parameter tuning.\n            **Algorithms:**\n            [Grid search](https://scikit-learn.org/modules/grid_search.html),\n            [cross validation](https://scikit-learn.org/modules/cross_validation.html),\n            [metrics](https://scikit-learn.org/modules/model_evaluation.html),\n            and [more...](https://scikit-learn.org/model_selection.html)\n\n[Examples](https://scikit-learn.org/auto_examples/model_selection/index.html)\n\nFeature extraction and normalization.",
+        "char_count": 1736,
+        "token_estimate": 434
+      }
+    },
+    {
+      "id": "8c09a356-a420-5f66-a28c-c15380fe9e45",
+      "payload": {
+        "point_id": "8c09a356-a420-5f66-a28c-c15380fe9e45",
+        "doc_id": "scikit-learn_001",
+        "doc_order": 1,
+        "chunk_index": 2,
+        "total_chunks": 3,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "scikit-learn: machine learning in Python \u2014 scikit-learn 1.9.1 documentation",
+        "section": "scikit-learn: machine learning in Python \u2014 scikit-learn 1.9.1 documentation",
+        "breadcrumb": "scikit-learn: machine learning in Python \u2014 scikit-learn 1.9.1 documentation",
+        "source_url": "https://scikit-learn.org/stable",
+        "content": "and [more...](https://scikit-learn.org/model_selection.html)\n\n[Examples](https://scikit-learn.org/auto_examples/model_selection/index.html)\n\nFeature extraction and normalization.\n\n**Applications:** Transforming input data such as text for use with machine learning algorithms.\n            **Algorithms:**\n            [Preprocessing](https://scikit-learn.org/modules/preprocessing.html),\n            [feature extraction](https://scikit-learn.org/modules/feature_extraction.html),\n            and [more...](https://scikit-learn.org/modules/preprocessing.html)\n\n[Examples](https://scikit-learn.org/auto_examples/preprocessing/index.html)",
+        "char_count": 634,
+        "token_estimate": 158
+      }
+    },
+    {
+      "id": "b101eb28-752b-52a6-8f6f-e13a6de70c5d",
+      "payload": {
+        "point_id": "b101eb28-752b-52a6-8f6f-e13a6de70c5d",
+        "doc_id": "scikit-learn_002",
+        "doc_order": 2,
+        "chunk_index": 0,
+        "total_chunks": 13,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline)",
+        "section": "Pipelines and Feature Preprocessing in scikit-learn",
+        "breadcrumb": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline) > Pipelines and Feature Preprocessing in scikit-learn",
+        "source_url": "https://scikit-learn.org/stable/modules/compose.html#pipeline",
+        "content": "## Pipelines and Feature Preprocessing in scikit-learn\n\nSource: https://scikit-learn.org/stable/modules/compose.html#pipeline\n\n---",
+        "char_count": 130,
+        "token_estimate": 32
+      }
+    },
+    {
+      "id": "d7999105-214f-5bb5-9088-efaa26a147ca",
+      "payload": {
+        "point_id": "d7999105-214f-5bb5-9088-efaa26a147ca",
+        "doc_id": "scikit-learn_002",
+        "doc_order": 2,
+        "chunk_index": 1,
+        "total_chunks": 13,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline)",
+        "section": "What is a Pipeline in scikit-learn",
+        "breadcrumb": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline) > Pipelines and Feature Preprocessing in scikit-learn > What is a Pipeline in scikit-learn",
+        "source_url": "https://scikit-learn.org/stable/modules/compose.html#pipeline",
+        "content": "## What is a Pipeline in scikit-learn\n\nA `Pipeline` sequentially applies a list of transformers to preprocess data before passing it to a final estimator (such as a classifier or regressor). Intermediate steps must implement both `fit` and `transform` methods, while the final estimator only requires `fit` (and optionally `predict` or `predict_proba`).",
+        "char_count": 353,
+        "token_estimate": 88
+      }
+    },
+    {
+      "id": "8c9ce9d0-e090-50f4-ba5f-842d7856dba7",
+      "payload": {
+        "point_id": "8c9ce9d0-e090-50f4-ba5f-842d7856dba7",
+        "doc_id": "scikit-learn_002",
+        "doc_order": 2,
+        "chunk_index": 2,
+        "total_chunks": 13,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline)",
+        "section": "Why Use Pipelines",
+        "breadcrumb": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline) > Pipelines and Feature Preprocessing in scikit-learn > Why Use Pipelines",
+        "source_url": "https://scikit-learn.org/stable/modules/compose.html#pipeline",
+        "content": "## Why Use Pipelines\n\n- **Prevents Data Leakage**: Transformers are fit exclusively on training folds during cross-validation, avoiding leakage from the test or validation set.\n- **Unified Workflow**: You only need to call `fit` and `predict` once on the entire sequence of preprocessing and modeling steps.\n- **Convenient Hyperparameter Tuning**: You can grid-search over parameters of all transformers and estimators simultaneously using `GridSearchCV`.\n\n---",
+        "char_count": 460,
+        "token_estimate": 115
+      }
+    },
+    {
+      "id": "4c07ab6a-f35e-5e7c-b4e8-e4de12093edd",
+      "payload": {
+        "point_id": "4c07ab6a-f35e-5e7c-b4e8-e4de12093edd",
+        "doc_id": "scikit-learn_002",
+        "doc_order": 2,
+        "chunk_index": 3,
+        "total_chunks": 13,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline)",
+        "section": "How to Chain Feature Scaling and Logistic Regression in scikit-learn",
+        "breadcrumb": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline) > Pipelines and Feature Preprocessing in scikit-learn > How to Chain Feature Scaling and Logistic Regression in scikit-learn",
+        "source_url": "https://scikit-learn.org/stable/modules/compose.html#pipeline",
+        "content": "## How to Chain Feature Scaling and Logistic Regression in scikit-learn\n\nTo chain feature scaling (`StandardScaler`) and a classification model (`LogisticRegression`) together:\n\n```python\nfrom sklearn.pipeline import Pipeline\nfrom sklearn.preprocessing import StandardScaler\nfrom sklearn.linear_model import LogisticRegression\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.datasets import make_classification",
+        "char_count": 428,
+        "token_estimate": 107
+      }
+    },
+    {
+      "id": "b79f6251-bb67-50c6-b8cd-4c536fb61eb3",
+      "payload": {
+        "point_id": "b79f6251-bb67-50c6-b8cd-4c536fb61eb3",
+        "doc_id": "scikit-learn_002",
+        "doc_order": 2,
+        "chunk_index": 4,
+        "total_chunks": 13,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline)",
+        "section": "1. Generate sample classification dataset",
+        "breadcrumb": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline) > 1. Generate sample classification dataset",
+        "source_url": "https://scikit-learn.org/stable/modules/compose.html#pipeline",
+        "content": "## 1. Generate sample classification dataset\n\nX, y = make_classification(n_samples=1000, n_features=10, random_state=42)\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)",
+        "char_count": 210,
+        "token_estimate": 52
+      }
+    },
+    {
+      "id": "2139cd9c-f6de-54e1-9a6a-9deee4929a1f",
+      "payload": {
+        "point_id": "2139cd9c-f6de-54e1-9a6a-9deee4929a1f",
+        "doc_id": "scikit-learn_002",
+        "doc_order": 2,
+        "chunk_index": 5,
+        "total_chunks": 13,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline)",
+        "section": "2. Define the Pipeline with named steps",
+        "breadcrumb": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline) > 2. Define the Pipeline with named steps",
+        "source_url": "https://scikit-learn.org/stable/modules/compose.html#pipeline",
+        "content": "## 2. Define the Pipeline with named steps\n\npipeline = Pipeline([\n    ('scaler', StandardScaler()),\n    ('classifier', LogisticRegression(max_iter=1000, random_state=42))\n])",
+        "char_count": 173,
+        "token_estimate": 43
+      }
+    },
+    {
+      "id": "0246eef0-8626-5c6a-acf5-0b69093495c7",
+      "payload": {
+        "point_id": "0246eef0-8626-5c6a-acf5-0b69093495c7",
+        "doc_id": "scikit-learn_002",
+        "doc_order": 2,
+        "chunk_index": 6,
+        "total_chunks": 13,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline)",
+        "section": "3. Fit pipeline on training data (scaler fits & transforms, then classifier fits)",
+        "breadcrumb": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline) > 3. Fit pipeline on training data (scaler fits & transforms, then classifier fits)",
+        "source_url": "https://scikit-learn.org/stable/modules/compose.html#pipeline",
+        "content": "## 3. Fit pipeline on training data (scaler fits & transforms, then classifier fits)\n\npipeline.fit(X_train, y_train)",
+        "char_count": 116,
+        "token_estimate": 29
+      }
+    },
+    {
+      "id": "fa090d67-226f-55f9-a090-429ab0b30e72",
+      "payload": {
+        "point_id": "fa090d67-226f-55f9-a090-429ab0b30e72",
+        "doc_id": "scikit-learn_002",
+        "doc_order": 2,
+        "chunk_index": 7,
+        "total_chunks": 13,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline)",
+        "section": "4. Predict on new test data (scaler transforms automatically, then classifier predicts)",
+        "breadcrumb": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline) > 4. Predict on new test data (scaler transforms automatically, then classifier predicts)",
+        "source_url": "https://scikit-learn.org/stable/modules/compose.html#pipeline",
+        "content": "## 4. Predict on new test data (scaler transforms automatically, then classifier predicts)\n\ny_pred = pipeline.predict(X_test)",
+        "char_count": 125,
+        "token_estimate": 31
+      }
+    },
+    {
+      "id": "5e3d3371-e009-5f9b-8767-de040354b8c8",
+      "payload": {
+        "point_id": "5e3d3371-e009-5f9b-8767-de040354b8c8",
+        "doc_id": "scikit-learn_002",
+        "doc_order": 2,
+        "chunk_index": 8,
+        "total_chunks": 13,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline)",
+        "section": "5. Evaluate accuracy score",
+        "breadcrumb": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline) > 5. Evaluate accuracy score",
+        "source_url": "https://scikit-learn.org/stable/modules/compose.html#pipeline",
+        "content": "## 5. Evaluate accuracy score\n\naccuracy = pipeline.score(X_test, y_test)\nprint(f\"Test Accuracy: {accuracy:.4f}\")\n```\n\nAlternatively, you can use the `make_pipeline` shortcut which automatically generates step names based on class names:\n\n```python\nfrom sklearn.pipeline import make_pipeline\nfrom sklearn.preprocessing import StandardScaler\nfrom sklearn.linear_model import LogisticRegression\n\npipe = make_pipeline(StandardScaler(), LogisticRegression())\npipe.fit(X_train, y_train)\n```\n\n---",
+        "char_count": 489,
+        "token_estimate": 122
+      }
+    },
+    {
+      "id": "afc73826-ff3f-51f2-842d-2dada2a2916b",
+      "payload": {
+        "point_id": "afc73826-ff3f-51f2-842d-2dada2a2916b",
+        "doc_id": "scikit-learn_002",
+        "doc_order": 2,
+        "chunk_index": 9,
+        "total_chunks": 13,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline)",
+        "section": "Accessing and Tuning Pipeline Steps",
+        "breadcrumb": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline) > 5. Evaluate accuracy score > Accessing and Tuning Pipeline Steps",
+        "source_url": "https://scikit-learn.org/stable/modules/compose.html#pipeline",
+        "content": "## Accessing and Tuning Pipeline Steps\n\nYou can access individual steps using the `named_steps` dictionary attribute:\n\n```python",
+        "char_count": 128,
+        "token_estimate": 32
+      }
+    },
+    {
+      "id": "a647bae9-3c22-511d-b6c5-ee9173ceca96",
+      "payload": {
+        "point_id": "a647bae9-3c22-511d-b6c5-ee9173ceca96",
+        "doc_id": "scikit-learn_002",
+        "doc_order": 2,
+        "chunk_index": 10,
+        "total_chunks": 13,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline)",
+        "section": "Access the fitted scaler or classifier",
+        "breadcrumb": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline) > Access the fitted scaler or classifier",
+        "source_url": "https://scikit-learn.org/stable/modules/compose.html#pipeline",
+        "content": "## Access the fitted scaler or classifier\n\nscaler_step = pipeline.named_steps['scaler']\nclassifier_step = pipeline.named_steps['classifier']",
+        "char_count": 140,
+        "token_estimate": 35
+      }
+    },
+    {
+      "id": "37ab9f6b-a922-5c92-8892-a14950beb0af",
+      "payload": {
+        "point_id": "37ab9f6b-a922-5c92-8892-a14950beb0af",
+        "doc_id": "scikit-learn_002",
+        "doc_order": 2,
+        "chunk_index": 11,
+        "total_chunks": 13,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline)",
+        "section": "Inspect coefficients from the classifier",
+        "breadcrumb": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline) > Inspect coefficients from the classifier",
+        "source_url": "https://scikit-learn.org/stable/modules/compose.html#pipeline",
+        "content": "## Inspect coefficients from the classifier\n\nprint(\"Learned Coefficients:\", classifier_step.coef_)\n```",
+        "char_count": 102,
+        "token_estimate": 25
+      }
+    },
+    {
+      "id": "53d38261-5b70-5bae-83d8-f0e4015b81b5",
+      "payload": {
+        "point_id": "53d38261-5b70-5bae-83d8-f0e4015b81b5",
+        "doc_id": "scikit-learn_002",
+        "doc_order": 2,
+        "chunk_index": 12,
+        "total_chunks": 13,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline)",
+        "section": "Hyperparameter Tuning with Pipeline",
+        "breadcrumb": "Pipelines and Feature Preprocessing in scikit-learn (StandardScaler, Pipeline) > Inspect coefficients from the classifier > Hyperparameter Tuning with Pipeline",
+        "source_url": "https://scikit-learn.org/stable/modules/compose.html#pipeline",
+        "content": "## Hyperparameter Tuning with Pipeline\n\nTo tune parameters of steps inside a pipeline with `GridSearchCV`, prefix the parameter name with the step name followed by double underscores (`<step_name>__<parameter_name>`):\n\n```python\nfrom sklearn.model_selection import GridSearchCV\n\nparam_grid = {\n    'scaler__with_mean': [True, False],\n    'classifier__C': [0.01, 0.1, 1.0, 10.0],\n    'classifier__solver': ['lbfgs', 'liblinear']\n}\n\ngrid = GridSearchCV(pipeline, param_grid, cv=5)\ngrid.fit(X_train, y_train)\nprint(\"Best parameters:\", grid.best_params_)\n```",
+        "char_count": 554,
+        "token_estimate": 138
+      }
+    },
+    {
+      "id": "abc612b5-7681-5dfc-a670-880ac3824ecc",
+      "payload": {
+        "point_id": "abc612b5-7681-5dfc-a670-880ac3824ecc",
+        "doc_id": "scikit-learn_003",
+        "doc_order": 3,
+        "chunk_index": 0,
+        "total_chunks": 9,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Classification and Regression Estimators in scikit-learn",
+        "section": "Supervised Classification and Regression in scikit-learn",
+        "breadcrumb": "Classification and Regression Estimators in scikit-learn > Supervised Classification and Regression in scikit-learn",
+        "source_url": "https://scikit-learn.org/stable/supervised_learning.html",
+        "content": "## Supervised Classification and Regression in scikit-learn\n\nSource: https://scikit-learn.org/stable/supervised_learning.html\n\n---",
+        "char_count": 130,
+        "token_estimate": 32
+      }
+    },
+    {
+      "id": "1f7eb7ba-c8e2-532f-a320-951dc8037f0a",
+      "payload": {
+        "point_id": "1f7eb7ba-c8e2-532f-a320-951dc8037f0a",
+        "doc_id": "scikit-learn_003",
+        "doc_order": 3,
+        "chunk_index": 1,
+        "total_chunks": 9,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Classification and Regression Estimators in scikit-learn",
+        "section": "Logistic Regression Classifier",
+        "breadcrumb": "Classification and Regression Estimators in scikit-learn > Supervised Classification and Regression in scikit-learn > Logistic Regression Classifier",
+        "source_url": "https://scikit-learn.org/stable/supervised_learning.html",
+        "content": "## Logistic Regression Classifier\n\n`LogisticRegression` is a linear model for classification that models probabilities using a logistic (sigmoid) function.\n\n```python\nfrom sklearn.linear_model import LogisticRegression\nfrom sklearn.metrics import accuracy_score, classification_report",
+        "char_count": 284,
+        "token_estimate": 71
+      }
+    },
+    {
+      "id": "ab7c9710-10cc-5454-977b-c881da611857",
+      "payload": {
+        "point_id": "ab7c9710-10cc-5454-977b-c881da611857",
+        "doc_id": "scikit-learn_003",
+        "doc_order": 3,
+        "chunk_index": 2,
+        "total_chunks": 9,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Classification and Regression Estimators in scikit-learn",
+        "section": "Initialize model with L2 regularization",
+        "breadcrumb": "Classification and Regression Estimators in scikit-learn > Initialize model with L2 regularization",
+        "source_url": "https://scikit-learn.org/stable/supervised_learning.html",
+        "content": "## Initialize model with L2 regularization\n\nclf = LogisticRegression(C=1.0, solver='lbfgs', max_iter=200, random_state=42)",
+        "char_count": 122,
+        "token_estimate": 30
+      }
+    },
+    {
+      "id": "e0ce47c6-fcd6-53b6-8f57-d99ce283cee5",
+      "payload": {
+        "point_id": "e0ce47c6-fcd6-53b6-8f57-d99ce283cee5",
+        "doc_id": "scikit-learn_003",
+        "doc_order": 3,
+        "chunk_index": 3,
+        "total_chunks": 9,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Classification and Regression Estimators in scikit-learn",
+        "section": "Train estimator",
+        "breadcrumb": "Classification and Regression Estimators in scikit-learn > Train estimator",
+        "source_url": "https://scikit-learn.org/stable/supervised_learning.html",
+        "content": "## Train estimator\n\nclf.fit(X_train, y_train)",
+        "char_count": 45,
+        "token_estimate": 11
+      }
+    },
+    {
+      "id": "8384544b-46c4-562b-919d-2aafe7c27496",
+      "payload": {
+        "point_id": "8384544b-46c4-562b-919d-2aafe7c27496",
+        "doc_id": "scikit-learn_003",
+        "doc_order": 3,
+        "chunk_index": 4,
+        "total_chunks": 9,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Classification and Regression Estimators in scikit-learn",
+        "section": "Predict class labels",
+        "breadcrumb": "Classification and Regression Estimators in scikit-learn > Predict class labels",
+        "source_url": "https://scikit-learn.org/stable/supervised_learning.html",
+        "content": "## Predict class labels\n\npredictions = clf.predict(X_test)",
+        "char_count": 58,
+        "token_estimate": 14
+      }
+    },
+    {
+      "id": "500db688-b815-55dc-8b78-497ebdb028e1",
+      "payload": {
+        "point_id": "500db688-b815-55dc-8b78-497ebdb028e1",
+        "doc_id": "scikit-learn_003",
+        "doc_order": 3,
+        "chunk_index": 5,
+        "total_chunks": 9,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Classification and Regression Estimators in scikit-learn",
+        "section": "Predict probability estimates",
+        "breadcrumb": "Classification and Regression Estimators in scikit-learn > Predict probability estimates",
+        "source_url": "https://scikit-learn.org/stable/supervised_learning.html",
+        "content": "## Predict probability estimates\n\nprobabilities = clf.predict_proba(X_test)\n\nprint(\"Classification Report:\")\nprint(classification_report(y_test, predictions))\n```",
+        "char_count": 162,
+        "token_estimate": 40
+      }
+    },
+    {
+      "id": "3875ad1f-d585-5fb7-961e-640034b78778",
+      "payload": {
+        "point_id": "3875ad1f-d585-5fb7-961e-640034b78778",
+        "doc_id": "scikit-learn_003",
+        "doc_order": 3,
+        "chunk_index": 6,
+        "total_chunks": 9,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Classification and Regression Estimators in scikit-learn",
+        "section": "Key Parameters of LogisticRegression",
+        "breadcrumb": "Classification and Regression Estimators in scikit-learn > Predict probability estimates > Key Parameters of LogisticRegression",
+        "source_url": "https://scikit-learn.org/stable/supervised_learning.html",
+        "content": "## Key Parameters of LogisticRegression\n\n- `penalty`: Regularization norm (`'l1'`, `'l2'`, `'elasticnet'`, or `None`). Default is `'l2'`.\n- `C`: Inverse of regularization strength (float, default=1.0). Smaller values specify stronger regularization.\n- `solver`: Optimization algorithm (`'lbfgs'`, `'liblinear'`, `'saga'`). `'lbfgs'` handles multinomial loss and multiclass classification.\n- `max_iter`: Maximum number of iterations taken for the solvers to converge (default=100).\n- `random_state`: Seed used by the random number generator.\n\n---",
+        "char_count": 545,
+        "token_estimate": 136
+      }
+    },
+    {
+      "id": "153e6a57-289a-5105-9930-d38c96a8405b",
+      "payload": {
+        "point_id": "153e6a57-289a-5105-9930-d38c96a8405b",
+        "doc_id": "scikit-learn_003",
+        "doc_order": 3,
+        "chunk_index": 7,
+        "total_chunks": 9,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Classification and Regression Estimators in scikit-learn",
+        "section": "Random Forest Classifier",
+        "breadcrumb": "Classification and Regression Estimators in scikit-learn > Predict probability estimates > Random Forest Classifier",
+        "source_url": "https://scikit-learn.org/stable/supervised_learning.html",
+        "content": "## Random Forest Classifier\n\n`RandomForestClassifier` is an ensemble learning method that fits multiple decision tree classifiers on various sub-samples of the dataset and averages their predictions to improve accuracy and control overfitting.\n\n```python\nfrom sklearn.ensemble import RandomForestClassifier\n\nrf = RandomForestClassifier(n_estimators=100, max_depth=10, random_state=42)\nrf.fit(X_train, y_train)\ny_pred = rf.predict(X_test)",
+        "char_count": 437,
+        "token_estimate": 109
+      }
+    },
+    {
+      "id": "d24368ef-9862-5b96-9ddf-b7a0056c05b3",
+      "payload": {
+        "point_id": "d24368ef-9862-5b96-9ddf-b7a0056c05b3",
+        "doc_id": "scikit-learn_003",
+        "doc_order": 3,
+        "chunk_index": 8,
+        "total_chunks": 9,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Classification and Regression Estimators in scikit-learn",
+        "section": "Feature importances",
+        "breadcrumb": "Classification and Regression Estimators in scikit-learn > Feature importances",
+        "source_url": "https://scikit-learn.org/stable/supervised_learning.html",
+        "content": "## Feature importances\n\nprint(\"Feature Importances:\", rf.feature_importances_)\n```",
+        "char_count": 82,
+        "token_estimate": 20
+      }
+    },
+    {
+      "id": "e25ac32b-1cc7-5fbb-9356-3e0fef99ecd7",
+      "payload": {
+        "point_id": "e25ac32b-1cc7-5fbb-9356-3e0fef99ecd7",
+        "doc_id": "scikit-learn_004",
+        "doc_order": 4,
+        "chunk_index": 0,
+        "total_chunks": 4,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Model Selection and Evaluation in scikit-learn (train_test_split, cross-validation, metrics)",
+        "section": "Model Selection and Evaluation in scikit-learn",
+        "breadcrumb": "Model Selection and Evaluation in scikit-learn (train_test_split, cross-validation, metrics) > Model Selection and Evaluation in scikit-learn",
+        "source_url": "https://scikit-learn.org/stable/model_selection.html",
+        "content": "## Model Selection and Evaluation in scikit-learn\n\nSource: https://scikit-learn.org/stable/model_selection.html\n\n---",
+        "char_count": 116,
+        "token_estimate": 29
+      }
+    },
+    {
+      "id": "73f61e5b-88be-58ca-9c24-e9422436bbc8",
+      "payload": {
+        "point_id": "73f61e5b-88be-58ca-9c24-e9422436bbc8",
+        "doc_id": "scikit-learn_004",
+        "doc_order": 4,
+        "chunk_index": 1,
+        "total_chunks": 4,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Model Selection and Evaluation in scikit-learn (train_test_split, cross-validation, metrics)",
+        "section": "Train/Test Data Splitting",
+        "breadcrumb": "Model Selection and Evaluation in scikit-learn (train_test_split, cross-validation, metrics) > Model Selection and Evaluation in scikit-learn > Train/Test Data Splitting",
+        "source_url": "https://scikit-learn.org/stable/model_selection.html",
+        "content": "## Train/Test Data Splitting\n\n`train_test_split` splits arrays or matrices into random train and test subsets with optional stratified sampling:\n\n```python\nfrom sklearn.model_selection import train_test_split\n\nX_train, X_test, y_train, y_test = train_test_split(\n    X, y,\n    test_size=0.25,\n    random_state=42,\n    stratify=y  # Preserves class proportions in train and test splits\n)\n```\n\n---",
+        "char_count": 395,
+        "token_estimate": 98
+      }
+    },
+    {
+      "id": "88d5ee77-d700-562a-b570-8b5dfca1e5e5",
+      "payload": {
+        "point_id": "88d5ee77-d700-562a-b570-8b5dfca1e5e5",
+        "doc_id": "scikit-learn_004",
+        "doc_order": 4,
+        "chunk_index": 2,
+        "total_chunks": 4,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Model Selection and Evaluation in scikit-learn (train_test_split, cross-validation, metrics)",
+        "section": "K-Fold Cross-Validation",
+        "breadcrumb": "Model Selection and Evaluation in scikit-learn (train_test_split, cross-validation, metrics) > Model Selection and Evaluation in scikit-learn > K-Fold Cross-Validation",
+        "source_url": "https://scikit-learn.org/stable/model_selection.html",
+        "content": "## K-Fold Cross-Validation\n\nCross-validation provides an estimate of model performance on unseen data by training and testing on multiple partitions:\n\n```python\nfrom sklearn.model_selection import cross_val_score\nfrom sklearn.linear_model import LogisticRegression\n\nmodel = LogisticRegression(max_iter=500)\nscores = cross_val_score(model, X, y, cv=5, scoring='accuracy')\n\nprint(f\"5-Fold CV Accuracy: {scores.mean():.4f} +/- {scores.std():.4f}\")\n```\n\n---",
+        "char_count": 453,
+        "token_estimate": 113
+      }
+    },
+    {
+      "id": "28a9ea9c-aae8-511f-8bf1-637372b4debc",
+      "payload": {
+        "point_id": "28a9ea9c-aae8-511f-8bf1-637372b4debc",
+        "doc_id": "scikit-learn_004",
+        "doc_order": 4,
+        "chunk_index": 3,
+        "total_chunks": 4,
+        "technology": "scikit-learn",
+        "category": "ML & Data",
+        "title": "Model Selection and Evaluation in scikit-learn (train_test_split, cross-validation, metrics)",
+        "section": "Evaluation Metrics",
+        "breadcrumb": "Model Selection and Evaluation in scikit-learn (train_test_split, cross-validation, metrics) > Model Selection and Evaluation in scikit-learn > Evaluation Metrics",
+        "source_url": "https://scikit-learn.org/stable/model_selection.html",
+        "content": "## Evaluation Metrics\n\n```python\nfrom sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix\n\ny_pred = model.predict(X_test)\n\nacc = accuracy_score(y_test, y_pred)\nf1 = f1_score(y_test, y_pred, average='weighted')\ncm = confusion_matrix(y_test, y_pred)\n\nprint(f\"Accuracy: {acc:.4f}\")\nprint(f\"F1 Score: {f1:.4f}\")\nprint(\"Confusion Matrix:\\n\", cm)\n```",
+        "char_count": 389,
+        "token_estimate": 97
+      }
+    }
+  ]
+}

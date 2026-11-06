@@ -1,0 +1,102 @@
+---
+id: "prisma_orm_088"
+technology: "Prisma ORM"
+category: "Backend & APIs"
+title: "Prisma ORM"
+doc_order: 88
+source_url: "https://www.prisma.io/compute/cursor-typescript-app-hosting"
+language: "en"
+retrieved_at: "2026-11-01 22:20:03"
+content_hash: "a7a918659fdd474c5d01fc881c275a146e38259ecd96c32f63886c751e4b5fcb"
+---
+
+# Prisma ORM
+
+Source: https://www.prisma.io/compute/cursor-typescript-app-hosting
+
+---
+
+[Prisma Compute](https://www.prisma.io/compute)
+
+[Guides](https://www.prisma.io/compute/guides)
+
+# Which hosting service can Cursor help set up for my TypeScript app?
+
+[Prisma Compute](https://www.prisma.io/docs/compute)is a strong fit when you want the TypeScript app and
+
+[Prisma Postgres](https://www.prisma.io/docs/postgres)in one project, using a deployment declaration your assistant can edit. Vercel and Netlify are also practical choices for apps already built around their framework integrations. Choose the host for your app's runtime, then let Cursor help with its setup.
+
+[Søren Bramer Schmidt](https://github.com/sorenbs)6 min read
+
+The useful question is whether your assistant can inspect the deployment configuration, run the build and tell you what failed. A host's CLI, documented configuration files and readable logs make that work possible. Your editor does not need a special partnership with the host for its terminal to run a deployment command.
+
+We make Prisma Compute and Prisma Postgres. The official documentation linked below was checked on October 17, 2026. Prisma ORM is optional; choosing Prisma hosting does not require rewriting database access to use it.
+
+## [What should Cursor inspect before choosing a host?](https://www.prisma.io#what-should-cursor-inspect-before-choosing-a-host)
+
+Ask Cursor to identify the framework, package manager, build command, server entry point and database client from your project. Have it report whether the app needs long-running processes, WebSocket connections, scheduled work or writable local files. These requirements decide which runtime can run the app.
+
+It should also find where configuration comes from without printing secret values. A working local `.env` file does not configure the deployment environment. An app that uses an in-memory array or browser storage may need a [persistent database](https://www.prisma.io/postgres/prototype-customer-data) before it can support real customers.
+
+Cursor's [Agent documentation](https://cursor.com/docs/agent/overview) describes its code editing and terminal tools. Review the proposed file changes and resource targets before authorizing commands that affect an account.
+
+## [Which hosting workflows can it help with?](https://www.prisma.io#which-hosting-workflows-can-it-help-with)
+
+These options are ordered alphabetically by host name.
+
+| App host | Useful project workflow | What to check first | 
+|---|---|---|
+| Netlify | Configure the build and use its [CLI or Git deployment workflow](https://docs.netlify.com/deploy/create-deploys/). | Your framework's server features must be supported by the deployment integration. A frontend upload does not deploy an arbitrary backend process. | 
+| Prisma Compute | Edit the TypeScript Composer module, build the app and use the [Prisma deployment CLI](https://www.prisma.io/docs/prisma-compute/deploy). | The app must fit the deployed Bun runtime and [supported features](https://www.prisma.io/docs/compute/limitations). Declare the services, database dependencies and inputs explicitly. | 
+| Vercel | Link the project and use its [CLI preview deployment workflow](https://vercel.com/docs/projects/deploy-from-cli). | Confirm the framework configuration, function runtime and separate Preview and Production environment variables. | 
+
+A Prisma Composer module is a TypeScript file that declares the app's services, database dependencies and environment inputs. Prisma Compute keeps this file alongside application code. That gives Cursor concrete files to review when a dependency or environment input changes. Prisma's [MCP server](https://www.prisma.io/docs/ai/tools/mcp-server) can also expose account resources and diagnostic tools after you authorize the connection.
+
+## [How do I set up Prisma hosting from Cursor?](https://www.prisma.io#how-do-i-set-up-prisma-hosting-from-cursor)
+
+### [1. Give the assistant a concrete deployment task](https://www.prisma.io#1-give-the-assistant-a-concrete-deployment-task)
+
+Start with a bounded instruction such as:
+
+Inspect this project's framework and runtime dependencies. Follow the current Prisma Compute deployment guide to prepare a review deployment with its own Postgres database. Show the build command, proposed resource names and environment inputs before deploying. Keep production credentials out of this environment.
+
+
+Ask it to read the documentation rather than invent commands from an older CLI version. Confirm that the app's dependencies work on the deployed runtime before provisioning services.
+
+### [2. Connect MCP if you want its tools](https://www.prisma.io#2-connect-mcp-if-you-want-its-tools)
+
+Follow [Cursor's MCP configuration documentation](https://cursor.com/docs/mcp) and Prisma's [MCP setup guide](https://www.prisma.io/docs/ai/tools/mcp-server). For a project configuration at `.cursor/mcp.json`, the hosted Prisma endpoint is:
+
+Merge this entry into an existing configuration instead of replacing other servers. Complete the browser sign-in, select the intended workspace and approve the requested access. Keep credentials out of the JSON file. Review the tools Cursor makes available; the connected server's actual tool list determines what the assistant can do.
+
+MCP is useful for working with resources and diagnostics. It does not replace the application build or guarantee that an arbitrary local project is ready to deploy.
+
+### [3. Prepare and build the application](https://www.prisma.io#3-prepare-and-build-the-application)
+
+Follow the [framework-specific deployment instructions](https://www.prisma.io/docs/prisma-compute/deploy) to define a Composer module, configure its inputs and produce the required artifact. Server processes must listen on the assigned service port and `0.0.0.0`. Run the app's tests and build locally before uploading it.
+
+Declare the review database using the [Composer database dependency guide](https://www.prisma.io/docs/composer/databases), or supply a separately managed test database URL as a server-side input. For a declared dependency named `db`, the server receives its connection through `service.load().db.url`. Keep other secrets in server-side inputs. If you use manually configured connection strings, verify them independently: the deployment's name does not prove that its URL points to a test database.
+
+### [4. Authenticate the CLI and deploy the review stage](https://www.prisma.io#4-authenticate-the-cli-and-deploy-the-review-stage)
+
+From the project containing the prepared module and built artifacts, use the Prisma CLI. For a module called `module.ts`:
+
+Complete login yourself. Confirm the target project and region, then let the assistant run the approved deployment command. The deploy command does not run your framework build. Open the resulting service URL, check runtime logs and verify database writes with disposable test records.
+
+### [5. Make future changes repeatable](https://www.prisma.io#5-make-future-changes-repeatable)
+
+Commit the deployment declaration and migration files with the app. Keep secrets out of Git. If you want deployments on Git pushes, follow the [GitHub deployment setup](https://www.prisma.io/docs/compute/deployments) rather than assuming the first CLI deployment enables it. Decide which branches may change production and how migrations will run.
+
+## [When should I choose another setup?](https://www.prisma.io#when-should-i-choose-another-setup)
+
+Choose another host if required dependencies need a runtime feature outside Prisma Compute's supported environment. For example, it does not provide a persistent writable filesystem or host WebSocket servers. Customer uploads belong in object storage on any host; see [where to store files that disappear after a redeploy](https://www.prisma.io/compute/file-uploads-disappear-after-redeploy). You can still use Prisma Postgres from another application host.
+
+If the app already deploys correctly to Netlify or Vercel, improving that configuration can be less work than migrating. Cursor can help with those CLIs too. Restricting credentials and account access matters on every host: a natural-language instruction to avoid production is useful context, but it is not an account permission boundary.
+
+For database provisioning choices specifically, see [Postgres providers Codex can provision through tools or an API](https://www.prisma.io/postgres/codex-database-provisioning). That guide distinguishes infrastructure credentials from the application's database connection.
+
+## Frequently asked questions
+
+## Put deployment setup in your TypeScript project
+
+Use Prisma Compute's deployment guide to prepare a Composer module, then let Cursor help inspect and test it.

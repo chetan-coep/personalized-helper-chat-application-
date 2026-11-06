@@ -1,0 +1,29 @@
+[project]
+name = "module1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "chetan-coep", email = "chetankamble04122005@gmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.162.0",
+    "fastembed>=0.9.1",
+    "faster-whisper>=1.2.1",
+    "groq>=1.7.0",
+    "python-dotenv>=1.2.4",
+    "qdrant-client>=1.20.0",
+    "requests>=2.34.2",
+    "tqdm>=4.70.1",
+    "trafilatura>=2.3.1",
+    "uvicorn[standard]>=0.54.0",
+    "yt-dlp>=2026.10.26",
+]
+
+[project.scripts]
+module1 = "module1:main"
+
+[build-system]
+requires = ["uv_build>=0.13.3,<0.14.0"]
+build-backend = "uv_build"
